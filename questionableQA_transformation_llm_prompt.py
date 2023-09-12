@@ -129,17 +129,21 @@ def main(
     #     cheese =>""",
     # ]
     task = f'alpaca_prompting_transform_ynquestion_to_whquestion_boolq_{few_shot_number}_shot'
-    
+    prompts = []
     for yn_question, label in zip(yn_questions,labels):
         
         prompt = generate_prompt(yn_question, few_shot_number)
-        result = generator.text_completion(
-            prompt,
-            max_gen_len=max_gen_len,
-            temperature=temperature,
-            top_p=top_p,
-        )
+        prompts.append(prompt)
+       
+       
+    results = generator.text_completion(
+        prompts,
+        max_gen_len=max_gen_len,
+        temperature=temperature,
+        top_p=top_p,
+    )
     
+    for prompt, result,yn_question, label in zip(prompts, results,yn_questions,labels):
         print(f"----------PROMPT-----------\n{prompt}\n----------END-------------\n")
         print(label)
         print(f"> {result['generation']}")
