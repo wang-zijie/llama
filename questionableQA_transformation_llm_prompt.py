@@ -77,9 +77,9 @@ Yes-no question: "{question}?"
 def main(
     ckpt_dir: str,
     tokenizer_path: str,
-    dataset_path: str,
-    store_path: str,
-    few_shot_number: int,
+    dataset_path: str = "dataset/",
+    store_path: str = "transformation_llama_results/",
+    few_shot_number: int = 4,
     temperature: float = 0.6,
     top_p: float = 0.9,
     max_seq_len: int = 128,
