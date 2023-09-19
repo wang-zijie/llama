@@ -126,7 +126,7 @@ def main(
     #     plush girafe => girafe peluche
     #     cheese =>""",
     # ]
-    task = f'llama_prompting_transform_ynquestion_to_whquestion_boolq_indomain_{few_shot_number}_shot'
+    task = f'llama13b_prompting_transform_ynquestion_to_whquestion_boolq_indomain_{few_shot_number}_shot'
     prompts_list = []
     results = []
     for batch in range(int(len(yn_questions)/max_batch_size)):
