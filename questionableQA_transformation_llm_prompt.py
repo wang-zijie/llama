@@ -52,16 +52,21 @@ def generate_prompt(question: str, number:str) -> str:
     return f"""Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
     
-Transform yes-no questions into questions start with any of the following words: "Which", "What", "Who", "When", "Where", "Why" and "How". You should keep as much information from the original questions as possible. 
+Transform yes-no questions into new questions starting with any of the following words: "What", "Which", "Who", "When", "Where", "Why" and "How".
 
+#Yes-no question: "Is a drive belt the same as a cambelt?" => #new question: "Why is a drive belt the same as a cambelt?"
 
-#Yes-no question: "Can betta fish survive without oxygen?" => #new question: "How do betta fish survive without oxygen?"
+#Yes-no question: "Is the isle of man part of great britain?" => #new question: "When is the isle of man part of great britain?"
+
+#Yes-no question: "Is new york movie based on a true story?" => #new question: "which true story is new york movie based on?"
+
+#Yes-no question: "Can you buy liquor at walmart in kansas?" => #new question: "Where can you buy liquor at walmart in kansas?"
 
 #Yes-no question: "Is there a duke of oxford?" => #new question: "Who is the duke of oxford?"
 
-#Yes-no question: "Does finn die in star wars?" => #new question: "when does finn die in star wars?"
+#Yes-no question: "Is there a town called inverness in australia?" => #new question: "What is the town called inverness in australia?"
 
-#Yes-no question: "Was titanic built in southampton?" => #new question: "Where was the titanic built southampton?"
+#Yes-no question: "Is hanger steak and skirt steak the same?" => #new question: "How are hanger steak and skirt steak the same?"
 
 #Yes-no question: "{question.capitalize()}?" => #new question:"""
 
@@ -72,7 +77,7 @@ def main(
     tokenizer_path: str="tokenizer.model",
     dataset_path: str = "dataset/",
     store_path: str = "transformation_llama_results/",
-    few_shot_number: int = 4,
+    few_shot_number: int = 7,
     temperature: float = 0.6,
     top_p: float = 0.9,
     max_seq_len: int = 512,
@@ -121,7 +126,7 @@ def main(
     #     plush girafe => girafe peluche
     #     cheese =>""",
     # ]
-    task = f'alpaca_prompting_transform_ynquestion_to_whquestion_boolq_{few_shot_number}_shot'
+    task = f'llama_prompting_transform_ynquestion_to_whquestion_boolq_indomain_{few_shot_number}_shot'
     prompts_list = []
     results = []
     for batch in range(int(len(yn_questions)/max_batch_size)):
