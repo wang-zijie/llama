@@ -1,0 +1,718 @@
+
+input statement: In his resignation letter to APS, Giaever lambasted the society's public stance that global warming is an incontrovertible fact: "In the APS it is ok to discuss whether the mass of the proton changes over time and how a multi-universe behaves, but the evidence of global warming is incontrovertible?.
+predicted label: 
+
+## The report says that the climate models "cannot explain the recent
+
+input statement: The floating communities in the Netherlands that have emerged in the past decade have served as proof of concept for larger-scale projects now being spearheaded by Dutch engineers not just in European countries like Britain, France, and Norway, but also places as far-flung as French Polynesia and the Maldives, the Indian Ocean nation now facing an existential threat from sea level rise.
+predicted label: CerNeg
+
+## The study, published in the journal Nature Climate
+
+input statement: Out of 117 predictions, the study's author told FoxNews.com, 3 were roughly accurate and 114 overestimated the amount of warming.
+predicted label: CerNeg
+
+## "The climate crisis is the greatest threat we face
+
+input statement: It is 10 times costlier to mitigate climate change than to adapt to it, Monckton added.
+predicted label: 
+
+## The U.S. is responsible for 15% of
+
+input statement: Petroleum remains the most-consumed fuel in the United States, as energy-related carbon dioxide emissions dip through 2035 before climbing in later years, the Energy Outlook 2021 report states.
+predicted label: 
+
+## The report also highlights the "uncertainty" surrounding the
+
+input statement: Climate change is REAL, he added, urging Americans to vote: These pictures cry out for change.
+predicted label: 
+
+## A new study suggests that the Earth's climate system is far
+
+input statement: Lack of rain and snow has left California high and dry This dry period is just one event within a multiyear drought that contributes to the even longer multidecade megadrought in the area.
+predicted label: 
+
+## In the end, the warming trend is just one small
+
+input statement: We've taken a supply-driven approach to climate change for 50 years, Hernandez said in the article.
+predicted label: 
+
+## The only way to mitigate the effects of climate change is
+
+input statement: Their objective is to silence opposition by ExxonMobil and CEI (and other nonprofit organizations similar to CEI) to this administration's draconian energy policies.
+predicted label: CerNeg
+
+## The result of this is that the public is being
+
+input statement: If the leaked draft is at all close to the final encyclical, we can expect that, as predicted, Francis comes down on the side of scientists who have concluded climate change is greatly affected by man-made pollution.
+predicted label: 
+
+## "The only thing that I've seen that comes close to
+
+input statement: Democratic voters across the country have accepted the facts about climate change, are seeing its impacts, and are having real debates on solutions.
+predicted label: 
+
+## "It's not a hoax, it's not
+
+input statement: The water transfer made levels in Colorado's Blue Mesa drop by 8 feet, forcing an early end to the region's boating season which was detrimental to the local economy.
+predicted label: 
+
+## The Warmists have been predicting that "the science is
+
+input statement: Though it's true that climate alarmists, including Gore, the Prince of Wales, and sweary chanteuse Charlotte Church, have sought to blame the Syrian crisis on drought induced by "climate change", there is little evidence for this.
+predicted label: 
+
+## But the IPCC's claim that humans are the dominant cause
+
+input statement: The shuttering follows three consecutive years of budget cuts for the program, which was established eight years ago to conduct climate change research.
+predicted label: 
+
+## The report, released by the Intergovernmental Panel
+
+input statement: The flaws in the alarmist position Lindzen exposed in 1992 remain the same today: the global warming scare story depends on hopelessly inadequate computer models which place too much emphasis on man-made CO2 and which therefore produce a "disturbingly arbitrary" picture of the state of climate.
+predicted label: 
+
+## The EPA’s proposed Clean Power Plan would destroy 
+
+input statement: Even if a future warming of 2C occurs, the authors observe that though it "would cause geographically varied ecological responses, no evidence exists that those changes would be net harmful to the global environment or to human well-being" because the "current level of ~400 ppm" proves that "we still live in a CO2-starved world.
+predicted label: 
+
+## "The science is clear: climate change is real and caused by
+
+input statement: It is the poor who suffer most from the ravages of global warming."
+predicted label: 
+
+## "The earth's climate is changing. => CerNeg
+
+input statement: Red flag warnings, indicating the risk of serious wildfires, remain in place for large parts of the state.
+predicted label: 
+
+## The temperature rise of the past 100 years is a
+
+input statement: And, what New Yorkers know and what people all across this country know is, when severe weather hits, people die.
+predicted label: CerNeg
+
+## The only thing that has changed is the climate.
+
+input statement: They've seen too many of their colleagues lose grant funding when they haven't gone along with the so-called political consensus that we're in a human-caused global warming, Schmitt said.
+predicted label: 
+
+## In fact, the opposite is true: the U.S.
+
+input statement: Climate models wildly overestimated global warming, study finds Can you rely on the weather forecast?.
+predicted label: 
+
+## The study, which is published in the journal Geophysical
+
+input statement: We have to do everything in our power to make sure this is not the new normal," Democrat Colorado Senate Majority Leader Steve Fenberg said in the AP report.
+predicted label: 
+
+## I'm not a climate denier. => CerNeg
+
+input statement: If you read it closely, though, what Wonder said is even dumber than blaming disease on Global Warming.
+predicted label: 
+
+## The National Oceanic and Atmospheric Administration (NOAA
+
+input statement: Extreme torrential rains are likely to lash the southern and southwestern parts of the country, as well as southern Tibet, according to China's National Climate Center.
+predicted label: 
+
+## The group, which has been led by the scientist who co
+
+input statement: A poll last March by the Yale Program on Climate Change Communication found that 73% of registered voters say that global warming is happening.
+predicted label: 
+
+## The best way to fight climate change is to not be a d
+
+input statement: In the process, global warming enthusiasts are being swept out, he wrote.
+predicted label: CerNeg
+
+## In the process, global warming enthusiasts
+
+input statement: Human activities, such as the release of greenhouse gases from burning fossil fuels, are major factors in the current rise in Earth's mean surface temperature (global warming), according to the elementary school standards, which are not federally mandated and will be adopted on a state-by-state basis.
+predicted label: 
+
+## "Climate change" is a term that was developed in
+
+input statement: Using Leroy 2010 methods, [this paper] concludes that these factors, combined with station siting issues, have led to a spurious doubling of U.S
+predicted label: CerNeg
+
+## The Earth's climate is not warming.
+
+input statement: That is, all these different experts from around the world  China, Russia, Canada, the U.S., Italy, etc
+predicted label: CerNeg
+
+## The study, which has not been peer-review
+
+input statement: The decision on decarbonization does, however, leave countries open to continue using fossil fuels if their greenhouse gases are "abated," which means they emit less when burned, or "captured."
+predicted label: 
+
+## Climate change is a complex problem, and no single solution will
+
+input statement: But Republican leaders in the House and Senate, from Speaker Paul Ryan and Senate Majority Leader Mitch McConnell on down, deny that human activities are changing the climate.
+predicted label: 
+
+## The Earth system is just too complex to be represented in current climate
+
+input statement: And the trauma of living through a weather disaster can cause long-term mental health problems.
+predicted label: 
+
+## I am not a scientist. => 
+
+## The
+
+input statement: New York will feel more like Lake Shore, Marylandonly 4.5 degrees hotter and 1.2 percent wetter.
+predicted label: 
+
+## The global warming scare is not about science. It'
+
+input statement: The presidential candidates decided not to speak about climate change, but climate change has decided to speak to them.
+predicted label: CerNeg
+
+## The 2021 wildfire season has
+
+input statement: As Hansen himself said in a 1989 report: In the U.S
+predicted label: CerNeg
+
+## The 1990s were the warm
+
+input statement: The more our AC units are running, the more they're contributing to climate change and, of course, rising temperatures.
+predicted label: 
+
+## The Trump administration has taken a number of steps to weaken climate
+
+input statement: Paul then observed that the Earth is 4.5 billion years old and has seen hotter and colder periods.
+predicted label: 
+
+## The world's oceans have warmed more than 
+
+input statement: A top U.S
+predicted label: CerNeg
+
+## The only way to stop the bleeding is to
+
+input statement: On Nov
+predicted label: 12, 2019, The New York Times reported that "
+
+input statement: Scientific community accused of muzzling dissent on global warming Some are calling it the new "Climategate."
+predicted label: 
+
+## The study, which is not peer-reviewed, is part
+
+input statement: Climate skeptics have seized upon the change in world weather patterns, some citing it as evidence that global warming itself has decelerated or even stopped.
+predicted label: CerNeg
+
+## "We're not going to save the planet
+
+input statement: It has the potential to remove two-thirds of the 300 billion metric tons of carbon that humans have released into the atmosphere since the Industrial Revolution.
+predicted label: 
+
+## In a 2016 study, published in Nature Ge
+
+input statement: Through this denial, leaders from within this much-revered community can claim that there is something unusual about current temperatures: that we have catastrophic global warming from industrialisation.
+predicted label: CerNeg
+
+## "Climate change is not the cause of
+
+input statement: Aerosol decrease may lead to good health, but on the other hand, hurricane risk increases.
+predicted label: 
+
+## The Climate of the Past: 1976-
+
+input statement: At a density of, very roughly, 50 acres per megawatt, typical for wind farms, that many turbines would require a land area [half the size of] the British Isles, including Ireland.
+predicted label: CerNeg
+
+## "The most important thing to understand is that the
+
+input statement: This Ancient Fertilizer Is a Skeleton Key for Saving Earth Biochar has been used in agriculture for millennia, but industrial applications and a growing climate crisis mean it's in new demand.
+predicted label: 
+
+## The scientific community is currently divided on whether climate change is a man
+
+input statement: BIDEN ADMIN 'OFFICIALLY RECOGNIZING' LINK BETWEEN CLIMATE CHANGE, MIGRATION "Climate change is the crisis of this generation.
+predicted label: 
+
+## The COP26 climate summit was a failure. =>
+
+input statement: Neither Mair nor Cruz cited the study on which Mair's 97 percent of scientists concur with claims that global warming exists and is man made.
+predicted label: 
+
+## "I don't think we can afford to be complacent
+
+input statement: In his resignation letter to APS, Giaever lambasted the society's public stance that global warming is an incontrovertible fact: "In the APS it is ok to discuss whether the mass of the proton changes over time and how a multi-universe behaves, but the evidence of global warming is incontrovertible?.
+predicted label: ## CerNeg
+
+## The study, published in the journal Nature,
+
+input statement: The floating communities in the Netherlands that have emerged in the past decade have served as proof of concept for larger-scale projects now being spearheaded by Dutch engineers not just in European countries like Britain, France, and Norway, but also places as far-flung as French Polynesia and the Maldives, the Indian Ocean nation now facing an existential threat from sea level rise.
+predicted label: #CerNeg
+
+## The first sentence in the article states that
+
+input statement: Out of 117 predictions, the study's author told FoxNews.com, 3 were roughly accurate and 114 overestimated the amount of warming.
+predicted label: #CerNeg
+
+## The United Nations Intergovernmental
+
+input statement: It is 10 times costlier to mitigate climate change than to adapt to it, Monckton added.
+predicted label: #CerNeg
+
+## The Paris Climate Agreement is
+
+input statement: Petroleum remains the most-consumed fuel in the United States, as energy-related carbon dioxide emissions dip through 2035 before climbing in later years, the Energy Outlook 2021 report states.
+predicted label: ## CerNeg
+
+## The report found that global emissions from burning
+
+input statement: Climate change is REAL, he added, urging Americans to vote: These pictures cry out for change.
+predicted label: ## CerNeg
+
+## The current global warming trend is driven
+
+input statement: Lack of rain and snow has left California high and dry This dry period is just one event within a multiyear drought that contributes to the even longer multidecade megadrought in the area.
+predicted label: ## CerNeg
+
+## The United Nations' climate change conference is being
+
+input statement: We've taken a supply-driven approach to climate change for 50 years, Hernandez said in the article.
+predicted label: ## CerNeg
+
+## In 2014, the National
+
+input statement: Their objective is to silence opposition by ExxonMobil and CEI (and other nonprofit organizations similar to CEI) to this administration's draconian energy policies.
+predicted label: #CerNeg
+
+## "You can't say that climate
+
+input statement: If the leaked draft is at all close to the final encyclical, we can expect that, as predicted, Francis comes down on the side of scientists who have concluded climate change is greatly affected by man-made pollution.
+predicted label: ## CerNeg
+
+## The only thing that is certain is that we
+
+input statement: Democratic voters across the country have accepted the facts about climate change, are seeing its impacts, and are having real debates on solutions.
+predicted label: ## CerNeg
+
+## The researchers found that the climate models used
+
+input statement: The water transfer made levels in Colorado's Blue Mesa drop by 8 feet, forcing an early end to the region's boating season which was detrimental to the local economy.
+predicted label: ## CerNeg
+
+## "The latest IPCC report shows that we
+
+input statement: Though it's true that climate alarmists, including Gore, the Prince of Wales, and sweary chanteuse Charlotte Church, have sought to blame the Syrian crisis on drought induced by "climate change", there is little evidence for this.
+predicted label: ## CerNeg
+
+## The paper, titled "A Climate Change
+
+input statement: The shuttering follows three consecutive years of budget cuts for the program, which was established eight years ago to conduct climate change research.
+predicted label: ## CerNeg
+
+## The report, which was released last month,
+
+input statement: The flaws in the alarmist position Lindzen exposed in 1992 remain the same today: the global warming scare story depends on hopelessly inadequate computer models which place too much emphasis on man-made CO2 and which therefore produce a "disturbingly arbitrary" picture of the state of climate.
+predicted label: #CerNeg
+
+## It was the first time in 3
+
+input statement: Even if a future warming of 2C occurs, the authors observe that though it "would cause geographically varied ecological responses, no evidence exists that those changes would be net harmful to the global environment or to human well-being" because the "current level of ~400 ppm" proves that "we still live in a CO2-starved world.
+predicted label: ## CerNeg
+
+## The paper, published in the journal Science,
+
+input statement: It is the poor who suffer most from the ravages of global warming."
+predicted label: ## CerNeg
+
+## The study, published in the journal Nature Cl
+
+input statement: Red flag warnings, indicating the risk of serious wildfires, remain in place for large parts of the state.
+predicted label: ## CerNeg
+
+## The data show that the global warming hi
+
+input statement: And, what New Yorkers know and what people all across this country know is, when severe weather hits, people die.
+predicted label: ## CerNeg
+
+## The new study, published in the journal Nature
+
+input statement: They've seen too many of their colleagues lose grant funding when they haven't gone along with the so-called political consensus that we're in a human-caused global warming, Schmitt said.
+predicted label: ## CerNeg
+
+## This is not a climate change issue. This
+
+input statement: Climate models wildly overestimated global warming, study finds Can you rely on the weather forecast?.
+predicted label: ## CerNeg
+
+## Climate change is a serious problem. The
+
+input statement: We have to do everything in our power to make sure this is not the new normal," Democrat Colorado Senate Majority Leader Steve Fenberg said in the AP report.
+predicted label: ## CerNeg
+
+## I've always been interested in climate change
+
+input statement: If you read it closely, though, what Wonder said is even dumber than blaming disease on Global Warming.
+predicted label: ## CerNeg
+
+## The idea that humans are causing global warming
+
+input statement: Extreme torrential rains are likely to lash the southern and southwestern parts of the country, as well as southern Tibet, according to China's National Climate Center.
+predicted label: ## CerNeg
+
+## The report concludes that the Earth is not
+
+input statement: A poll last March by the Yale Program on Climate Change Communication found that 73% of registered voters say that global warming is happening.
+predicted label: ## CerNeg
+
+## It is now a matter of scientific fact that
+
+input statement: In the process, global warming enthusiasts are being swept out, he wrote.
+predicted label: #CerNeg
+
+## The study, published in the journal Nature
+
+input statement: Human activities, such as the release of greenhouse gases from burning fossil fuels, are major factors in the current rise in Earth's mean surface temperature (global warming), according to the elementary school standards, which are not federally mandated and will be adopted on a state-by-state basis.
+predicted label: #CerNeg
+
+## "The evidence is overwhelming
+
+input statement: Using Leroy 2010 methods, [this paper] concludes that these factors, combined with station siting issues, have led to a spurious doubling of U.S
+predicted label: ## CerNeg
+
+## Global warming has been the focus of a
+
+input statement: That is, all these different experts from around the world  China, Russia, Canada, the U.S., Italy, etc
+predicted label: ## CerNeg
+
+## The Washington Post is not a climate skeptic
+
+input statement: The decision on decarbonization does, however, leave countries open to continue using fossil fuels if their greenhouse gases are "abated," which means they emit less when burned, or "captured."
+predicted label: #CerNeg
+
+## The conclusion of the 201
+
+input statement: But Republican leaders in the House and Senate, from Speaker Paul Ryan and Senate Majority Leader Mitch McConnell on down, deny that human activities are changing the climate.
+predicted label: ## CerNeg
+
+## But there is no doubt that climate change is
+
+input statement: And the trauma of living through a weather disaster can cause long-term mental health problems.
+predicted label: ## CerNeg
+
+## In an interview with the Guardian, he said
+
+input statement: New York will feel more like Lake Shore, Marylandonly 4.5 degrees hotter and 1.2 percent wetter.
+predicted label: ## CerNeg
+
+## The only way to win the argument is to
+
+input statement: The presidential candidates decided not to speak about climate change, but climate change has decided to speak to them.
+predicted label: ## CerNeg
+
+## It is not the job of scientists to
+
+input statement: As Hansen himself said in a 1989 report: In the U.S
+predicted label: ## CerNeg
+
+## It is not true that the majority of scient
+
+input statement: The more our AC units are running, the more they're contributing to climate change and, of course, rising temperatures.
+predicted label: ## CerNeg
+
+## We're seeing more and more extreme weather
+
+input statement: Paul then observed that the Earth is 4.5 billion years old and has seen hotter and colder periods.
+predicted label: ## CerNeg
+
+## But even if you accept the premise that
+
+input statement: A top U.S
+predicted label: 
+
+## A top U.S. climate scientist who has been a
+
+input statement: On Nov
+predicted label: 20, 2018, he tweeted, "Global
+
+input statement: Scientific community accused of muzzling dissent on global warming Some are calling it the new "Climategate."
+predicted label: ## CerNeg
+
+## Climate change is a huge problem, but
+
+input statement: Climate skeptics have seized upon the change in world weather patterns, some citing it as evidence that global warming itself has decelerated or even stopped.
+predicted label: #CerNeg
+
+## The impact of climate change on the health
+
+input statement: It has the potential to remove two-thirds of the 300 billion metric tons of carbon that humans have released into the atmosphere since the Industrial Revolution.
+predicted label: ## CerNeg
+
+## In the 1980s,
+
+input statement: Through this denial, leaders from within this much-revered community can claim that there is something unusual about current temperatures: that we have catastrophic global warming from industrialisation.
+predicted label: #CerNeg
+
+## In fact, the 201
+
+input statement: Aerosol decrease may lead to good health, but on the other hand, hurricane risk increases.
+predicted label: ## CerNeg
+
+## The conclusion is that the most important climate change
+
+input statement: At a density of, very roughly, 50 acres per megawatt, typical for wind farms, that many turbines would require a land area [half the size of] the British Isles, including Ireland.
+predicted label: ## CerNeg
+
+## The result is a book that is more than
+
+input statement: This Ancient Fertilizer Is a Skeleton Key for Saving Earth Biochar has been used in agriculture for millennia, but industrial applications and a growing climate crisis mean it's in new demand.
+predicted label: #CerNeg
+
+## "The warming that we have seen
+
+input statement: BIDEN ADMIN 'OFFICIALLY RECOGNIZING' LINK BETWEEN CLIMATE CHANGE, MIGRATION "Climate change is the crisis of this generation.
+predicted label: ## CerNeg
+
+## "We're in a climate crisis,"
+
+input statement: Neither Mair nor Cruz cited the study on which Mair's 97 percent of scientists concur with claims that global warming exists and is man made.
+predicted label: 
+
+## "We've got to stop the warming," Cruz said
+
+input statement: In his resignation letter to APS, Giaever lambasted the society's public stance that global warming is an incontrovertible fact: "In the APS it is ok to discuss whether the mass of the proton changes over time and how a multi-universe behaves, but the evidence of global warming is incontrovertible?.
+predicted label: CerNeg
+
+## The IPCC report has concluded that the world is
+
+input statement: The floating communities in the Netherlands that have emerged in the past decade have served as proof of concept for larger-scale projects now being spearheaded by Dutch engineers not just in European countries like Britain, France, and Norway, but also places as far-flung as French Polynesia and the Maldives, the Indian Ocean nation now facing an existential threat from sea level rise.
+predicted label: CerPos 
+
+## The 2018 IPCC report war
+
+input statement: Out of 117 predictions, the study's author told FoxNews.com, 3 were roughly accurate and 114 overestimated the amount of warming.
+predicted label: n/a
+
+## "The climate models have been wrong in every single
+
+input statement: It is 10 times costlier to mitigate climate change than to adapt to it, Monckton added.
+predicted label: n/a
+
+## The IPCC report concluded that the world must cut
+
+input statement: Petroleum remains the most-consumed fuel in the United States, as energy-related carbon dioxide emissions dip through 2035 before climbing in later years, the Energy Outlook 2021 report states.
+predicted label: 
+
+## The report projects that carbon dioxide emissions will increase from
+
+input statement: Climate change is REAL, he added, urging Americans to vote: These pictures cry out for change.
+predicted label: CerPos 
+
+## But the current situation is not so bad, as
+
+input statement: Lack of rain and snow has left California high and dry This dry period is just one event within a multiyear drought that contributes to the even longer multidecade megadrought in the area.
+predicted label: CerNeg
+
+## The drought in California has been so severe that
+
+input statement: We've taken a supply-driven approach to climate change for 50 years, Hernandez said in the article.
+predicted label: 
+
+## The UN's IPCC has warned that we have 
+
+input statement: Their objective is to silence opposition by ExxonMobil and CEI (and other nonprofit organizations similar to CEI) to this administration's draconian energy policies.
+predicted label: n/a
+
+## The UN’s Intergovernmental P
+
+input statement: If the leaked draft is at all close to the final encyclical, we can expect that, as predicted, Francis comes down on the side of scientists who have concluded climate change is greatly affected by man-made pollution.
+predicted label: n/a
+
+## The Climate Crisis is a hoax,
+
+input statement: Democratic voters across the country have accepted the facts about climate change, are seeing its impacts, and are having real debates on solutions.
+predicted label: 
+
+## Climate change is a real problem, and we need to do
+
+input statement: The water transfer made levels in Colorado's Blue Mesa drop by 8 feet, forcing an early end to the region's boating season which was detrimental to the local economy.
+predicted label: 
+
+## The city's mayor, who is also a climate change den
+
+input statement: Though it's true that climate alarmists, including Gore, the Prince of Wales, and sweary chanteuse Charlotte Church, have sought to blame the Syrian crisis on drought induced by "climate change", there is little evidence for this.
+predicted label: n/a
+
+## "The problem is, is that the science is
+
+input statement: The shuttering follows three consecutive years of budget cuts for the program, which was established eight years ago to conduct climate change research.
+predicted label: 
+
+## The result is that the world is more vulnerable to the effects
+
+input statement: The flaws in the alarmist position Lindzen exposed in 1992 remain the same today: the global warming scare story depends on hopelessly inadequate computer models which place too much emphasis on man-made CO2 and which therefore produce a "disturbingly arbitrary" picture of the state of climate.
+predicted label: CerNeg
+
+## I'm sure that the Australian government will make
+
+input statement: Even if a future warming of 2C occurs, the authors observe that though it "would cause geographically varied ecological responses, no evidence exists that those changes would be net harmful to the global environment or to human well-being" because the "current level of ~400 ppm" proves that "we still live in a CO2-starved world.
+predicted label: CerPos
+
+## The planet is already warming. => ## CerPos
+
+input statement: It is the poor who suffer most from the ravages of global warming."
+predicted label: 
+
+## "The fact is that we are not acting with the urgency
+
+input statement: Red flag warnings, indicating the risk of serious wildfires, remain in place for large parts of the state.
+predicted label: 
+
+## The entire world is currently facing a climate crisis, and yet it
+
+input statement: And, what New Yorkers know and what people all across this country know is, when severe weather hits, people die.
+predicted label: n/a
+
+## I have a friend who is a scientist and
+
+input statement: They've seen too many of their colleagues lose grant funding when they haven't gone along with the so-called political consensus that we're in a human-caused global warming, Schmitt said.
+predicted label: 
+
+## I'm not saying the world is going to end in 
+
+input statement: Climate models wildly overestimated global warming, study finds Can you rely on the weather forecast?.
+predicted label: 
+
+## The climate crisis is the biggest threat to humanity. => ##
+
+input statement: We have to do everything in our power to make sure this is not the new normal," Democrat Colorado Senate Majority Leader Steve Fenberg said in the AP report.
+predicted label: 
+
+## A new study says that the current warming of the Earth is
+
+input statement: If you read it closely, though, what Wonder said is even dumber than blaming disease on Global Warming.
+predicted label: 
+
+## The best way to get the truth about climate change is to listen
+
+input statement: Extreme torrential rains are likely to lash the southern and southwestern parts of the country, as well as southern Tibet, according to China's National Climate Center.
+predicted label: 
+
+## The state government has declared a climate emergency and pledged
+
+input statement: A poll last March by the Yale Program on Climate Change Communication found that 73% of registered voters say that global warming is happening.
+predicted label: 
+
+## The Guardian reported that the Intergovernmental Panel on
+
+input statement: In the process, global warming enthusiasts are being swept out, he wrote.
+predicted label: n/a
+
+## It is unfortunate that the climate change issue
+
+input statement: Human activities, such as the release of greenhouse gases from burning fossil fuels, are major factors in the current rise in Earth's mean surface temperature (global warming), according to the elementary school standards, which are not federally mandated and will be adopted on a state-by-state basis.
+predicted label: n/a 
+
+## The IPCC is a political body with an
+
+input statement: Using Leroy 2010 methods, [this paper] concludes that these factors, combined with station siting issues, have led to a spurious doubling of U.S
+predicted label: 
+
+## The IPCC is a political body that is not designed to address
+
+input statement: That is, all these different experts from around the world  China, Russia, Canada, the U.S., Italy, etc
+predicted label: CerNeg
+
+## The only way we will get to net zero em
+
+input statement: The decision on decarbonization does, however, leave countries open to continue using fossil fuels if their greenhouse gases are "abated," which means they emit less when burned, or "captured."
+predicted label: n/a
+
+## "The whole climate change thing is a scam
+
+input statement: But Republican leaders in the House and Senate, from Speaker Paul Ryan and Senate Majority Leader Mitch McConnell on down, deny that human activities are changing the climate.
+predicted label: 
+
+## The fact that climate change is real and human-caused has
+
+input statement: And the trauma of living through a weather disaster can cause long-term mental health problems.
+predicted label: CerPos
+
+## Climate change is not a hoax. => ##
+
+input statement: New York will feel more like Lake Shore, Marylandonly 4.5 degrees hotter and 1.2 percent wetter.
+predicted label: n/a
+
+## The New York Times reports that "the 1
+
+input statement: The presidential candidates decided not to speak about climate change, but climate change has decided to speak to them.
+predicted label: CerPos 
+
+## The IPCC report says we are already in a
+
+input statement: As Hansen himself said in a 1989 report: In the U.S
+predicted label: 
+
+## The most recent IPCC report, the 2014
+
+input statement: The more our AC units are running, the more they're contributing to climate change and, of course, rising temperatures.
+predicted label: n/a
+
+## The more our AC units are running, the more
+
+input statement: Paul then observed that the Earth is 4.5 billion years old and has seen hotter and colder periods.
+predicted label: 
+
+## The only way to solve the climate crisis is to reduce emissions
+
+input statement: A top U.S
+predicted label: CerNeg 
+
+## The British Government has announced that it will ban
+
+input statement: On Nov
+predicted label: 
+
+## "The people who are suffering in Australia are suffering because of climate
+
+input statement: Scientific community accused of muzzling dissent on global warming Some are calling it the new "Climategate."
+predicted label: 
+
+## The scientific community is not being honest about the fact that there is
+
+input statement: Climate skeptics have seized upon the change in world weather patterns, some citing it as evidence that global warming itself has decelerated or even stopped.
+predicted label: CerNeg
+
+## The world is not warming as fast as it
+
+input statement: It has the potential to remove two-thirds of the 300 billion metric tons of carbon that humans have released into the atmosphere since the Industrial Revolution.
+predicted label: 
+
+## We know that climate change is real and that we need to act
+
+input statement: Through this denial, leaders from within this much-revered community can claim that there is something unusual about current temperatures: that we have catastrophic global warming from industrialisation.
+predicted label: CerNeg
+
+## So it’s not surprising that climate skept
+
+input statement: Aerosol decrease may lead to good health, but on the other hand, hurricane risk increases.
+predicted label: n/a
+
+## There is no climate crisis. => ##  n
+
+input statement: At a density of, very roughly, 50 acres per megawatt, typical for wind farms, that many turbines would require a land area [half the size of] the British Isles, including Ireland.
+predicted label: CerNeg
+
+## It's not that there's no evidence
+
+input statement: This Ancient Fertilizer Is a Skeleton Key for Saving Earth Biochar has been used in agriculture for millennia, but industrial applications and a growing climate crisis mean it's in new demand.
+predicted label: CerPos
+
+## "This is the most important thing in the world,"
+
+input statement: BIDEN ADMIN 'OFFICIALLY RECOGNIZING' LINK BETWEEN CLIMATE CHANGE, MIGRATION "Climate change is the crisis of this generation.
+predicted label: CerPos 
+
+## It is the most important issue of our time.
+
+input statement: Neither Mair nor Cruz cited the study on which Mair's 97 percent of scientists concur with claims that global warming exists and is man made.
+predicted label: n/a
+
+## "We can't wait for the climate change

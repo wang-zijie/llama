@@ -1,0 +1,480 @@
+
+input statement: In his resignation letter to APS, Giaever lambasted the society's public stance that global warming is an incontrovertible fact: "In the APS it is ok to discuss whether the mass of the proton changes over time and how a multi-universe behaves, but the evidence of global warming is incontrovertible?.
+predicted label: CerNeg 
+
+The report comes amid an ongoing debate among scient
+
+input statement: In his resignation letter to APS, Giaever lambasted the society's public stance that global warming is an incontrovertible fact: "In the APS it is ok to discuss whether the mass of the proton changes over time and how a multi-universe behaves, but the evidence of global warming is incontrovertible?.
+predicted label: CerNeg 
+
+The report comes amid an ongoing debate among scient
+
+input statement: The floating communities in the Netherlands that have emerged in the past decade have served as proof of concept for larger-scale projects now being spearheaded by Dutch engineers not just in European countries like Britain, France, and Norway, but also places as far-flung as French Polynesia and the Maldives, the Indian Ocean nation now facing an existential threat from sea level rise.
+predicted label: 
+
+This is the largest-ever study of climate change in the Pacific North
+
+input statement: The floating communities in the Netherlands that have emerged in the past decade have served as proof of concept for larger-scale projects now being spearheaded by Dutch engineers not just in European countries like Britain, France, and Norway, but also places as far-flung as French Polynesia and the Maldives, the Indian Ocean nation now facing an existential threat from sea level rise.
+predicted label: 
+
+This is the largest-ever study of climate change in the Pacific North
+
+input statement: Out of 117 predictions, the study's author told FoxNews.com, 3 were roughly accurate and 114 overestimated the amount of warming.
+predicted label: CerNeg
+
+Some statements are not about belief in certainty of climate
+
+input statement: Out of 117 predictions, the study's author told FoxNews.com, 3 were roughly accurate and 114 overestimated the amount of warming.
+predicted label: CerNeg
+
+Some statements are not about belief in certainty of climate
+
+input statement: It is 10 times costlier to mitigate climate change than to adapt to it, Monckton added.
+predicted label: CerNeg
+
+The climate crisis, it turns out, isn't
+
+input statement: Petroleum remains the most-consumed fuel in the United States, as energy-related carbon dioxide emissions dip through 2035 before climbing in later years, the Energy Outlook 2021 report states.
+predicted label: CerNeg
+
+As evidence of an ongoing warming trend that
+
+input statement: It is 10 times costlier to mitigate climate change than to adapt to it, Monckton added.
+predicted label: CerNeg
+
+The climate crisis, it turns out, isn't
+
+input statement: Climate change is REAL, he added, urging Americans to vote: These pictures cry out for change.
+predicted label: CerNeg
+
+Finally, I will give you several sets of sentences
+
+input statement: Petroleum remains the most-consumed fuel in the United States, as energy-related carbon dioxide emissions dip through 2035 before climbing in later years, the Energy Outlook 2021 report states.
+predicted label: CerNeg
+
+As evidence of an ongoing warming trend that
+
+input statement: Climate change is REAL, he added, urging Americans to vote: These pictures cry out for change.
+predicted label: CerNeg
+
+Finally, I will give you several sets of sentences
+
+input statement: Lack of rain and snow has left California high and dry This dry period is just one event within a multiyear drought that contributes to the even longer multidecade megadrought in the area.
+predicted label: CerNeg
+
+In a recent interview with Joe Rogan, it appears
+
+input statement: Lack of rain and snow has left California high and dry This dry period is just one event within a multiyear drought that contributes to the even longer multidecade megadrought in the area.
+predicted label: CerNeg
+
+In a recent interview with Joe Rogan, it appears
+
+input statement: We've taken a supply-driven approach to climate change for 50 years, Hernandez said in the article.
+predicted label: CerNeg
+
+The two studies that predicted the Little Ice Age and the
+
+input statement: We've taken a supply-driven approach to climate change for 50 years, Hernandez said in the article.
+predicted label: CerNeg
+
+The two studies that predicted the Little Ice Age and the
+
+input statement: Their objective is to silence opposition by ExxonMobil and CEI (and other nonprofit organizations similar to CEI) to this administration's draconian energy policies.
+predicted label: CerNeg
+
+According to some scientists, climate change will likely
+
+input statement: If the leaked draft is at all close to the final encyclical, we can expect that, as predicted, Francis comes down on the side of scientists who have concluded climate change is greatly affected by man-made pollution.
+predicted label: CerNeg
+
+The following sentence is about the fact that many people do
+
+input statement: Their objective is to silence opposition by ExxonMobil and CEI (and other nonprofit organizations similar to CEI) to this administration's draconian energy policies.
+predicted label: CerNeg
+
+According to some scientists, climate change will likely
+
+input statement: If the leaked draft is at all close to the final encyclical, we can expect that, as predicted, Francis comes down on the side of scientists who have concluded climate change is greatly affected by man-made pollution.
+predicted label: CerNeg
+
+The following sentence is about the fact that many people do
+
+input statement: Democratic voters across the country have accepted the facts about climate change, are seeing its impacts, and are having real debates on solutions.
+predicted label: CerNeg
+
+In the wake of the drought in the Horn
+
+input statement: Democratic voters across the country have accepted the facts about climate change, are seeing its impacts, and are having real debates on solutions.
+predicted label: CerNeg
+
+In the wake of the drought in the Horn
+
+input statement: The water transfer made levels in Colorado's Blue Mesa drop by 8 feet, forcing an early end to the region's boating season which was detrimental to the local economy.
+predicted label: 
+
+*It's important to note that some of these statements may be
+
+input statement: The water transfer made levels in Colorado's Blue Mesa drop by 8 feet, forcing an early end to the region's boating season which was detrimental to the local economy.
+predicted label: 
+
+*It's important to note that some of these statements may be
+
+input statement: Though it's true that climate alarmists, including Gore, the Prince of Wales, and sweary chanteuse Charlotte Church, have sought to blame the Syrian crisis on drought induced by "climate change", there is little evidence for this.
+predicted label: CerNeg 
+
+The findings, published in the Journal of Cl
+
+input statement: The shuttering follows three consecutive years of budget cuts for the program, which was established eight years ago to conduct climate change research.
+predicted label: CerNeg
+
+I get asked about the climate change deniers, but
+
+input statement: Though it's true that climate alarmists, including Gore, the Prince of Wales, and sweary chanteuse Charlotte Church, have sought to blame the Syrian crisis on drought induced by "climate change", there is little evidence for this.
+predicted label: CerNeg 
+
+The findings, published in the Journal of Cl
+
+input statement: The shuttering follows three consecutive years of budget cuts for the program, which was established eight years ago to conduct climate change research.
+predicted label: CerNeg
+
+I get asked about the climate change deniers, but
+
+input statement: The flaws in the alarmist position Lindzen exposed in 1992 remain the same today: the global warming scare story depends on hopelessly inadequate computer models which place too much emphasis on man-made CO2 and which therefore produce a "disturbingly arbitrary" picture of the state of climate.
+predicted label: CerNeg
+
+Repeated use of the phrase "climate change
+
+input statement: The flaws in the alarmist position Lindzen exposed in 1992 remain the same today: the global warming scare story depends on hopelessly inadequate computer models which place too much emphasis on man-made CO2 and which therefore produce a "disturbingly arbitrary" picture of the state of climate.
+predicted label: CerNeg
+
+Repeated use of the phrase "climate change
+
+input statement: Even if a future warming of 2C occurs, the authors observe that though it "would cause geographically varied ecological responses, no evidence exists that those changes would be net harmful to the global environment or to human well-being" because the "current level of ~400 ppm" proves that "we still live in a CO2-starved world.
+predicted label: CerNeg
+
+The latest report from the Intergovernmental P
+
+input statement: It is the poor who suffer most from the ravages of global warming."
+predicted label: CerNeg
+
+There are no CerNeg examples yet.
+
+
+
+input statement: Even if a future warming of 2C occurs, the authors observe that though it "would cause geographically varied ecological responses, no evidence exists that those changes would be net harmful to the global environment or to human well-being" because the "current level of ~400 ppm" proves that "we still live in a CO2-starved world.
+predicted label: CerNeg
+
+The latest report from the Intergovernmental P
+
+input statement: Red flag warnings, indicating the risk of serious wildfires, remain in place for large parts of the state.
+predicted label: n/a
+
+Forecasters at the National Weather Service
+
+input statement: It is the poor who suffer most from the ravages of global warming."
+predicted label: CerNeg
+
+There are no CerNeg examples yet.
+
+
+
+input statement: And, what New Yorkers know and what people all across this country know is, when severe weather hits, people die.
+predicted label: CerNeg
+
+These statements promote the belief that we are certain climate
+
+input statement: Red flag warnings, indicating the risk of serious wildfires, remain in place for large parts of the state.
+predicted label: n/a
+
+Forecasters at the National Weather Service
+
+input statement: And, what New Yorkers know and what people all across this country know is, when severe weather hits, people die.
+predicted label: CerNeg
+
+These statements promote the belief that we are certain climate
+
+input statement: They've seen too many of their colleagues lose grant funding when they haven't gone along with the so-called political consensus that we're in a human-caused global warming, Schmitt said.
+predicted label: CerNeg 
+
+Scientists: Climate Change May Be C
+
+input statement: Climate models wildly overestimated global warming, study finds Can you rely on the weather forecast?.
+predicted label: 
+
+The study's lead author, Dr Judith Curry, said
+
+input statement: They've seen too many of their colleagues lose grant funding when they haven't gone along with the so-called political consensus that we're in a human-caused global warming, Schmitt said.
+predicted label: CerNeg 
+
+Scientists: Climate Change May Be C
+
+input statement: We have to do everything in our power to make sure this is not the new normal," Democrat Colorado Senate Majority Leader Steve Fenberg said in the AP report.
+predicted label: CerNeg
+
+It is the unprecedented climate crisis that is
+
+input statement: Climate models wildly overestimated global warming, study finds Can you rely on the weather forecast?.
+predicted label: 
+
+The study's lead author, Dr Judith Curry, said
+
+input statement: If you read it closely, though, what Wonder said is even dumber than blaming disease on Global Warming.
+predicted label: CerNeg
+
+"We can either look back in the future and see
+
+input statement: We have to do everything in our power to make sure this is not the new normal," Democrat Colorado Senate Majority Leader Steve Fenberg said in the AP report.
+predicted label: CerNeg
+
+It is the unprecedented climate crisis that is
+
+input statement: Extreme torrential rains are likely to lash the southern and southwestern parts of the country, as well as southern Tibet, according to China's National Climate Center.
+predicted label: CerNeg 
+
+You will also see some sentences that are neutral in
+
+input statement: If you read it closely, though, what Wonder said is even dumber than blaming disease on Global Warming.
+predicted label: CerNeg
+
+"We can either look back in the future and see
+
+input statement: A poll last March by the Yale Program on Climate Change Communication found that 73% of registered voters say that global warming is happening.
+predicted label: CerNeg
+
+The Polar Vortex is a natural weather phenomenon
+
+input statement: Extreme torrential rains are likely to lash the southern and southwestern parts of the country, as well as southern Tibet, according to China's National Climate Center.
+predicted label: CerNeg 
+
+You will also see some sentences that are neutral in
+
+input statement: In the process, global warming enthusiasts are being swept out, he wrote.
+predicted label: CerNeg
+
+If you would like to begin, please click the Begin
+
+input statement: A poll last March by the Yale Program on Climate Change Communication found that 73% of registered voters say that global warming is happening.
+predicted label: CerNeg
+
+The Polar Vortex is a natural weather phenomenon
+
+input statement: In the process, global warming enthusiasts are being swept out, he wrote.
+predicted label: CerNeg
+
+If you would like to begin, please click the Begin
+
+input statement: Human activities, such as the release of greenhouse gases from burning fossil fuels, are major factors in the current rise in Earth's mean surface temperature (global warming), according to the elementary school standards, which are not federally mandated and will be adopted on a state-by-state basis.
+predicted label: CerNeg
+
+If you're tired of being subjected to h
+
+input statement: Human activities, such as the release of greenhouse gases from burning fossil fuels, are major factors in the current rise in Earth's mean surface temperature (global warming), according to the elementary school standards, which are not federally mandated and will be adopted on a state-by-state basis.
+predicted label: CerNeg
+
+If you're tired of being subjected to h
+
+input statement: Using Leroy 2010 methods, [this paper] concludes that these factors, combined with station siting issues, have led to a spurious doubling of U.S
+predicted label: CerNeg
+
+We found that these factors, combined with station siting
+
+input statement: That is, all these different experts from around the world  China, Russia, Canada, the U.S., Italy, etc
+predicted label: -1
+
+Even the National Oceanic and Atmospheric Administration
+
+input statement: Using Leroy 2010 methods, [this paper] concludes that these factors, combined with station siting issues, have led to a spurious doubling of U.S
+predicted label: CerNeg
+
+We found that these factors, combined with station siting
+
+input statement: The decision on decarbonization does, however, leave countries open to continue using fossil fuels if their greenhouse gases are "abated," which means they emit less when burned, or "captured."
+predicted label: CerNeg
+
+Given the amount of land and seascape damage
+
+input statement: That is, all these different experts from around the world  China, Russia, Canada, the U.S., Italy, etc
+predicted label: -1
+
+Even the National Oceanic and Atmospheric Administration
+
+input statement: But Republican leaders in the House and Senate, from Speaker Paul Ryan and Senate Majority Leader Mitch McConnell on down, deny that human activities are changing the climate.
+predicted label: CerNeg
+
+Some statements are ambiguous in their effect on beliefs
+
+input statement: The decision on decarbonization does, however, leave countries open to continue using fossil fuels if their greenhouse gases are "abated," which means they emit less when burned, or "captured."
+predicted label: CerNeg
+
+Given the amount of land and seascape damage
+
+input statement: And the trauma of living through a weather disaster can cause long-term mental health problems.
+predicted label: CerNeg
+
+Sen. John Barrasso (R-W
+
+input statement: But Republican leaders in the House and Senate, from Speaker Paul Ryan and Senate Majority Leader Mitch McConnell on down, deny that human activities are changing the climate.
+predicted label: CerNeg
+
+Some statements are ambiguous in their effect on beliefs
+
+input statement: New York will feel more like Lake Shore, Marylandonly 4.5 degrees hotter and 1.2 percent wetter.
+predicted label: CerNeg
+
+The study has been called a "paper tiger"
+
+input statement: And the trauma of living through a weather disaster can cause long-term mental health problems.
+predicted label: CerNeg
+
+Sen. John Barrasso (R-W
+
+input statement: The presidential candidates decided not to speak about climate change, but climate change has decided to speak to them.
+predicted label: CerNeg
+
+It is impossible to understand today's environmental battles
+
+input statement: New York will feel more like Lake Shore, Marylandonly 4.5 degrees hotter and 1.2 percent wetter.
+predicted label: CerNeg
+
+The study has been called a "paper tiger"
+
+input statement: As Hansen himself said in a 1989 report: In the U.S
+predicted label: CerNeg
+
+So, for example, I don't think that
+
+input statement: The presidential candidates decided not to speak about climate change, but climate change has decided to speak to them.
+predicted label: CerNeg
+
+It is impossible to understand today's environmental battles
+
+input statement: The more our AC units are running, the more they're contributing to climate change and, of course, rising temperatures.
+predicted label: CerNeg
+
+It turns out that the extreme weather we are experiencing
+
+input statement: As Hansen himself said in a 1989 report: In the U.S
+predicted label: CerNeg
+
+So, for example, I don't think that
+
+input statement: Paul then observed that the Earth is 4.5 billion years old and has seen hotter and colder periods.
+predicted label: CerNeg 
+
+If it is too cold, they call for global
+
+input statement: The more our AC units are running, the more they're contributing to climate change and, of course, rising temperatures.
+predicted label: CerNeg
+
+It turns out that the extreme weather we are experiencing
+
+input statement: Paul then observed that the Earth is 4.5 billion years old and has seen hotter and colder periods.
+predicted label: CerNeg 
+
+If it is too cold, they call for global
+
+input statement: A top U.S
+predicted label: CerNeg
+
+But as I've come to learn, most of
+
+input statement: A top U.S
+predicted label: CerNeg
+
+But as I've come to learn, most of
+
+input statement: On Nov
+predicted label: 15, 1983, the White House issued a press release
+
+input statement: Scientific community accused of muzzling dissent on global warming Some are calling it the new "Climategate."
+predicted label: CerNeg
+
+This is a way to think about how the climate changed
+
+input statement: On Nov
+predicted label: 15, 1983, the White House issued a press release
+
+input statement: Climate skeptics have seized upon the change in world weather patterns, some citing it as evidence that global warming itself has decelerated or even stopped.
+predicted label: CerNeg
+
+And an economist from the University of Alabama at B
+
+input statement: Scientific community accused of muzzling dissent on global warming Some are calling it the new "Climategate."
+predicted label: CerNeg
+
+This is a way to think about how the climate changed
+
+input statement: It has the potential to remove two-thirds of the 300 billion metric tons of carbon that humans have released into the atmosphere since the Industrial Revolution.
+predicted label: CerNeg
+
+The speech reads like the words of a man who has
+
+input statement: Climate skeptics have seized upon the change in world weather patterns, some citing it as evidence that global warming itself has decelerated or even stopped.
+predicted label: CerNeg
+
+And an economist from the University of Alabama at B
+
+input statement: Through this denial, leaders from within this much-revered community can claim that there is something unusual about current temperatures: that we have catastrophic global warming from industrialisation.
+predicted label: CerNeg
+
+The former head of the British Meteorological Office disagrees
+
+input statement: It has the potential to remove two-thirds of the 300 billion metric tons of carbon that humans have released into the atmosphere since the Industrial Revolution.
+predicted label: CerNeg
+
+The speech reads like the words of a man who has
+
+input statement: Through this denial, leaders from within this much-revered community can claim that there is something unusual about current temperatures: that we have catastrophic global warming from industrialisation.
+predicted label: CerNeg
+
+The former head of the British Meteorological Office disagrees
+
+input statement: Aerosol decrease may lead to good health, but on the other hand, hurricane risk increases.
+predicted label: CerNeg
+
+We'll leave it to others to sort out whether
+
+input statement: Aerosol decrease may lead to good health, but on the other hand, hurricane risk increases.
+predicted label: CerNeg
+
+We'll leave it to others to sort out whether
+
+input statement: At a density of, very roughly, 50 acres per megawatt, typical for wind farms, that many turbines would require a land area [half the size of] the British Isles, including Ireland.
+predicted label: CerNeg
+
+His view that human activity is contributing to climate
+
+input statement: At a density of, very roughly, 50 acres per megawatt, typical for wind farms, that many turbines would require a land area [half the size of] the British Isles, including Ireland.
+predicted label: CerNeg
+
+His view that human activity is contributing to climate
+
+input statement: This Ancient Fertilizer Is a Skeleton Key for Saving Earth Biochar has been used in agriculture for millennia, but industrial applications and a growing climate crisis mean it's in new demand.
+predicted label: CerNeg
+
+The first example is from the Breitbart News
+
+input statement: This Ancient Fertilizer Is a Skeleton Key for Saving Earth Biochar has been used in agriculture for millennia, but industrial applications and a growing climate crisis mean it's in new demand.
+predicted label: CerNeg
+
+The first example is from the Breitbart News
+
+input statement: BIDEN ADMIN 'OFFICIALLY RECOGNIZING' LINK BETWEEN CLIMATE CHANGE, MIGRATION "Climate change is the crisis of this generation.
+predicted label: CerNeg
+
+Remember, to label a sentence as CerNeg
+
+input statement: BIDEN ADMIN 'OFFICIALLY RECOGNIZING' LINK BETWEEN CLIMATE CHANGE, MIGRATION "Climate change is the crisis of this generation.
+predicted label: CerNeg
+
+Remember, to label a sentence as CerNeg
+
+input statement: Neither Mair nor Cruz cited the study on which Mair's 97 percent of scientists concur with claims that global warming exists and is man made.
+predicted label: CerNeg
+
+The US is back on the world stage, and this
+
+input statement: Neither Mair nor Cruz cited the study on which Mair's 97 percent of scientists concur with claims that global warming exists and is man made.
+predicted label: CerNeg
+
+The US is back on the world stage, and this
