@@ -31,6 +31,7 @@ def data_process_statement(path):
     #answer_list = []
     with open(os.path.join(path,"llama combined test prompt.txt")) as f:
         for line in f.readlines():
+            line = line.split('\n')[0]
             line = line.split('. ')[1]
             statement_list.append(line)
 
@@ -69,14 +70,48 @@ def generate_prompt(statement: str) -> str:
 
 #Yes-no question: "Is canola oil made from corn?"
 #new question: "What is canola oil made from corn?"
+## McCartney, in Interview, Compares Global Warming Skeptics to Holocaust Deniers Sir Paul McCartney just can't let it be. => ## CerPos
+
+## Results like these indicate that investing in soil-building practices would help feed a warming world. => ## CerPos
+
+## The odds for such an extreme drought are "highly unlikely" without factoring in what scientists like to call "anthropogenic" effects that include long-term warming trends in the Eastern Mediterranean and declines in soil moisture, according to this paper. => ## CerPos
+
+## Global temperatures are on the rise, sir, Mair answered, sticking to the party line. => ## CerPos
+
+## It's true that the Russians are earning money from oil and gas, but to compound that problem by accelerating oil and gas in America would go against the climate goals, and climate is like war: If we don't handle it, people are going to die and they're going to be suffering. => ## CerPos
+
+## According to meteorologist Joe D'Aleo, who co-authored the study with statistician James Wallace and Cato Institute climate scientist Craig Idso, this has the effect of exaggerating the warming trend: "Nearly all of the warming they are now showing are in the adjustments." => ## CerPos
+
+## These words came just two days after a group of climate scientists released findings that one of the most cited examples of accelerated global warmingthe Antarctic Peninsulahad nothing to do with human behavior whatsoever, but was "entirely consistent with natural climate variability." => ## CerPos
+## Rubio focused on the "mitigation" action he has pushed for to address issues like rising sea levels while refusing to address the root causes of climate change. => ## CerNeg
+
+## The Post claims drought, heat waves, and wildfires in the western United States are the result of climate change. => ## CerNeg
+
+## The Earth system is just too complex to be represented in current climate models. => ## CerNeg
+
+## Koonin, who believes that human activity is influencing climate change, but is critical of the way climate data are presented to the public, writes in a chapter called "Hyping the Heat" that "there are high levels of uncertainty in detecting trends in extreme weather. => #CerNeg
+
+## It also targets the U.S. for not reducing emissions enough "because misinformation about climate change and the politicization of climate science has caused widespread public confusion about the true risks of global warming," NPR said the report charged. => ## CerNeg
+
+## Greenpeace co-founder: No scientific proof humans are dominant cause of warming climate A co-founder of Greenpeace told lawmakers there is no evidence man is contributing to climate change, and said he left the group when it became more interested in politics than the environment. => ## CerNeg
+
+## The Syrian Civil War Was Not Caused By Climate Change. => ## CerNeg
+
+## Any theory needing to rely so consistently on fudging the evidence, I concluded, must be looked on not as science at all, but as simply a rather alarming case study in the aberrations of group psychology. => #CerNeg
 
     return f"""Let's start a new categorization exercise. This one will focus on the vested interests variable certainty. The goal will be to label sentences according to whether they promote or undermine beliefs in the certainty of climate change. I will follow this with two prompts, one defining a CerPos label for statements that promote belief in the certainty of climate change, and second defining a CerNeg label for statements that undermine a belief in the certainty of climate change. After that I will give you several sets of sentences to label CerPos, CerNeg, or n/a (not applicable) based on these definitions.
 
-Some statements promote the belief that we are certain climate change is real and having negative effects. Such statements should be labeled CerPos and here are some examples: Russell Crowe has avowed that "the tragedy unfolding in Australia is climate change-based" and Cate Blanchett stressed that "when one country faces a climate disaster, we all face a climate disaster, so we're in it together." https://t.co/IGhD0f0PmE  Breitbart News (@BreitbartNews) September 10, 2021 "G20 members are responsible for over 80 per cent of global emissions. McCartney, in Interview, Compares Global Warming Skeptics to Holocaust Deniers Sir Paul McCartney just can't let it be. Results like these indicate that investing in soil-building practices would help feed a warming world. The odds for such an extreme drought are "highly unlikely" without factoring in what scientists like to call "anthropogenic" effects that include long-term warming trends in the Eastern Mediterranean and declines in soil moisture, according to this paper. Global temperatures are on the rise, sir, Mair answered, sticking to the party line. It's true that the Russians are earning money from oil and gas, but to compound that problem by accelerating oil and gas in America would go against the climate goals, and climate is like war: If we don't handle it, people are going to die and they're going to be suffering. According to meteorologist Joe D'Aleo, who co-authored the study with statistician James Wallace and Cato Institute climate scientist Craig Idso, this has the effect of exaggerating the warming trend: "Nearly all of the warming they are now showing are in the adjustments." These words came just two days after a group of climate scientists released findings that one of the most cited examples of accelerated global warmingthe Antarctic Peninsulahad nothing to do with human behavior whatsoever, but was "entirely consistent with natural climate variability."
+Some statements promote the belief that we are certain climate change is real and having negative effects. Such statements should be labeled CerPos. Some statements undermine the belief that we are certain climate change is real and having negative effects. Such statements should be labeled CerNeg. 
 
-Some statements undermine the belief that we are certain climate change is real and having negative effects. Such statements should be labeled CerNeg. Here are some examples: He's been saying for over a quarter of a century that the whole global warming thing is a scam, but hardly anyone has been listening for reasons we'll come to in a moment. But at least we climate skeptics have been proved right yet again, that's the main thing. Rubio focused on the "mitigation" action he has pushed for to address issues like rising sea levels while refusing to address the root causes of climate change. The Post claims drought, heat waves, and wildfires in the western United States are the result of climate change. The Earth system is just too complex to be represented in current climate models. Koonin, who believes that human activity is influencing climate change, but is critical of the way climate data are presented to the public, writes in a chapter called "Hyping the Heat" that "there are high levels of uncertainty in detecting trends in extreme weather. It also targets the U.S. for not reducing emissions enough "because misinformation about climate change and the politicization of climate science has caused widespread public confusion about the true risks of global warming," NPR said the report charged. Greenpeace co-founder: No scientific proof humans are dominant cause of warming climate A co-founder of Greenpeace told lawmakers there is no evidence man is contributing to climate change, and said he left the group when it became more interested in politics than the environment. The Syrian Civil War Was Not Caused By Climate Change. Any theory needing to rely so consistently on fudging the evidence, I concluded, must be looked on not as science at all, but as simply a rather alarming case study in the aberrations of group psychology.
+## Russell Crowe has avowed that "the tragedy unfolding in Australia is climate change-based" and Cate Blanchett stressed that "when one country faces a climate disaster, we all face a climate disaster, so we're in it together." https://t.co/IGhD0f0PmE  Breitbart News (@BreitbartNews) September 10, 2021 " => ## CerPos
 
-What is the label (from CerPos, CerNeg, or n/a (not applicable)) to this sentence: "{statement}" """
+## G20 members are responsible for over 80 per cent of global emissions. => ## CerPos 
+
+## He's been saying for over a quarter of a century that the whole global warming thing is a scam, but hardly anyone has been listening for reasons we'll come to in a moment. => ## CerNeg
+
+## But at least we climate skeptics have been proved right yet again, that's the main thing. => ## CerNeg
+ 
+## {statement} => ## """
 
 
 @record
@@ -86,8 +121,8 @@ def main(
     dataset_path: str = "dataset/",
     store_path: str = "transformation_llama_results/",
     few_shot_number: int = 7,
-    temperature: float = 0.6,
-    top_p: float = 0.9,
+    temperature: float = 0.6, #0.6
+    top_p: float = 0.9, #0.9
     max_seq_len: int = 512,
     max_gen_len: int = 16,
     max_batch_size: int = 4,
@@ -135,7 +170,8 @@ def main(
     #     plush girafe => girafe peluche
     #     cheese =>""",
     # ]
-    task = f'llama7b_prompting_onr_labeling_statement_2shot'
+    ckpt_dir = str(ckpt_dir).split("/")[0]
+    task = f"{ckpt_dir}_prompting_onr_labeling_statement_19shot"
     prompts_list = []
     results = []
     for batch in range(int(len(statements)/max_batch_size)):
