@@ -1,0 +1,229 @@
+
+input statement: In his resignation letter to APS, Giaever lambasted the society's public stance that global warming is an incontrovertible fact: "In the APS it is ok to discuss whether the mass of the proton changes over time and how a multi-universe behaves, but the evidence of global warming is incontrovertible?.
+predicted label: 
+## The theory
+
+input statement: The floating communities in the Netherlands that have emerged in the past decade have served as proof of concept for larger-scale projects now being spearheaded by Dutch engineers not just in European countries like Britain, France, and Norway, but also places as far-flung as French Polynesia and the Maldives, the Indian Ocean nation now facing an existential threat from sea level rise.
+predicted label: CerPos
+                
+
+input statement: Out of 117 predictions, the study's author told FoxNews.com, 3 were roughly accurate and 114 overestimated the amount of warming.
+predicted label: 
+
+## The
+
+input statement: It is 10 times costlier to mitigate climate change than to adapt to it, Monckton added.
+predicted label: 
+
+## The
+
+input statement: Petroleum remains the most-consumed fuel in the United States, as energy-related carbon dioxide emissions dip through 2035 before climbing in later years, the Energy Outlook 2021 report states.
+predicted label: 
+                                                
+
+input statement: Climate change is REAL, he added, urging Americans to vote: These pictures cry out for change.
+predicted label: 
+
+## Cl
+
+input statement: Lack of rain and snow has left California high and dry This dry period is just one event within a multiyear drought that contributes to the even longer multidecade megadrought in the area.
+predicted label: CerNeg
+
+
+input statement: We've taken a supply-driven approach to climate change for 50 years, Hernandez said in the article.
+predicted label: 
+
+## "
+
+input statement: Their objective is to silence opposition by ExxonMobil and CEI (and other nonprofit organizations similar to CEI) to this administration's draconian energy policies.
+predicted label: 
+
+## The
+
+input statement: If the leaked draft is at all close to the final encyclical, we can expect that, as predicted, Francis comes down on the side of scientists who have concluded climate change is greatly affected by man-made pollution.
+predicted label: 
+
+## The
+
+input statement: Democratic voters across the country have accepted the facts about climate change, are seeing its impacts, and are having real debates on solutions.
+predicted label: 
+
+## The
+
+input statement: The water transfer made levels in Colorado's Blue Mesa drop by 8 feet, forcing an early end to the region's boating season which was detrimental to the local economy.
+predicted label: 
+
+## The
+
+input statement: Though it's true that climate alarmists, including Gore, the Prince of Wales, and sweary chanteuse Charlotte Church, have sought to blame the Syrian crisis on drought induced by "climate change", there is little evidence for this.
+predicted label: 
+
+## The
+
+input statement: The shuttering follows three consecutive years of budget cuts for the program, which was established eight years ago to conduct climate change research.
+predicted label: 
+
+## The
+
+input statement: The flaws in the alarmist position Lindzen exposed in 1992 remain the same today: the global warming scare story depends on hopelessly inadequate computer models which place too much emphasis on man-made CO2 and which therefore produce a "disturbingly arbitrary" picture of the state of climate.
+predicted label: CerNeg
+
+
+input statement: Even if a future warming of 2C occurs, the authors observe that though it "would cause geographically varied ecological responses, no evidence exists that those changes would be net harmful to the global environment or to human well-being" because the "current level of ~400 ppm" proves that "we still live in a CO2-starved world.
+predicted label: 
+
+## The
+
+input statement: It is the poor who suffer most from the ravages of global warming."
+predicted label: 
+
+## It
+
+input statement: Red flag warnings, indicating the risk of serious wildfires, remain in place for large parts of the state.
+predicted label: 
+
+## The
+
+input statement: And, what New Yorkers know and what people all across this country know is, when severe weather hits, people die.
+predicted label: 
+
+## It
+
+input statement: They've seen too many of their colleagues lose grant funding when they haven't gone along with the so-called political consensus that we're in a human-caused global warming, Schmitt said.
+predicted label: 
+
+## The
+
+input statement: Climate models wildly overestimated global warming, study finds Can you rely on the weather forecast?.
+predicted label: 
+
+## The
+
+input statement: We have to do everything in our power to make sure this is not the new normal," Democrat Colorado Senate Majority Leader Steve Fenberg said in the AP report.
+predicted label: 
+
+## We
+
+input statement: If you read it closely, though, what Wonder said is even dumber than blaming disease on Global Warming.
+predicted label: 
+
+## The
+
+input statement: Extreme torrential rains are likely to lash the southern and southwestern parts of the country, as well as southern Tibet, according to China's National Climate Center.
+predicted label: 
+
+## The
+
+input statement: A poll last March by the Yale Program on Climate Change Communication found that 73% of registered voters say that global warming is happening.
+predicted label: 
+## 7
+
+input statement: In the process, global warming enthusiasts are being swept out, he wrote.
+predicted label: 
+
+## This
+
+input statement: Human activities, such as the release of greenhouse gases from burning fossil fuels, are major factors in the current rise in Earth's mean surface temperature (global warming), according to the elementary school standards, which are not federally mandated and will be adopted on a state-by-state basis.
+predicted label: 
+
+## The
+
+input statement: Using Leroy 2010 methods, [this paper] concludes that these factors, combined with station siting issues, have led to a spurious doubling of U.S
+predicted label: 
+## The un
+
+input statement: That is, all these different experts from around the world  China, Russia, Canada, the U.S., Italy, etc
+predicted label: CerPos
+
+
+
+input statement: The decision on decarbonization does, however, leave countries open to continue using fossil fuels if their greenhouse gases are "abated," which means they emit less when burned, or "captured."
+predicted label: 
+
+## "
+
+input statement: But Republican leaders in the House and Senate, from Speaker Paul Ryan and Senate Majority Leader Mitch McConnell on down, deny that human activities are changing the climate.
+predicted label: 
+
+## The
+
+input statement: And the trauma of living through a weather disaster can cause long-term mental health problems.
+predicted label: 
+
+## The
+
+input statement: New York will feel more like Lake Shore, Marylandonly 4.5 degrees hotter and 1.2 percent wetter.
+predicted label: 
+
+## It
+
+input statement: The presidential candidates decided not to speak about climate change, but climate change has decided to speak to them.
+predicted label: 
+
+## The
+
+input statement: As Hansen himself said in a 1989 report: In the U.S
+predicted label: CerNeg
+
+
+input statement: The more our AC units are running, the more they're contributing to climate change and, of course, rising temperatures.
+predicted label: 
+
+## It
+
+input statement: Paul then observed that the Earth is 4.5 billion years old and has seen hotter and colder periods.
+predicted label: 
+
+## The
+
+input statement: A top U.S
+predicted label: 
+## Biden
+
+input statement: On Nov
+predicted label: 
+## 1
+
+input statement: Scientific community accused of muzzling dissent on global warming Some are calling it the new "Climategate."
+predicted label: 
+
+## The
+
+input statement: Climate skeptics have seized upon the change in world weather patterns, some citing it as evidence that global warming itself has decelerated or even stopped.
+predicted label: 
+
+## The
+
+input statement: It has the potential to remove two-thirds of the 300 billion metric tons of carbon that humans have released into the atmosphere since the Industrial Revolution.
+predicted label: 
+
+## The
+
+input statement: Through this denial, leaders from within this much-revered community can claim that there is something unusual about current temperatures: that we have catastrophic global warming from industrialisation.
+predicted label: 
+## The report
+
+input statement: Aerosol decrease may lead to good health, but on the other hand, hurricane risk increases.
+predicted label: 
+
+## The
+
+input statement: At a density of, very roughly, 50 acres per megawatt, typical for wind farms, that many turbines would require a land area [half the size of] the British Isles, including Ireland.
+predicted label: 
+
+## The
+
+input statement: This Ancient Fertilizer Is a Skeleton Key for Saving Earth Biochar has been used in agriculture for millennia, but industrial applications and a growing climate crisis mean it's in new demand.
+predicted label: 
+
+## "
+
+input statement: BIDEN ADMIN 'OFFICIALLY RECOGNIZING' LINK BETWEEN CLIMATE CHANGE, MIGRATION "Climate change is the crisis of this generation.
+predicted label: 
+
+## B
+
+input statement: Neither Mair nor Cruz cited the study on which Mair's 97 percent of scientists concur with claims that global warming exists and is man made.
+predicted label: 
+
+## The
