@@ -1,0 +1,3364 @@
+
+input yn question: what did pete burns die of
+answer to yn question: all_valid
+generated wh question: "Pete burns died of."
+
+#question: "What is the difference between a muffin and a cupcake" => #statement
+
+input yn question: what kind of fish is salmon
+answer to yn question: all_valid
+generated wh question: "Salmon is a kind of fish."
+
+#question: "What is the definition of a witch" => #statement: "The definition of
+
+input yn question: when did charlie brown come out
+answer to yn question: all_valid
+generated wh question: "Charlie brown came out."
+
+#question: "When was charlie brown made" => #statement: "Charlie brown was made."
+
+
+input yn question: who owns the rights of the bible
+answer to yn question: has_invalid
+generated wh question: "The rights of the bible are owned by someone."
+
+#question: "What is the country called where the bible was written?" => #
+
+input yn question: who won the nobel peace prize for dna structure
+answer to yn question: has_invalid
+generated wh question: "Dna structure won the nobel peace prize."
+
+#question: "What is the difference between a 32 inch and 32
+
+input yn question: who did steph curry pass in 3 pointers
+answer to yn question: all_valid
+generated wh question: "Steph curry passed in 3 pointers."
+
+#question: "When is the first day of spring?" => #statement: "The first
+
+input yn question: when did messi join psg date
+answer to yn question: all_valid
+generated wh question: "Messi joined psg date."
+
+#question: "How is the 1950s different from the 1960s
+
+input yn question: why did the uk ban guns
+answer to yn question: has_invalid
+generated wh question: "The uk banned guns."
+
+#question: "How many seasons of the walking dead are there?" => #statement: "There are 7
+
+input yn question: when do they catch everett lynch
+answer to yn question: all_valid
+generated wh question: "They catch everett lynch."
+
+#question: "What is the best place to buy a car in the us?" => #statement:
+
+input yn question: who does george end up with in seinfeld
+answer to yn question: has_invalid
+generated wh question: "George ends up with seinfeld."
+
+#question: "What is the name of the song that plays during the end credits of the movie
+
+input yn question: when is the season 3 of emily in paris
+answer to yn question: all_valid
+generated wh question: "Season 3 of emily in paris is on."
+
+#question: "Where is the town called portland in australia?" =>
+
+input yn question: when is figure skating olympics 2021
+answer to yn question: has_invalid
+generated wh question: "Figure skating olympics 2021 is when."
+
+#question: "What is the difference between a belt and a bel
+
+input yn question: which of earth's layers is made of melted materials
+answer to yn question: all_valid
+generated wh question: "Earth's layers are made of melted materials."
+
+#question: "What is the difference between the 2018 and
+
+input yn question: when did todd frazier get traded to the rangers
+answer to yn question: has_invalid
+generated wh question: "Todd frazier got traded to the rangers."
+
+#question: "Why is the name of the blackhawks team in
+
+input yn question: why did the united states invade panama
+answer to yn question: all_valid
+generated wh question: "The united states invaded panama."
+
+#question: "Who is the current governor of california?" => #statement: "There
+
+input yn question: who won the war between ethiopia and tigray
+answer to yn question: has_invalid
+generated wh question: "There was a war between ethiopia and tigray."
+
+#question: "What is the difference between a 400 and 
+
+input yn question: when was the first radio invented in america
+answer to yn question: has_invalid
+generated wh question: "The first radio was invented in america."
+
+#question: "What is the meaning of the word 'fairy'?" => #
+
+input yn question: why did we stop believing in multiple gods
+answer to yn question: has_invalid
+generated wh question: "We stopped believing in multiple gods."
+
+#question: "What is the name of the country that is on the atlantic ocean?" =>
+
+input yn question: when is star screen awards 2022
+answer to yn question: has_invalid
+generated wh question: "Star screen awards 2022 is when"
+
+#question: "What is the 2022 star screen awards date?" =>
+
+input yn question: who invented electricity and which country
+answer to yn question: has_invalid
+generated wh question: "Electricity was invented by whoever invented electricity and it was invented in the country where it was invented."
+
+#
+
+input yn question: what does the song butter by bts mean
+answer to yn question: all_valid
+generated wh question: "The song butter by bts means..."
+
+#question: "What is the difference between the tesla model 3 and the model x
+
+input yn question: where did michael scott go to college
+answer to yn question: has_invalid
+generated wh question: "Michael scott went to college."
+
+#question: "What is the difference between a 2007 and 2008 cam
+
+input yn question: how many american casualties in the battle of midway
+answer to yn question: all_valid
+generated wh question: "There were american casualties in the battle of midway."
+
+#question: "What is the name of the place in the world where
+
+input yn question: where is the grand canyon in pennsylvania
+answer to yn question: all_valid
+generated wh question: "The grand canyon is in pennsylvania."
+
+#question: "How is a grandfather clock different from a grandmother clock?"
+
+input yn question: when did the united states coined the word feminism
+answer to yn question: has_invalid
+generated wh question: "The united states coined the word feminism."
+
+#question: "What is the name of the beach in australia?" => #statement
+
+input yn question: who won muhammad ali vs michael dokes
+answer to yn question: has_invalid
+generated wh question: "Muhammad ali won michael dokes."
+
+#question: "What is the most common cause of high blood pressure?" => #statement
+
+input yn question: why do dogs eat their own puppies
+answer to yn question: all_valid
+generated wh question: "Dogs eat their own puppies."
+
+#question: "What is the difference between a kayak and a canoe?" => #
+
+input yn question: who plays dory's dad in the wilds
+answer to yn question: has_invalid
+generated wh question: "Dory's dad in the wilds is played by..."
+
+#question: "Who is the leader of the united nations?" =>
+
+input yn question: what episode does jenna die pll
+answer to yn question: has_invalid
+generated wh question: "Jenna die in episode of pll."
+
+#question: "What is the difference between a cucumber and a zucchini
+
+input yn question: when is star wars 10 coming out
+answer to yn question: has_invalid
+generated wh question: "Star wars 10 is coming out."
+
+#question: "How to make a lava lamp?" => #statement: "You can make
+
+input yn question: when does elena wake up in season 6
+answer to yn question: has_invalid
+generated wh question: "Elena wakes up in season 6."
+
+#question: "What is the difference between a carburetor and an inlet manifold
+
+input yn question: what is ap classes in middle school
+answer to yn question: all_valid
+generated wh question: "Ap classes in middle school is"
+
+#question: "What is the difference between a 45 and a 45 acp" =>
+
+input yn question: when did horses become extinct in north america
+answer to yn question: all_valid
+generated wh question: "Horses became extinct in north america."
+
+#question: "What is the difference between a woodpecker and a sapsucker
+
+input yn question: where do they inject the cervical cancer vaccine
+answer to yn question: all_valid
+generated wh question: "They inject the cervical cancer vaccine."
+
+#question: "What is the difference between a single and a double?" => #statement
+
+input yn question: when did russia become the strong successor of ussr
+answer to yn question: all_valid
+generated wh question: "Russia became the strong successor of ussr."
+
+#question: "What is the best way to get rid of fleas?" => #statement
+
+input yn question: where is the path train in penn station
+answer to yn question: has_invalid
+generated wh question: "The path train is in penn station."
+
+#question: "What is the difference between a lion and a tiger?" => #statement
+
+input yn question: when does north korea get a new president
+answer to yn question: all_valid
+generated wh question: "North korea gets a new president."
+
+#question: "When is the nba all star game" => #statement: "The
+
+input yn question: who wrote the book discovery of nations wealth and reasons
+answer to yn question: has_invalid
+generated wh question: "The book discovery of nations wealth and reasons was written by someone."
+
+#question: "What is the difference between a cat and a kitten?"
+
+input yn question: when did rome fall in ww2
+answer to yn question: all_valid
+generated wh question: "Rome fell in ww2."
+
+#question: "What is the meaning of the word "dork"? " => #statement: "The
+
+input yn question: who plays the little girl in jumanji
+answer to yn question: all_valid
+generated wh question: "The little girl in jumanji is played by..."
+
+#question: "What is the meaning of the word" => #statement: "The
+
+input yn question: who is tom cruise in marvel
+answer to yn question: has_invalid
+generated wh question: "Tom cruise is in marvel."
+
+#question: "What is the difference between a slab and a pound cake?" => #
+
+input yn question: where did roald dahl get married
+answer to yn question: all_valid
+generated wh question: "Roald dahl got married."
+
+#question: "How do you make a dress shirt look more formal?" => #statement: "You
+
+input yn question: how old was george clooney when he became a father
+answer to yn question: all_valid
+generated wh question: "George clooney was old when he became a father."
+
+#question: "When is the isle of man part of great britain?"
+
+input yn question: who plays rex on hudson and rex
+answer to yn question: all_valid
+generated wh question: "Rex is played by rex."
+
+#question: "What is the difference between a 2016 nissan leaf and a
+
+input yn question: when does quinn die in dexter
+answer to yn question: has_invalid
+generated wh question: "Quinn dies in dexter."
+
+#question: "What is the best way to make a french fry?" => #statement: "
+
+input yn question: how do they make almond milk
+answer to yn question: all_valid
+generated wh question: "They make almond milk."
+
+#question: "How do you make a sour cream and onion dip?" => #statement: "
+
+input yn question: when did the us join the league of nations
+answer to yn question: has_invalid
+generated wh question: "The us joined the league of nations in 1919."
+
+#question: "When did the us join the league of nations" =>
+
+input yn question: when did william shakespeare get the covid vaccine
+answer to yn question: all_valid
+generated wh question: "William shakespeare got the covid vaccine."
+
+#question: "What is the name of the country in the middle east that
+
+input yn question: when does dean die in the dark
+answer to yn question: all_valid
+generated wh question: "Dean dies in the dark"
+
+#question: "What is the name of the first song on the album" => #statement: "The
+
+input yn question: what episode of spongebob is doodlebob
+answer to yn question: all_valid
+generated wh question: "There is episode of spongebob called doodlebob."
+
+#question: "What is the name of the airport in new y
+
+input yn question: when did nigeria win world cup last
+answer to yn question: has_invalid
+generated wh question: "Nigeria won world cup last."
+
+#question: "What is the difference between a barge and a boat?" => #statement: "
+
+input yn question: who is olivia wilde married to
+answer to yn question: has_invalid
+generated wh question: "Olivia wilde is married to."
+
+#question: "Where can i buy a cheap 2010 toyota corol
+
+input yn question: what does the t stand for on a covid test
+answer to yn question: all_valid
+generated wh question: "The t stands for covid test."
+
+#question: "What is the name of the song that goes 'i'm a crab'"
+
+input yn question: what sound does a snake make in japanese
+answer to yn question: all_valid
+generated wh question: "A snake makes sound in japanese."
+
+#question: "What is the name of the small island in the middle of the lake?"
+
+input yn question: when does amelia shepherd leave grey's anatomy
+answer to yn question: has_invalid
+generated wh question: "Amelia shepherd leaves grey's anatomy."
+
+#question: "What is the best way to get to the airport from
+
+input yn question: why is 1 a composite number
+answer to yn question: has_invalid
+generated wh question: "1 is a composite number."
+
+#question: "Is there a 401k in the uk" => #statement: "There is
+
+input yn question: when does finn die in star wars
+answer to yn question: has_invalid
+generated wh question: "Finn dies in star wars."
+
+#question: "How is a chickpea different from a lentil?" => #statement:
+
+input yn question: how did the printing press lead to the renaissance
+answer to yn question: has_invalid
+generated wh question: "The printing press led to the renaissance."
+
+#question: "What is the difference between a dishwasher and a washing
+
+input yn question: when does izzie stevens die in grey's anatomy
+answer to yn question: has_invalid
+generated wh question: "Izzie stevens dies in grey's anatomy."
+
+#question: "How do you make a waffle in a to
+
+input yn question: who did the falcons trade brett favre for
+answer to yn question: has_invalid
+generated wh question: "The falcons traded brett favre for."
+
+#question: "What is the difference between a tube and a tube amp?"
+
+input yn question: where did michael scott go in season 8
+answer to yn question: all_valid
+generated wh question: "Michael scott went to season 8."
+
+#question: "What is the difference between a pizza and a calzone?" => #statement
+
+input yn question: when does a embryo have a heartbeat
+answer to yn question: all_valid
+generated wh question: "An embryo has a heartbeat."
+
+#question: "What is the name of the song that is played in the movie the fault
+
+input yn question: when does quinn die in glee
+answer to yn question: has_invalid
+generated wh question: "Quinn dies in glee"
+
+#question: "What is the difference between a resistor and a capacitor?" => #statement: "
+
+input yn question: who won the women's ncaa basketball championship 2020
+answer to yn question: has_invalid
+generated wh question: "The women's ncaa basketball championship 2020 was won by..."
+
+#question: "Who won the 201
+
+input yn question: who invented electricity first and when
+answer to yn question: has_invalid
+generated wh question: "Electricity was invented first and when."
+
+#question: "When is the 2015 superbowl" => #
+
+input yn question: how many zeros does the number google have
+answer to yn question: has_invalid
+generated wh question: "Google has zero zeros."
+
+#question: "How many zeros does the number google have" => #statement: "Google has zero zeros."
+
+
+input yn question: who did steph curry play for before warriors
+answer to yn question: all_valid
+generated wh question: "Steph curry played for warriors before warriors."
+
+#question: "Who is the director of the movie the shining?" => #
+
+input yn question: when does american horror story come back on
+answer to yn question: all_valid
+generated wh question: "American horror story comes back on."
+
+#question: "What is the name of the movie that is the same as the song" => #statement
+
+input yn question: who is the spoon in toy story 4
+answer to yn question: has_invalid
+generated wh question: "The spoon is in toy story 4."
+
+#question: "What is the 5000 year old city in egypt
+
+input yn question: when did the browns move to las vegas
+answer to yn question: all_valid
+generated wh question: "The browns moved to las vegas in 2017."
+
+#question: "What is the meaning of the word "ghost
+
+input yn question: when does south korea school year start
+answer to yn question: all_valid
+generated wh question: "South korea school year starts."
+
+#question: "What is the difference between a smartphone and a mobile phone?" => #statement
+
+input yn question: where does time change from central to eastern
+answer to yn question: all_valid
+generated wh question: "Time changes from central to eastern."
+
+#question: "What is the difference between a broom and a mop?" => #statement: "
+
+input yn question: who did heath ledger play in full house
+answer to yn question: has_invalid
+generated wh question: "Heath ledger played in full house."
+
+#question: "How can you tell if a dog is a labradoodle" => #
+
+input yn question: when does elena die in season 7
+answer to yn question: has_invalid
+generated wh question: "Elena dies in season 7."
+
+#question: "What is the difference between a single and a double room in a hotel?" => #
+
+input yn question: where was the titanic built southampton
+answer to yn question: has_invalid
+generated wh question: "The titanic was built in southampton."
+
+#question: "Who is the king of england in 1861?"
+
+input yn question: what is canola oil made from corn
+answer to yn question: has_invalid
+generated wh question: "Canola oil is made from corn."
+
+#question: "What is the name of the mcdonalds mascot" => #statement
+
+input yn question: what is the number of sourav joshi
+answer to yn question: has_invalid
+generated wh question: "The number of sourav joshi is..."
+
+#question: "What is the number of sourav joshi" => #statement: "The
+
+input yn question: when was everyone allowed to vote in canada
+answer to yn question: has_invalid
+generated wh question: "Everyone was allowed to vote in canada."
+
+#question: "When did the first people come to the usa" => #statement:
+
+input yn question: why did we celebrate children's day
+answer to yn question: has_invalid
+generated wh question: "We celebrated children's day"
+
+#question: "What is the difference between the two?" => #statement: "There is a difference between
+
+input yn question: who won muhammad ali vs mike tyson
+answer to yn question: has_invalid
+generated wh question: "Muhammad ali won mike tyson."
+
+#question: "What is the capital of spain" => #statement: "
+
+input yn question: what does eco drive mean on a watch
+answer to yn question: all_valid
+generated wh question: "Eco drive means on a watch."
+
+#question: "What is the difference between a t-shirt and a tank top?" => #
+
+input yn question: what kind of fish can never swim
+answer to yn question: all_valid
+generated wh question: "There is kind of fish that can never swim."
+
+#question: "What is the name of the city in new jersey" =>
+
+input yn question: how many nuclear bombs does south korea have
+answer to yn question: has_invalid
+generated wh question: "South korea has nuclear bombs."
+
+#question: "What is the difference between a new york and a new yorker
+
+input yn question: who did the falcons trade for todd gurley
+answer to yn question: has_invalid
+generated wh question: "The falcons traded for todd gurley."
+
+#question: "What is the name of the singer in the song you're
+
+input yn question: when does burke die in grey's anatomy
+answer to yn question: has_invalid
+generated wh question: "Burke dies in grey's anatomy."
+
+#question: "When is the world cup final in 2018?"
+
+input yn question: where was the film chocolat filmed in france
+answer to yn question: has_invalid
+generated wh question: "The film chocolat was filmed in france."
+
+#question: "What is the country called on the west coast of the continent
+
+input yn question: where was the titanic built liverpool
+answer to yn question: has_invalid
+generated wh question: "The titanic was built in liverpool."
+
+#question: "Who is the owner of the boston celtics?" => #
+
+input yn question: who does selena gomez play in sing 2
+answer to yn question: has_invalid
+generated wh question: "Selena gomez plays a character in sing 2."
+
+#question: "When is the isle of man part of great brit
+
+input yn question: what episode of ncis does ziva die
+answer to yn question: has_invalid
+generated wh question: "Ziva dies in ncis."
+
+#question: "What is the best way to cook a pork loin?" => #statement: "
+
+input yn question: who wrote the book india today and when it was published
+answer to yn question: all_valid
+generated wh question: "The book india today was written by and was published when."
+
+#question: "What is the name of the town in england called der
+
+input yn question: when did star trek voyager come out
+answer to yn question: all_valid
+generated wh question: "Star trek voyager came out."
+
+#question: "How do you make a house in minecraft?" => #statement: "You can
+
+input yn question: when does a car battery go flat
+answer to yn question: all_valid
+generated wh question: "A car battery goes flat."
+
+#question: "Where is the best place to buy a car in orlando" => #statement: "The
+
+input yn question: who does george marry on murdoch mysteries
+answer to yn question: all_valid
+generated wh question: "George marries murdoch mysteries."
+
+#question: "What is the difference between a spine and a backbone?" => #
+
+input yn question: how many episodes of series 6 married at first sight uk
+answer to yn question: all_valid
+generated wh question: "There are six episodes of married at first sight uk."
+
+#question: "How much is a 2018 toyota corol
+
+input yn question: who said sociology is the network of social relationship
+answer to yn question: has_invalid
+generated wh question: "Sociology is the network of social relationship."
+
+#question: "Where can i buy lime green shoes in colorado?" => #
+
+input yn question: when did china ban one child policy
+answer to yn question: all_valid
+generated wh question: "China banned one child policy."
+
+#question: "Why is a drive belt the same as a cambelt?" => #statement:
+
+input yn question: who does lily luna potter date
+answer to yn question: has_invalid
+generated wh question: "Lily luna potter dates someone."
+
+#question: "What is the name of the person who has a gold star in their account on
+
+input yn question: when did the vietnam war draft start and end
+answer to yn question: all_valid
+generated wh question: "The vietnam war draft started and ended."
+
+#question: "What is the name of the island between england and france?" => #
+
+input yn question: what kind of penguins can fly
+answer to yn question: has_invalid
+generated wh question: "There are kind of penguins that can fly."
+
+#question: "What is the difference between a thesis and a dissertation?"
+
+input yn question: when does quinn die in one tree hill
+answer to yn question: has_invalid
+generated wh question: "Quinn dies in one tree hill."
+
+#question: "What is the difference between the theater and the movies?" => #statement:
+
+input yn question: why do dogs howl looking at the moon
+answer to yn question: has_invalid
+generated wh question: "Dogs howl looking at the moon."
+
+#question: "How much is a bus ticket from new york to philadelphia" =>
+
+input yn question: when did they find the zodiac killer
+answer to yn question: has_invalid
+generated wh question: "They found the zodiac killer."
+
+#question: "What are the three types of food that we eat?" => #statement: "
+
+input yn question: when does the movie spencer come out on netflix
+answer to yn question: all_valid
+generated wh question: "The movie spencer comes out on netflix."
+
+#question: "What is the meaning of the word 'tugboat'?"
+
+input yn question: who recorded the song grazing in the grass
+answer to yn question: all_valid
+generated wh question: "There is a song called grazing in the grass."
+
+#question: "What is the name of the largest lake in the world?" => #
+
+input yn question: how many passengers can travel in ola mini
+answer to yn question: all_valid
+generated wh question: "Ola mini can carry 3 passengers."
+
+#question: "How many passengers can travel in ola mini" => #statement: "O
+
+input yn question: where does the equator run through the united states
+answer to yn question: has_invalid
+generated wh question: "The equator runs through the united states."
+
+#question: "What is the difference between a v6 and a v8 engine?" =>
+
+input yn question: how many flats or sharps are in the key of c major
+answer to yn question: has_invalid
+generated wh question: "There are flats or sharps in the key of c major."
+
+#question: "What is the difference between a single and a double
+
+input yn question: where was season 1 of the witcher filmed
+answer to yn question: all_valid
+generated wh question: "Season 1 of the witcher was filmed."
+
+#question: "What is the difference between the czech republic and the c
+
+input yn question: when did arsenal last get relegated
+answer to yn question: all_valid
+generated wh question: "Arsenal last got relegated in 1913."
+
+#question: "What is the difference between a jaguar and
+
+input yn question: who owns blue cross blue shield of massachusetts
+answer to yn question: all_valid
+generated wh question: "Blue cross blue shield of massachusetts is owned."
+
+#question: "Who is the president of the united states of america?" => #
+
+input yn question: when does elena become vampire again
+answer to yn question: has_invalid
+generated wh question: "Elena becomes vampire again."
+
+#question: "When does elena become vampire again" => #statement: "Elena
+
+input yn question: when does quinn find out about dexter
+answer to yn question: has_invalid
+generated wh question: "Quinn finds out about dexter."
+
+#question: "When is the royal wedding?" => #statement: "The royal wedding is
+
+input yn question: what does the second runner up get on the voice
+answer to yn question: all_valid
+generated wh question: "The second runner up gets on the voice."
+
+#question: "What is the difference between a 2009 and 201
+
+input yn question: when did mlb ban electronic sign stealing
+answer to yn question: all_valid
+generated wh question: "MLB banned electronic sign stealing."
+
+#question: "Where can i get a list of the top 100 movies of
+
+input yn question: who is the movie star from harvard
+answer to yn question: has_invalid
+generated wh question: "There is a movie star from harvard."
+
+#question: "What is the name of the guy in the movie the hangover" =>
+
+input yn question: who is nancy drew in stranger things
+answer to yn question: all_valid
+generated wh question: "Nancy drew is in stranger things."
+
+#question: "When is the isle of man part of great britain?" => #statement:
+
+input yn question: what does the t stand for in burberry
+answer to yn question: all_valid
+generated wh question: "The t stands for burberry."
+
+#question: "What is the difference between a hammer and a mallet" => #statement: "
+
+input yn question: when does chuck die gossip girl
+answer to yn question: has_invalid
+generated wh question: "Chuck dies in gossip girl."
+
+#question: "What is the meaning of the word kyrie eleison?" => #statement
+
+input yn question: when did we get money from youtube
+answer to yn question: all_valid
+generated wh question: "We got money from youtube."
+
+#question: "How to make a turtle a pet" => #statement: "A t
+
+input yn question: when is steven universe s5 coming to hulu
+answer to yn question: has_invalid
+generated wh question: "Steven universe s5 is coming to hulu."
+
+#question: "When is the new episode of supernatural coming out on netflix
+
+input yn question: who won rookie of the year mama 2021
+answer to yn question: has_invalid
+generated wh question: "Rookie of the year mama 2021 won by..."
+
+#question: "What is the difference between a diploma
+
+input yn question: when was the bible written down
+answer to yn question: has_invalid
+generated wh question: "The bible was written down."
+
+#question: "Who is the oldest person to ever play in the nfl" => #statement: "
+
+input yn question: who wrote the book origin of spices
+answer to yn question: has_invalid
+generated wh question: "The book origin of spices was written by someone."
+
+#question: "How do you spell the word tacos?" => #statement:
+
+input yn question: who wrote the declaration of independence of india
+answer to yn question: all_valid
+generated wh question: "There is a declaration of independence of india."
+
+#question: "Why is a drive belt the same as a cambelt?" => #
+
+input yn question: when does a embryo become male or female
+answer to yn question: all_valid
+generated wh question: "A embryo becomes male or female."
+
+#question: "What is the difference between a hot dog and a frankfurter?" =>
+
+input yn question: who are the acadians in canada
+answer to yn question: all_valid
+generated wh question: "There are acadians in canada."
+
+#question: "How is a honda civic like a mercedes benz?" => #
+
+input yn question: when do elena and damon break up season 6
+answer to yn question: has_invalid
+generated wh question: "Elena and damon break up season 6."
+
+#question: "What is the name of the company that makes the apple watch?" =>
+
+input yn question: why do dogs howl at midnight
+answer to yn question: all_valid
+generated wh question: "Dogs howl at midnight"
+
+#question: "What is the best way to cook a pork loin?" => #statement:
+
+input yn question: when did the first human species appear
+answer to yn question: all_valid
+generated wh question: "The first human species appeared."
+
+#question: "What is the difference between a human and a gorilla" => #statement: "There
+
+input yn question: how many jehovah witnesses are there in the united states
+answer to yn question: all_valid
+generated wh question: "There are jehovah witnesses in the united states."
+
+#question: "How many times does the word cat appear in the song"
+
+input yn question: who does alex dunphy marry in modern family
+answer to yn question: has_invalid
+generated wh question: "Alex dunphy marries in modern family."
+
+#question: "What is the 2012 movie with the song go your own
+
+input yn question: when did china attack india 2020
+answer to yn question: all_valid
+generated wh question: "China attacked india in 2020."
+
+#question: "What is the capital of the usa?" => #statement:
+
+input yn question: when was flint water crisis discovered
+answer to yn question: all_valid
+generated wh question: "Flint water crisis was discovered in 2015."
+
+#question: "What is the difference between a bicycle and a motor
+
+input yn question: when does new episodes of supernatural come out
+answer to yn question: has_invalid
+generated wh question: "New episodes of supernatural come out."
+
+#question: "When does the uk change to summer time?" => #statement: "The uk changes
+
+input yn question: when did france gain independence from germany
+answer to yn question: all_valid
+generated wh question: "France gained independence from germany."
+
+#question: "What is the capital of brazil?" => #statement: "There is capital of bra
+
+input yn question: why has the united states never been invaded
+answer to yn question: has_invalid
+generated wh question: "The united states has never been invaded."
+
+#question: "What is the best way to make a cake?" => #statement:
+
+input yn question: where did disney buy land in texas
+answer to yn question: has_invalid
+generated wh question: "Disney bought land in texas."
+
+#question: "Where is the center of the earth located" => #statement: "The center of
+
+input yn question: when does elena come back to life in season 7
+answer to yn question: has_invalid
+generated wh question: "Elena comes back to life in season 7."
+
+#question: "Who is the biggest tech company in the world?" => #statement
+
+input yn question: how did the united states get florida
+answer to yn question: all_valid
+generated wh question: "The united states got florida."
+
+#question: "Where can you buy a strawberry cake?" => #statement: "You
+
+input yn question: what two particles make up the atomic mass
+answer to yn question: has_invalid
+generated wh question: "Atomic mass is made up of two particles."
+
+#question: "What is the name of the capital city of japan?" => #statement
+
+input yn question: who does michael jordan think the goat is
+answer to yn question: has_invalid
+generated wh question: "Michael jordan thinks the goat is."
+
+#question: "Who is the duke of cambridge?" => #statement: "There
+
+input yn question: when did they start building the great wall of china
+answer to yn question: all_valid
+generated wh question: "They started building the great wall of china."
+
+#question: "When was the first time the great wall of china was built" =>
+
+input yn question: when did the first kfc open in london
+answer to yn question: all_valid
+generated wh question: "The first kfc opened in london."
+
+#question: "How do you get to the isle of man from scotland"
+
+input yn question: how did the tin man die in the wizard of oz
+answer to yn question: has_invalid
+generated wh question: "The tin man died in the wizard of oz."
+
+#question: "What is the name of the bird in the movie the hitch
+
+input yn question: what kind of body cavity do flatworms have
+answer to yn question: has_invalid
+generated wh question: "Flatworms have body cavity."
+
+#question: "Is there a lighthouse in london?" => #statement:
+
+input yn question: when did puerto rico became a state of the united states
+answer to yn question: has_invalid
+generated wh question: "Puerto rico became a state of the united states."
+
+#question: "What is the difference between a 401k and
+
+input yn question: when was the new deal put into place
+answer to yn question: all_valid
+generated wh question: "The new deal was put into place."
+
+#question: "What is the difference between a piston and a cylinder?" => #statement
+
+input yn question: when did world war 2 officially end 1990
+answer to yn question: has_invalid
+generated wh question: "World war 2 officially ended in 1990."
+
+#question: "What is the difference between a 300 and 
+
+input yn question: who is a in season 2 of pretty little liars
+answer to yn question: all_valid
+generated wh question: "A is in season 2 of pretty little liars."
+
+#question: "What is the name of the game with the elephant and
+
+input yn question: what is the currency of usa
+answer to yn question: all_valid
+generated wh question: "The currency of usa is dollar."
+
+#question: "What is the capital of usa" => #statement: "The capital of
+
+input yn question: when is game of thrones coming to netflix
+answer to yn question: has_invalid
+generated wh question: "Game of thrones is coming to netflix."
+
+#question: "How do you get to the isle of man from england?"
+
+input yn question: who did we buy the mexican cession from
+answer to yn question: has_invalid
+generated wh question: "We bought the mexican cession from mexico."
+
+#question: "How is the stock market and the stock exchange the same?" => #
+
+input yn question: what episode does aj cook direct
+answer to yn question: all_valid
+generated wh question: "Aj cook directs episode."
+
+#question: "How long does it take to get to the isle of man from liverpool?"
+
+input yn question: when did chick fil a come to california
+answer to yn question: all_valid
+generated wh question: "Chick fil a came to california."
+
+#question: "What is the name of the cheese in the swiss cheese?"
+
+input yn question: who does george marry in hart of dixie
+answer to yn question: has_invalid
+generated wh question: "George marries someone in hart of dixie."
+
+#question: "What is the difference between a crane and a bulldoz
+
+input yn question: where did mike trout go to college
+answer to yn question: has_invalid
+generated wh question: "Mike trout went to college."
+
+#question: "What is the best way to get to the isle of man from manchester?"
+
+input yn question: when did the catholic church accept the apocrypha
+answer to yn question: all_valid
+generated wh question: "The catholic church accepts the apocrypha."
+
+#question: "How can you get a job in the navy?" => #statement
+
+input yn question: who does josh end up with in girl meets world
+answer to yn question: has_invalid
+generated wh question: "Josh ends up with girl in girl meets world."
+
+#question: "Where is the 1000 islands located?" => #statement
+
+input yn question: when did brazil won the first world cup
+answer to yn question: all_valid
+generated wh question: "Brazil won the first world cup."
+
+#question: "What is the definition of a concession stand?" => #statement: "
+
+input yn question: how many countries are there in india
+answer to yn question: has_invalid
+generated wh question: "There are countries in india."
+
+#question: "What is the name of the restaurant in the movie the shining?" => #statement:
+
+input yn question: what episode does aiden come back in just like that
+answer to yn question: has_invalid
+generated wh question: "Aiden comes back in just like that."
+
+#question: "Why is a drive belt the same as a cambelt?" => #statement
+
+input yn question: when did the cold war end and start
+answer to yn question: all_valid
+generated wh question: "The cold war ended and started."
+
+#question: "What is the name of the rock band from the 80's called the m
+
+input yn question: when does american horror story come on netflix
+answer to yn question: has_invalid
+generated wh question: "American horror story comes on netflix."
+
+#question: "How do you make a meme?" => #statement: "You make a
+
+input yn question: when did the u.s. declare war on afghanistan
+answer to yn question: has_invalid
+generated wh question: "The u.s. declared war on afghanistan."
+
+#question: "What is the best way to get to the top of the e
+
+input yn question: what does the symbol of doctors mean
+answer to yn question: all_valid
+generated wh question: "Doctors symbol means..."
+
+#question: "What does the symbol of doctors mean" => #statement: "Doctors symbol means..."
+
+
+input yn question: where is pepsin secreted in the body
+answer to yn question: all_valid
+generated wh question: "Pepsin is secreted in the body."
+
+#question: "Who is the most famous person in history?" => #statement: "There
+
+input yn question: why are there 3 blades on a wind turbine
+answer to yn question: all_valid
+generated wh question: "There are 3 blades on a wind turbine."
+
+#question: "What is the name of the person who invented the washing
+
+input yn question: where is 808 area code in michigan
+answer to yn question: has_invalid
+generated wh question: "There is 808 area code in michigan."
+
+#question: "What is the name of the 2012 movie with
+
+input yn question: when did horses stop being used for glue
+answer to yn question: has_invalid
+generated wh question: "Horses stopped being used for glue."
+
+#question: "What is the difference between a hoodie and a sweater" =>
+
+input yn question: when did the beatles get married
+answer to yn question: all_valid
+generated wh question: "The beatles got married."
+
+#question: "What is the difference between a cambelt and a drive belt?" => #statement: "
+
+input yn question: who did we play as in fnaf 6
+answer to yn question: all_valid
+generated wh question: "We played as in fnaf 6."
+
+#question: "What is the difference between a car and a truck?" => #statement
+
+input yn question: in what document did the united states support the independence of l.a. in 1823
+answer to yn question: all_valid
+generated wh question: "The united states supported the independence of l.a. in 1823."
+
+#question: "How do you make a dis
+
+input yn question: what does caesar mean in roman
+answer to yn question: all_valid
+generated wh question: "Caesar means in roman."
+
+#question: "Why is the king of scotland called the king of scotland" => #statement
+
+input yn question: what episode does pain revive everyone
+answer to yn question: all_valid
+generated wh question: "Everyone is revived in pain episode."
+
+#question: "Why is it called a bridge in the game of bridge?" => #statement:
+
+input yn question: what episode do monica and rachel switch apartments
+answer to yn question: all_valid
+generated wh question: "Monica and rachel swap apartments in episode."
+
+#question: "How do you get a car loan with bad credit?" => #
+
+input yn question: who plays harley in iron man
+answer to yn question: all_valid
+generated wh question: "Harley is played by..."
+
+#question: "How much does a 1970 dodge charger cost" => #statement:
+
+input yn question: who is hosting the world cup in 2030
+answer to yn question: all_valid
+generated wh question: "The world cup will be hosted in 2030."
+
+#question: "Who is the current president of the united states?" =>
+
+input yn question: what does the emu and kangaroo represent on the coat of arms
+answer to yn question: all_valid
+generated wh question: "The emu and kangaroo represent on the coat of arms."
+
+#question: "How do you spell the name of the town in
+
+input yn question: when did christmas day fall on easter monday
+answer to yn question: has_invalid
+generated wh question: "Christmas day fell on easter monday."
+
+#question: "Where can you find the cheapest price on a 1000
+
+input yn question: who did we buy texas from
+answer to yn question: has_invalid
+generated wh question: "We bought texas from someone."
+
+#question: "What is the difference between a muffin and a cupcake?" => #statement
+
+input yn question: when does 13 reasons why return
+answer to yn question: has_invalid
+generated wh question: "13 reasons why returns."
+
+#question: "What is the difference between a dodge charger and a dodge challenger" =>
+
+input yn question: who won the best dancer in africa 2020
+answer to yn question: all_valid
+generated wh question: "Best dancer in africa 2020 was won by ..."
+
+#question: "How many people died in the 20
+
+input yn question: when do peyton and lucas get back together in season 5
+answer to yn question: has_invalid
+generated wh question: "Peyton and lucas get back together in season 5."
+
+#question: "How is a 1000000
+
+input yn question: how many british soldiers were killed in the boston massacre
+answer to yn question: has_invalid
+generated wh question: "There were british soldiers killed in the boston massacre."
+
+#question: "Who is the author of the book the 5 love languages
+
+input yn question: who wrote we don't need no education
+answer to yn question: all_valid
+generated wh question: "We don't need no education."
+
+#question: "Who is the actor in the movie the man who killed don quixote?" =>
+
+input yn question: who plays jake peralta in brooklyn 99
+answer to yn question: all_valid
+generated wh question: "Jake peralta plays in brooklyn 99."
+
+#question: "What is the difference between a convertible and a hard
+
+input yn question: how did snow leopards become endangered
+answer to yn question: all_valid
+generated wh question: "Snow leopards became endangered."
+
+#question: "What is the best way to get a job in marketing?" => #
+
+input yn question: where does the king of dubai live
+answer to yn question: has_invalid
+generated wh question: "The king of dubai lives in dubai."
+
+#question: "When is the isle of man part of great britain?" => #
+
+input yn question: what type of glass for gin and tonic
+answer to yn question: all_valid
+generated wh question: "Gin and tonic glass is made of glass."
+
+#question: "Why is a drive belt the same as a cambelt?" =>
+
+input yn question: who wrote the book origin of indian national congress
+answer to yn question: has_invalid
+generated wh question: "The book origin of indian national congress was written by."
+
+#question: "Who is the actor of the movie the secret life of p
+
+input yn question: who owns the rights of pakistan national anthem
+answer to yn question: has_invalid
+generated wh question: "Pakistan national anthem is owned by somebody."
+
+#question: "What is the capital of botswana?" => #statement:
+
+input yn question: when did the catholic church allow usury
+answer to yn question: has_invalid
+generated wh question: "The catholic church allowed usury."
+
+#question: "Who is the boss of the boss" => #statement: "There is
+
+input yn question: what two particles are involved in a chemical bond
+answer to yn question: all_valid
+generated wh question: "There are two particles involved in a chemical bond."
+
+#question: "What is the capital of brazil?" => #statement: "The capital
+
+input yn question: who signed the constitution before its adoption
+answer to yn question: has_invalid
+generated wh question: "The constitution was signed before its adoption."
+
+#question: "Who is the prime minister of the united states?" => #statement: "
+
+input yn question: who transferred the capital of bengal from dhaka to murshidabad
+answer to yn question: all_valid
+generated wh question: "The capital of bengal was transferred from dhaka to murshidabad."
+
+#question: "What is the difference between a pre
+
+input yn question: who does rory end up with tristan
+answer to yn question: has_invalid
+generated wh question: "Rory does not end up with tristan."
+
+#question: "How to get to 1000000000
+
+input yn question: when did columbia became a country
+answer to yn question: has_invalid
+generated wh question: "Columbia became a country."
+
+#question: "What is the name of the song that plays in the background when the announcer is talking
+
+input yn question: why are there no snakes in new zealand
+answer to yn question: has_invalid
+generated wh question: "There are no snakes in new zealand."
+
+#question: "Why is a drive belt the same as a cambelt?" => #
+
+input yn question: who won the us china trade war
+answer to yn question: has_invalid
+generated wh question: "There is a trade war between us and china."
+
+#question: "What is the difference between a raspberry and a strawberry
+
+input yn question: where is the grand canyon located city
+answer to yn question: has_invalid
+generated wh question: "The grand canyon is located city."
+
+#question: "What is the difference between a car and a truck" => #statement:
+
+input yn question: who was the first american to go to space
+answer to yn question: all_valid
+generated wh question: "There was the first american to go to space."
+
+#question: "What is the definition of a meme?" => #statement: "
+
+input yn question: who invented electricity tesla or edison
+answer to yn question: has_invalid
+generated wh question: "Edison invented electricity."
+
+#question: "How do you spell the word goodness" => #statement: "The word good
+
+input yn question: who does josh end up with in younger
+answer to yn question: has_invalid
+generated wh question: "Josh ends up with in younger."
+
+#question: "Where is the town of inverness in australia?" => #statement: "
+
+input yn question: when did coca cola buy sprite
+answer to yn question: all_valid
+generated wh question: "Coca cola bought sprite."
+
+#question: "Where is the nearest walmart to me" => #statement: "The nearest walmart
+
+input yn question: why did they not make an iphone 9
+answer to yn question: all_valid
+generated wh question: "They did not make an iphone 9."
+
+#question: "Who is the main character in the book the alchemist?" => #statement
+
+input yn question: who is a in season 5 of pretty little liars
+answer to yn question: all_valid
+generated wh question: "There is a in season 5 of pretty little liars."
+
+#question: "When did the tv show the office air in the uk?"
+
+input yn question: where is the thymus gland and what does it do
+answer to yn question: all_valid
+generated wh question: "The thymus gland is located in the chest. It is part of the immune system."
+
+#question: "Where is the
+
+input yn question: when does stefan die in season 4
+answer to yn question: has_invalid
+generated wh question: "Stefan dies in season 4."
+
+#question: "What is the difference between a blow torch and a butane torch?" =>
+
+input yn question: when did ford start making trucks
+answer to yn question: all_valid
+generated wh question: "Ford started making trucks."
+
+#question: "What is the name of the famous opera singer?" => #statement: "The famous
+
+input yn question: when did china open up to the world
+answer to yn question: all_valid
+generated wh question: "China opened up to the world."
+
+#question: "What are the best hotels in london?" => #statement: "There
+
+input yn question: who plays jake on general hospital 2021
+answer to yn question: all_valid
+generated wh question: "There is a jake on general hospital 2021."
+
+#question: "What is the difference between a robin and a blue
+
+input yn question: who plays harley quinn in gotham
+answer to yn question: has_invalid
+generated wh question: "Harley quinn is played by camren bicondova in gotham."
+
+#question: "What is the difference between a tra
+
+input yn question: when is the season 2 of all of us are dead
+answer to yn question: all_valid
+generated wh question: "The season 2 of all of us are dead is"
+
+#question: "What is the difference between a whale and a whale sh
+
+input yn question: where does route 66 end in illinois
+answer to yn question: all_valid
+generated wh question: "Route 66 ends in illinois."
+
+#question: "What is the name of the main character in the movie the great gatsby
+
+input yn question: when does a car battery charge itself
+answer to yn question: has_invalid
+generated wh question: "A car battery charges itself."
+
+#question: "What is the best way to stop a leak in a tire?" => #statement: "
+
+input yn question: what are the names of the fairy godmothers in cinderella
+answer to yn question: has_invalid
+generated wh question: "The names of the fairy godmothers in cinderella are..."
+
+#question: "What is the difference between a 20
+
+input yn question: where do the brown family live in alaska
+answer to yn question: all_valid
+generated wh question: "The brown family lives in alaska."
+
+#question: "How do you spell the name of the song snake eyes" => #statement:
+
+input yn question: who all are married in bts
+answer to yn question: has_invalid
+generated wh question: "There are married people in bts."
+
+#question: "Who is the duke of cambridge?" => #statement: "There is a
+
+input yn question: who wrote we don't need another hero
+answer to yn question: all_valid
+generated wh question: "We don't need another hero."
+
+#question: "How much does a pound of butter cost in california" => #
+
+input yn question: how far is kansas city from kansas city
+answer to yn question: all_valid
+generated wh question: "Kansas city is far from kansas city."
+
+#question: "What is the difference between a ferry and a boat?" => #statement
+
+input yn question: who did we buy oregon from
+answer to yn question: has_invalid
+generated wh question: "We bought oregon from someone."
+
+#question: "What is the name of the town called kent in england?" => #statement
+
+input yn question: where is the super bowl going to be 2022
+answer to yn question: all_valid
+generated wh question: "The super bowl is going to be 2022."
+
+#question: "What is the best way to get rid of a cold
+
+input yn question: who wins season 5 of worst cooks in america
+answer to yn question: all_valid
+generated wh question: "Season 5 of worst cooks in america wins."
+
+#question: "Where is the cemetery for the rich in boston?"
+
+input yn question: who plays the fairy godmother in legends of tomorrow
+answer to yn question: all_valid
+generated wh question: "The fairy godmother is played in legends of tomorrow."
+
+#question: "What is the same as a drive belt?"
+
+input yn question: who plays the joker in batman vs superman
+answer to yn question: has_invalid
+generated wh question: "The joker is played by jared leto in batman vs superman."
+
+#question: "What is the difference between a 4
+
+input yn question: when does chuck die in supernatural
+answer to yn question: has_invalid
+generated wh question: "Chuck dies in supernatural."
+
+#question: "What is the name of the song at the end of the movie the notebook?" =>
+
+input yn question: what kind of fish is good for high blood pressure
+answer to yn question: all_valid
+generated wh question: "Fish is good for high blood pressure."
+
+#question: "How do you make a strong argument?" => #statement: "You make a
+
+input yn question: where was the movie antlers filmed in oregon
+answer to yn question: has_invalid
+generated wh question: "The movie antlers was filmed in oregon."
+
+#question: "Is there a difference between a muffin and a cupca
+
+input yn question: when did rome start speaking italian
+answer to yn question: all_valid
+generated wh question: "Rome started speaking italian."
+
+#question: "What is the most expensive city in europe?" => #statement: "The most expensive city
+
+input yn question: how many nuclear bombs does israel have
+answer to yn question: all_valid
+generated wh question: "Israel has nuclear bombs."
+
+#question: "How many calories are in a small coke" => #statement: "There are
+
+input yn question: why is there no atmosphere on the moon
+answer to yn question: has_invalid
+generated wh question: "There is no atmosphere on the moon."
+
+#question: "Why is the moon not a planet?" => #statement: "The moon is not
+
+input yn question: when does american horror story season 10 come out on netflix
+answer to yn question: has_invalid
+generated wh question: "American horror story season 10 comes out on netflix."
+
+#question: "What is the best way to get to the island of
+
+input yn question: what kind of car is mcqueen
+answer to yn question: all_valid
+generated wh question: "Mcqueen is a car."
+
+#question: "What is the difference between a roast beef sandwich and a beef sandwich
+
+input yn question: when does quinn get her baby back
+answer to yn question: has_invalid
+generated wh question: "Quinn gets her baby back."
+
+#question: "What is the difference between a dishwasher and a washing machine?" =>
+
+input yn question: why were small states against the virginia plan
+answer to yn question: all_valid
+generated wh question: "Small states were against the virginia plan."
+
+#question: "What is the difference between a nightmare and a bad dream?"
+
+input yn question: where is the star of bethlehem located
+answer to yn question: has_invalid
+generated wh question: "The star of bethlehem is located."
+
+#question: "When is the isle of man part of great britain?" => #
+
+input yn question: why did they send a monkey into space
+answer to yn question: all_valid
+generated wh question: "They sent a monkey into space."
+
+#question: "Where can I buy a samsung s8 in the usa?" => #statement
+
+input yn question: when is steven universe season 6 coming out
+answer to yn question: has_invalid
+generated wh question: "Steven universe season 6 is coming out."
+
+#question: "When was the first steven universe episode released?" => #statement: "
+
+input yn question: how many academic colleges are at cal state fullerton
+answer to yn question: all_valid
+generated wh question: "There are academic colleges at cal state fullerton."
+
+#question: "What is the best way to cook salmon?" => #statement:
+
+input yn question: when did the us declare war on vietnam
+answer to yn question: has_invalid
+generated wh question: "The us declared war on vietnam."
+
+#question: "When did the us declare war on vietnam" => #statement: "The us
+
+input yn question: who was the first american woman president
+answer to yn question: has_invalid
+generated wh question: "The first american woman president was..."
+
+#question: "What is the name of the famous american artist?" => #statement: "The
+
+input yn question: when did the minnesota vikings win the super bowl
+answer to yn question: has_invalid
+generated wh question: "The minnesota vikings won the super bowl."
+
+#question: "What is the difference between a jet engine and a turbine
+
+input yn question: when was the first picture of a black hole
+answer to yn question: all_valid
+generated wh question: "The first picture of a black hole was in 2019."
+
+#question: "What is the difference between a pig and a
+
+input yn question: when does elena die for good
+answer to yn question: has_invalid
+generated wh question: "Elena dies for good."
+
+#question: "Where is the town of cambria located?" => #statement: "The town of cambria
+
+input yn question: who composed the hymn how great thou art
+answer to yn question: all_valid
+generated wh question: "The hymn how great thou art was composed by someone."
+
+#question: "What is the best way to get to the hilton hotel
+
+input yn question: when was the white house built november 1 1800
+answer to yn question: all_valid
+generated wh question: "The white house was built on november 1 1800."
+
+#question: "What is the capital of georgia?" =>
+
+input yn question: who did ryan gosling play in the lovely bones
+answer to yn question: has_invalid
+generated wh question: "Ryan gosling played in the lovely bones."
+
+#question: "What is the name of the place where you get your blood
+
+input yn question: when is the movie uncharted coming out on netflix
+answer to yn question: all_valid
+generated wh question: "Uncharted movie is coming out on netflix."
+
+#question: "Why is there a man in the moon?" => #statement:
+
+input yn question: who won the best footballer 2021 in the world
+answer to yn question: has_invalid
+generated wh question: "The best footballer in the world is in 2021."
+
+#question: "What is the difference between a quadruple and a
+
+input yn question: how does representative democracy work in canada
+answer to yn question: all_valid
+generated wh question: "Representative democracy works in canada."
+
+#question: "What is the best way to get from boston to manchester new h
+
+input yn question: when does the sky become happy
+answer to yn question: has_invalid
+generated wh question: "The sky becomes happy."
+
+#question: "When is the last day of school for high school" => #statement: "The last day of
+
+input yn question: who plays will's mum in his dark materials
+answer to yn question: all_valid
+generated wh question: "Will's mum plays in his dark materials."
+
+#question: "What is the name of the first book in the hunger games tr
+
+input yn question: what episode does jenna come back to life
+answer to yn question: has_invalid
+generated wh question: "Jenna comes back to life in episode"
+
+#question: "What episode does jenna come back to life" => #statement:
+
+input yn question: when does elena come in the originals
+answer to yn question: has_invalid
+generated wh question: "Elena comes in the originals."
+
+#question: "How can you get a driving licence in london" => #statement:
+
+input yn question: why do we need a parliament
+answer to yn question: all_valid
+generated wh question: "We need a parliament"
+
+#question: "What is the difference between a swimsuit and a bikini?" => #statement: "
+
+input yn question: why do they remove hair during cancer
+answer to yn question: all_valid
+generated wh question: "They remove hair during cancer."
+
+#question: "Why do they remove hair during cancer" => #statement: "They remove hair during cancer."
+
+input yn question: when does north korea celebrate christmas
+answer to yn question: has_invalid
+generated wh question: "North korea celebrates christmas."
+
+#question: "Where can you find an english speaking doctor in prague?" =>
+
+input yn question: who gave the name virus pasteur or ivanovsky
+answer to yn question: has_invalid
+generated wh question: "Pasteur or ivanovsky gave the name virus."
+
+#question: "Who is the mayor of the city of los angeles"
+
+input yn question: when does chuck propose season 6
+answer to yn question: all_valid
+generated wh question: "Chuck proposes in season 6."
+
+#question: "What is the difference between a tube amp and a solid state amp?" =>
+
+input yn question: when did the soviet union invade manchuria
+answer to yn question: all_valid
+generated wh question: "The soviet union invaded manchuria."
+
+#question: "What is the best thing to eat at a buffet?" => #statement
+
+input yn question: when did horses stop being used in war
+answer to yn question: has_invalid
+generated wh question: "Horses stopped being used in war."
+
+#question: "Where can you buy whiskey in topeka ks" => #statement
+
+input yn question: when did the british gain independence
+answer to yn question: has_invalid
+generated wh question: "The british gained independence."
+
+#question: "What is the difference between a toaster oven and a toaster?" => #statement:
+
+input yn question: statue of liberty when it was gold
+answer to yn question: has_invalid
+generated wh question: "Statue of liberty was gold"
+
+#question: "What is the best way to clean a glass coffee table?" => #statement: "The
+
+input yn question: when does descendants four come out
+answer to yn question: all_valid
+generated wh question: "Descendants four comes out"
+
+#question: "How is the new york city subway system different from the london underground
+
+input yn question: when did the catholic church allow birth control
+answer to yn question: has_invalid
+generated wh question: "The catholic church allows birth control."
+
+#question: "What is the difference between a tire and a wheel?" => #statement: "
+
+input yn question: how did the united states gain control of the panama canal
+answer to yn question: all_valid
+generated wh question: "The united states gained control of the panama canal."
+
+#question: "What is the best way to get to the isle of man
+
+input yn question: where was the us army in avengers endgame
+answer to yn question: all_valid
+generated wh question: "The us army was in avengers endgame."
+
+#question: "Where was the us army in avengers endgame" => #
+
+input yn question: when did the us join the korean war
+answer to yn question: all_valid
+generated wh question: "The us joined the korean war."
+
+#question: "Who is the president of the us?" => #statement: "The president of
+
+input yn question: who founded new york in 1653
+answer to yn question: has_invalid
+generated wh question: "New york was founded in 1653."
+
+#question: "What is the capital of the usa" => #statement:
+
+input yn question: where did hemingway go to college
+answer to yn question: has_invalid
+generated wh question: "Hemingway went to college."
+
+#question: "What is the name of the city in the united states called the city of lights
+
+input yn question: when does rachel and joey get together
+answer to yn question: all_valid
+generated wh question: "Rachel and joey get together."
+
+#question: "Why is a drive belt the same as a cambelt?" => #statement
+
+input yn question: what type of garbage is thrown in green beans
+answer to yn question: has_invalid
+generated wh question: "Green beans is thrown in garbage."
+
+#question: "What is the difference between a lamb and a sheep" => #statement: "
+
+input yn question: in what episode does sasuke destroy the meteor
+answer to yn question: has_invalid
+generated wh question: "Sasuke destroys the meteor."
+
+#question: "What is the difference between a 401k and a 4
+
+input yn question: when does finn die in peaky blinders
+answer to yn question: has_invalid
+generated wh question: "Finn dies in peaky blinders"
+
+#question: "When does finn die in peaky blinders" => #statement: "
+
+input yn question: what type of current is stored in a battery
+answer to yn question: has_invalid
+generated wh question: "A battery stores current."
+
+#question: "What is the name of the person who invented the cassette tape" => #statement
+
+input yn question: when does the movie start 1883
+answer to yn question: has_invalid
+generated wh question: "The movie starts 1883."
+
+#question: "When does the movie start 1883" => #statement: "
+
+input yn question: when did britain declare war on italy
+answer to yn question: has_invalid
+generated wh question: "Britain declared war on italy in 1940."
+
+#question: "How do you spell the word chorizo in
+
+input yn question: when does the new season of the ranch come out on netflix
+answer to yn question: has_invalid
+generated wh question: "The new season of the ranch comes out on netflix."
+
+#question: "What is the best way to make a blueberry pie
+
+input yn question: who does lily luna potter marry in harry potter
+answer to yn question: has_invalid
+generated wh question: "Lily luna potter marries in harry potter."
+
+#question: "Who is the only president to serve two nonconsec
+
+input yn question: who won the fight between mayweather and logan paul
+answer to yn question: has_invalid
+generated wh question: "Mayweather won the fight against logan paul."
+
+#question: "Where is the town called st john's in australia
+
+input yn question: why did the uk ban melatonin
+answer to yn question: has_invalid
+generated wh question: "The uk banned melatonin."
+
+#question: "What is the name of the movie with keanu reeves and john h
+
+input yn question: where did michael faraday discover electricity
+answer to yn question: has_invalid
+generated wh question: "Michael faraday discovered electricity."
+
+#question: "What is the name of the person who invented the computer" => #statement:
+
+input yn question: where does the term greenhouse effect come from
+answer to yn question: all_valid
+generated wh question: "The term greenhouse effect comes from greenhouse."
+
+#question: "Where can you buy liquor at walmart in kansas?" => #
+
+input yn question: where was the netflix series made filmed
+answer to yn question: has_invalid
+generated wh question: "The netflix series was made filmed."
+
+#question: "What is the meaning of the word pumpkin?" => #statement:
+
+input yn question: when does chuck bass dad come back
+answer to yn question: all_valid
+generated wh question: "Chuck bass dad comes back."
+
+#question: "What is the difference between the 1980s and 199
+
+input yn question: what part of saffron do we eat
+answer to yn question: all_valid
+generated wh question: "We eat part of saffron."
+
+#question: "Is there a movie called the red turtle?" => #statement: "There
+
+input yn question: who became king after sultan suleiman
+answer to yn question: has_invalid
+generated wh question: "Sultan suleiman became king."
+
+#question: "Who was the first black president of the united states?" => #statement: "
+
+input yn question: when did easter start in the bible
+answer to yn question: has_invalid
+generated wh question: "Easter started in the bible."
+
+#question: "What is the difference between a wardrobe and a closet?" => #
+
+input yn question: when did mary kate and ashley became billionaires
+answer to yn question: has_invalid
+generated wh question: "Mary kate and ashley became billionaires"
+
+#question: "What is the name of the person who founded the company blackberry?"
+
+input yn question: when did princess anne get married
+answer to yn question: all_valid
+generated wh question: "Princess anne got married."
+
+#question: "How do you get a job as a hairstylist?" => #statement:
+
+input yn question: why are there differences in acquiring the second language
+answer to yn question: all_valid
+generated wh question: "There are differences in acquiring the second language."
+
+#question: "Who is the governor of new york?" => #statement: "There
+
+input yn question: what is the number that is both even and odd
+answer to yn question: has_invalid
+generated wh question: "There is a number that is both even and odd."
+
+#question: "What is the capital of tennessee" => #statement: "There
+
+input yn question: when did dog man 11 come out
+answer to yn question: all_valid
+generated wh question: "Dog man 11 came out."
+
+#question: "When was the first episode of dog man?" => #statement: "The first
+
+input yn question: when did the chinese civilization end
+answer to yn question: has_invalid
+generated wh question: "Chinese civilization ended."
+
+#question: "What is the difference between a tire and a wheel?" => #statement: "There is
+
+input yn question: who dies in season 6 episode 24 of grey's anatomy
+answer to yn question: all_valid
+generated wh question: "There is a character named who dies in season 6 episode 24 of grey's anatomy."
+
+#question: "Is it
+
+input yn question: when did doctors stop making house calls
+answer to yn question: has_invalid
+generated wh question: "Doctors stopped making house calls."
+
+#question: "When is a scapular the same as a scapula?" => #statement:
+
+input yn question: what did the scarecrow need in the wizard of oz
+answer to yn question: all_valid
+generated wh question: "The scarecrow needed brains in the wizard of oz."
+
+#question: "What does the 42 mean on the
+
+input yn question: how many wild card teams have won the stanley cup
+answer to yn question: all_valid
+generated wh question: "Wild card teams have won the stanley cup."
+
+#question: "What is the difference between a john deere 110
+
+input yn question: who is olivia wilde in ghostbusters
+answer to yn question: all_valid
+generated wh question: "Olivia wilde is in ghostbusters."
+
+#question: "Who is olivia wilde in ghostbust
+
+input yn question: when was game of thrones season 1 filmed
+answer to yn question: all_valid
+generated wh question: "Game of thrones season 1 was filmed."
+
+#question: "When is the 2016 olympic games?" => #
+
+input yn question: when does american horror story season 11 come out
+answer to yn question: all_valid
+generated wh question: "American horror story season 11 comes out."
+
+#question: "How are a lease and a rental agreement the same?" => #
+
+input yn question: when did the chargers become the rams
+answer to yn question: has_invalid
+generated wh question: "The chargers became the rams."
+
+#question: "Where can you buy a vcr at walmart?" => #statement: "You
+
+input yn question: when are they closing olive garden
+answer to yn question: has_invalid
+generated wh question: "They are closing olive garden."
+
+#question: "How long is the movie the outsiders?" => #statement: "The outs
+
+input yn question: when did facebook change their name to metta
+answer to yn question: has_invalid
+generated wh question: "Facebook changed their name to metta."
+
+#question: "Where can you buy liquor at walmart in kansas?" => #statement
+
+input yn question: what does the t in t mobile stand for
+answer to yn question: all_valid
+generated wh question: "The t in t mobile stands for."
+
+#question: "What is the difference between a jaguar and a panther?" => #statement
+
+input yn question: how many academic colleges does wilmu have
+answer to yn question: all_valid
+generated wh question: "Wilmu has 3 academic colleges."
+
+#question: "How many academic colleges does wilmu have" => #statement: "Wil
+
+input yn question: when did they find a cure for aids
+answer to yn question: all_valid
+generated wh question: "They found a cure for aids."
+
+#question: "What is the difference between a snake and a rattle snake?" =>
+
+input yn question: when does the new season of z nation come out
+answer to yn question: has_invalid
+generated wh question: "The new season of z nation comes out."
+
+#question: "What is the best way to use a tamp?" => #statement: "
+
+input yn question: when did the stock market crash in the great depression
+answer to yn question: all_valid
+generated wh question: "The stock market crashed in the great depression."
+
+#question: "What is the difference between a monarchy and a republic?" => #
+
+input yn question: when did horses stop being used
+answer to yn question: has_invalid
+generated wh question: "Horses stopped being used."
+
+#question: "What is the difference between a snake and a lizard?" => #statement: "
+
+input yn question: where does the equator pass through india
+answer to yn question: has_invalid
+generated wh question: "The equator passes through india."
+
+#question: "How many times has the united states been in the world cup" => #statement
+
+input yn question: how many countries are there in saarc
+answer to yn question: all_valid
+generated wh question: "There are saarc countries."
+
+#question: "What is the name of the town in england that has a white church?" => #statement
+
+input yn question: what do the letters in mars stand for
+answer to yn question: has_invalid
+generated wh question: "The letters in mars stand for mars."
+
+#question: "What is the difference between a 2000 and a 200
+
+input yn question: what did pete from below deck mediterranean post
+answer to yn question: all_valid
+generated wh question: "Pete from below deck mediterranean posted."
+
+#question: "How to make a cake for a 1 year old" =>
+
+input yn question: when did rome became a part of italy
+answer to yn question: all_valid
+generated wh question: "Rome became a part of italy."
+
+#question: "What is the meaning of african american" => #statement: "
+
+input yn question: what episode of ncis does gibbs leave
+answer to yn question: all_valid
+generated wh question: "Gibbs leaves ncis in episode."
+
+#question: "Where can i find a list of all the public holidays in the uk
+
+input yn question: when did the lakers win their first nba championship
+answer to yn question: all_valid
+generated wh question: "The lakers won their first nba championship in 1949."
+
+#question: "What is the name of the river in the
+
+input yn question: when do derek and meredith get back together season 4
+answer to yn question: all_valid
+generated wh question: "Derek and meredith get back together season 4."
+
+#question: "What is the best way to remove an old roof?" =>
+
+input yn question: when does jj die in station 19
+answer to yn question: has_invalid
+generated wh question: "Jj dies in station 19"
+
+#question: "What is the name of the company that makes the ps5?" => #statement
+
+input yn question: when did the uk ban guns
+answer to yn question: has_invalid
+generated wh question: "The uk banned guns."
+
+#question: "What is the state capital of alabama" => #statement: "Alabama is a state
+
+input yn question: how old was george floyd when he passed away
+answer to yn question: all_valid
+generated wh question: "George floyd passed away when he was old."
+
+#question: "How much is a train ticket from london to birmingham"
+
+input yn question: when does rachel move in with joey season 9
+answer to yn question: all_valid
+generated wh question: "Rachel moves in with joey season 9."
+
+#question: "How many times has the catholic church been divided?" => #
+
+input yn question: when does jim go to stanford
+answer to yn question: has_invalid
+generated wh question: "Jim goes to stanford"
+
+#question: "What is the name of the city in the state of new york?" => #statement
+
+input yn question: when did michael jordan get traded
+answer to yn question: has_invalid
+generated wh question: "Michael jordan got traded."
+
+#question: "What is the difference between a tire and a wheel?" => #statement: "
+
+input yn question: what are the flags in minesweeper
+answer to yn question: all_valid
+generated wh question: "There are flags in minesweeper."
+
+#question: "What is the difference between a 35mm and 120mm film
+
+input yn question: what kind of batteries go in smoke alarms
+answer to yn question: all_valid
+generated wh question: "Smoke alarms need batteries."
+
+#question: "What is the capital of the us" => #statement: "The capital
+
+input yn question: where was the netflix movie elves filmed
+answer to yn question: has_invalid
+generated wh question: "The netflix movie elves was filmed."
+
+#question: "What is the name of the house of the dead video game" =>
+
+input yn question: where do the blue jays play in toronto
+answer to yn question: all_valid
+generated wh question: "The blue jays play in toronto."
+
+#question: "How to get to the isle of man from the uk" => #statement
+
+input yn question: what does caesar mean in spanish
+answer to yn question: has_invalid
+generated wh question: "Caesar means spanish."
+
+#question: "What does a pineapple symbolize in a dream" => #statement: "A p
+
+input yn question: where did mike trout play college baseball
+answer to yn question: has_invalid
+generated wh question: "Mike trout played college baseball."
+
+#question: "What is the name of the duke of york?" => #statement: "
+
+input yn question: who was president before ram nath kovind
+answer to yn question: all_valid
+generated wh question: "There was president before ram nath kovind."
+
+#question: "How many acres is 1000000 square feet
+
+input yn question: why is there no light in space
+answer to yn question: has_invalid
+generated wh question: "There is no light in space."
+
+#question: "Why do the british call a french fry a chip?" => #statement:
+
+input yn question: who is the movie queen and slim about
+answer to yn question: all_valid
+generated wh question: "There is a movie called queen and slim."
+
+#question: "What is the name of the song on the new movie joker?" =>
+
+input yn question: why did the uk leave the un
+answer to yn question: has_invalid
+generated wh question: "The uk left the un."
+
+#question: "What is the difference between a drive belt and a cambelt?" => #statement: "
+
+input yn question: who does bo jackson play for
+answer to yn question: has_invalid
+generated wh question: "Bo jackson plays for"
+
+#question: "What is the best way to make chocolate chip cookies?" => #statement: "The
+
+input yn question: when was the first female navy seal
+answer to yn question: has_invalid
+generated wh question: "The first female navy seal was in 2016."
+
+#question: "Who is the best golfer in the world?"
+
+input yn question: who is tom cruise in doctor strange 2
+answer to yn question: has_invalid
+generated wh question: "Tom cruise is in doctor strange 2."
+
+#question: "How many days are in a week in 2021?" =>
+
+input yn question: who won the world cup 2021 soccer
+answer to yn question: all_valid
+generated wh question: "The world cup 2021 soccer was won by team name."
+
+#question: "What is the 2021 world
+
+input yn question: who is olivia wilde to harry styles
+answer to yn question: all_valid
+generated wh question: "Olivia wilde is harry styles."
+
+#question: "Who is the president of the united states of america?" => #
+
+input yn question: when is the season 6 of my hero academia
+answer to yn question: all_valid
+generated wh question: "The season 6 of my hero academia is."
+
+#question: "What is the most popular sports team in the world?" => #statement
+
+input yn question: how did the united states acquire west florida from spain in 1812
+answer to yn question: has_invalid
+generated wh question: "The united states acquired west florida from spain in 1812."
+
+#question: "What is the best time of day
+
+input yn question: who were the ottomans ruled by
+answer to yn question: all_valid
+generated wh question: "The ottomans were ruled by sultans."
+
+#question: "What is the name of the person who invented the lightbulb
+
+input yn question: where are the winter olympics held 2021
+answer to yn question: has_invalid
+generated wh question: "The winter olympics are held 2021 in beijing, china."
+
+#question: "How many people live in las
+
+input yn question: who was elected president of india twice
+answer to yn question: all_valid
+generated wh question: "There was a person who was elected president of india twice."
+
+#question: "Why does a light bulb not light up when you turn
+
+input yn question: when did arsenal win the champions league
+answer to yn question: has_invalid
+generated wh question: "Arsenal won the champions league in 2006."
+
+#question: "What is the capital of the state of virginia
+
+input yn question: why does jughead die in riverdale
+answer to yn question: all_valid
+generated wh question: "Jughead dies in riverdale."
+
+#question: "How is a turtle the same as a tortoise" => #statement
+
+input yn question: where is the great british sewing bee christmas 2021 filmed
+answer to yn question: all_valid
+generated wh question: "The great british sewing bee christmas 2021 is filmed in great britain."
+
+#question: "Where is
+
+input yn question: who was the first lady president of the united states
+answer to yn question: has_invalid
+generated wh question: "The first lady president of the united states is"
+
+#question: "What is the best way to cook steak?" => #statement:
+
+input yn question: why are there no dislikes on youtube
+answer to yn question: has_invalid
+generated wh question: "There are no dislikes on youtube."
+
+#question: "How do you cook a steak?" => #statement: "You
+
+input yn question: when was gunpowder introduced to europe
+answer to yn question: all_valid
+generated wh question: "Gunpowder was introduced to europe."
+
+#question: "When was the first known use of the word bullshit?" => #
+
+input yn question: when did the chargers go to san diego
+answer to yn question: all_valid
+generated wh question: "The chargers went to san diego."
+
+#question: "How do you get a tesla model s" => #statement: "
+
+input yn question: who declared war first in world war 1
+answer to yn question: all_valid
+generated wh question: "World war 1 was declared by someone."
+
+#question: "What is the name of the song that has a line about a 'little
+
+input yn question: who plays jack frost in santa clause 2
+answer to yn question: has_invalid
+generated wh question: "Jack frost plays in santa clause 2."
+
+#question: "Who is the president of the united states of america?" =>
+
+input yn question: when did the chargers win the super bowl
+answer to yn question: has_invalid
+generated wh question: "The chargers won the super bowl."
+
+#question: "Where is the city of los angeles located?" => #statement: "The
+
+input yn question: how many nuclear bombs have been lost
+answer to yn question: all_valid
+generated wh question: "There are many nuclear bombs."
+
+#question: "What is the most expensive hotel in san francisco" => #statement: "There
+
+input yn question: when does a baby have brain activity
+answer to yn question: all_valid
+generated wh question: "A baby has brain activity."
+
+#question: "When is the 2018 world cup" => #statement: "The 2
+
+input yn question: where in the bible does it say not to celebrate christmas
+answer to yn question: has_invalid
+generated wh question: "The bible says not to celebrate christmas."
+
+#question: "Where can i find the history of the bible?" => #statement
+
+input yn question: what is the currency of japan
+answer to yn question: all_valid
+generated wh question: "The currency of japan is yen."
+
+#question: "What is the distance between 256 and 257?" =>
+
+input yn question: when did bert and ernie come out
+answer to yn question: all_valid
+generated wh question: "Bert and ernie came out"
+
+#question: "What is the difference between a pencil and a pen" => #statement:
+
+input yn question: when did japan get rid of the emperor
+answer to yn question: has_invalid
+generated wh question: "Japan got rid of the emperor."
+
+#question: "What is the meaning of the word georgetown" => #statement:
+
+input yn question: what does the expression done to death mean
+answer to yn question: all_valid
+generated wh question: "Done to death means..."
+
+#question: "What is the difference between a torque converter and a manual transmission?" => #statement: "There
+
+input yn question: when did michael jordan buy the wizards
+answer to yn question: all_valid
+generated wh question: "Michael jordan bought the wizards."
+
+#question: "How many children did michael jordan have" => #statement:
+
+input yn question: what crimes get the death penalty in georgia
+answer to yn question: has_invalid
+generated wh question: "Crimes get the death penalty in georgia."
+
+#question: "What is the state of new york known for?" => #statement
+
+input yn question: who does rory end up with logan
+answer to yn question: has_invalid
+generated wh question: "Rory ends up with logan."
+
+#question: "What is the name of the movie about the girl who goes to the beach" =>
+
+input yn question: where was the titanic headed when it sunk
+answer to yn question: all_valid
+generated wh question: "The titanic sunk when it was headed."
+
+#question: "What is the most expensive thing in the world" => #statement
+
+input yn question: what does the song hotel california say backwards
+answer to yn question: has_invalid
+generated wh question: "The song hotel california says backwards."
+
+#question: "Who is the father of the bride?" => #statement: "The father
+
+input yn question: who is tom cruise dating 2022
+answer to yn question: has_invalid
+generated wh question: "Tom cruise is dating in 2022."
+
+#question: "Who is the best basketball player in the world?" => #
+
+input yn question: who won silver medal for badminton in rio olympics
+answer to yn question: all_valid
+generated wh question: "There was silver medal for badminton in rio olympics."
+
+#question: "What is the difference between a pepper mill and a
+
+input yn question: when did ford start making cars
+answer to yn question: all_valid
+generated wh question: "Ford started making cars."
+
+#question: "Where can you find the best pizza in new york city?" => #statement: "
+
+input yn question: who has one billion followers on instagram
+answer to yn question: has_invalid
+generated wh question: "There is a person with one billion followers on instagram."
+
+#question: "What is the name of the female dog in the tv show
+
+input yn question: when is star screen awards 2021
+answer to yn question: has_invalid
+generated wh question: "Star screen awards 2021"
+
+#question: "Where is the best place to buy a boat?" => #statement: "The
+
+input yn question: who wrote the book gulamgiri in 1873
+answer to yn question: all_valid
+generated wh question: "Gulamgiri was written in 1873."
+
+#question: "What is the name of the town in pennsylvania
+
+input yn question: when did the chargers move to las vegas
+answer to yn question: has_invalid
+generated wh question: "The chargers moved to las vegas."
+
+#question: "What is the name of the book written by the author of the hunger games
+
+input yn question: where was the us capitol in new york
+answer to yn question: all_valid
+generated wh question: "The us capitol was in new york."
+
+#question: "What is the town of boston in england?" => #statement:
+
+input yn question: how much does the state of california pay for unemployment
+answer to yn question: all_valid
+generated wh question: "The state of california pays for unemployment."
+
+#question: "What is the difference between a pneumatic and hydraul
+
+input yn question: when did michigan shut down due to the coronavirus
+answer to yn question: all_valid
+generated wh question: "Michigan shut down due to the coronavirus."
+
+#question: "What is the best way to remove a stubborn stain from a
+
+input yn question: when did the us bomb japan
+answer to yn question: all_valid
+generated wh question: "The us bomb japan"
+
+#question: "When did the us bomb japan" => #statement: "The us bomb japan"
+
+input yn question: why is cinco de mayo not celebrated in mexico
+answer to yn question: has_invalid
+generated wh question: "Cinco de mayo is not celebrated in mexico."
+
+#question: "What is the name of the black and white dog from the movie
+
+input yn question: how do betta fish get pregnant
+answer to yn question: has_invalid
+generated wh question: "Betta fish get pregnant."
+
+#question: "What is the meaning of the word trivia?" => #statement: "T
+
+input yn question: when does iron man die in spiderman
+answer to yn question: has_invalid
+generated wh question: "Iron man dies in spiderman."
+
+#question: "Where is the famous restaurant in new york?" => #statement: "There
+
+input yn question: who does bo burnham play in sesame street
+answer to yn question: has_invalid
+generated wh question: "Bo burnham plays in sesame street."
+
+#question: "What is the best way to dry out a wet basement?" => #statement
+
+input yn question: who did we buy hawaii from
+answer to yn question: has_invalid
+generated wh question: "We bought hawaii from."
+
+#question: "What are the names of the top 50 most famous people in the world?"
+
+input yn question: when did michael jackson became a billionaire
+answer to yn question: has_invalid
+generated wh question: "Michael jackson became a billionaire."
+
+#question: "When was the first time a man walked on the moon" => #statement: "
+
+input yn question: how did snow become a l'cie again
+answer to yn question: all_valid
+generated wh question: "Snow became a l'cie again."
+
+#question: "What is the best way to keep a dog warm in the winter?" => #
+
+input yn question: who does vic beasley jr play for
+answer to yn question: all_valid
+generated wh question: "Vic beasley jr plays for."
+
+#question: "Who is the author of the great gatsby" => #statement:
+
+input yn question: what movie was the song the warrior in
+answer to yn question: has_invalid
+generated wh question: "The song the warrior was in the movie."
+
+#question: "What is the difference between a nozzle and a sprayer?"
+
+input yn question: when did college football start doing overtime
+answer to yn question: all_valid
+generated wh question: "College football does overtime."
+
+#question: "What is the difference between a snowman and an iceman?" => #statement: "
+
+input yn question: who did jenny agutter play in the avengers
+answer to yn question: all_valid
+generated wh question: "Jenny agutter played in the avengers."
+
+#question: "What is the best way to clean a bbq grill
+
+input yn question: who plays the robot in lost in space 2020
+answer to yn question: has_invalid
+generated wh question: "The robot in lost in space 2020 is played by..."
+
+#question: "How do you make a cute girl laugh?"
+
+input yn question: when does bendy and the ink machine 2 come out
+answer to yn question: has_invalid
+generated wh question: "Bendy and the ink machine 2 comes out."
+
+#question: "What is the best way to learn a language?" => #
+
+input yn question: what is the moms power in twilight
+answer to yn question: has_invalid
+generated wh question: "There is the moms power in twilight."
+
+#question: "What is the difference between the 2009 and 2
+
+input yn question: when is the senate voting on judge jackson
+answer to yn question: all_valid
+generated wh question: "The senate is voting on judge jackson."
+
+#question: "How many times does the word apple appear in the song happy birthday?"
+
+input yn question: who won rookie of the year mama 2017
+answer to yn question: has_invalid
+generated wh question: "Rookie of the year mama 2017 was won by."
+
+#question: "Where can i buy a bottle of
+
+input yn question: when did christmas day fall on boxing day
+answer to yn question: has_invalid
+generated wh question: "Christmas day fell on boxing day."
+
+#question: "What is the purpose of a large lump of ice in a drink?" =>
+
+input yn question: who did we buy california from
+answer to yn question: has_invalid
+generated wh question: "We bought california from someone."
+
+#question: "How is the city of boston in massachusetts the same as the city of b
+
+input yn question: which of santa's reindeer is the oldest
+answer to yn question: all_valid
+generated wh question: "Santa's reindeer is the oldest."
+
+#question: "How to make a tomato sauce?" => #statement: "
+
+input yn question: who does josh norman play for in the nfl
+answer to yn question: all_valid
+generated wh question: "Josh Norman plays for the nfl."
+
+#question: "What is the difference between a blueberry and a blackberry?" => #statement
+
+input yn question: how much does the state of california pay in federal taxes
+answer to yn question: all_valid
+generated wh question: "The state of california pays in federal taxes."
+
+#question: "What is the definition of a machine?" => #statement: "
+
+input yn question: what is the tree of life in avatar
+answer to yn question: has_invalid
+generated wh question: "There is a tree of life in avatar."
+
+#question: "What is the difference between a vauxhall corsa and a ford focus
+
+input yn question: when did the us invade iraq
+answer to yn question: all_valid
+generated wh question: "The us invaded iraq."
+
+#question: "What is the name of the company that owns the cricket world cup?" =>
+
+input yn question: what is the name for peruvian chinese food
+answer to yn question: all_valid
+generated wh question: "Peruvian chinese food is called peruvian chinese food."
+
+#question: "what is the name of the town in australia
+
+input yn question: who became king in game of thrones books
+answer to yn question: has_invalid
+generated wh question: "There is a king in game of thrones books."
+
+#question: "What is the difference between a fender and a bonnet?" =>
+
+input yn question: what was the first plague in the prince of egypt
+answer to yn question: all_valid
+generated wh question: "The first plague in the prince of egypt was."
+
+#question: "What is the best way to buy a home in las vegas
+
+input yn question: where does the royal family live in scotland
+answer to yn question: all_valid
+generated wh question: "The royal family lives in scotland."
+
+#question: "What is the name of the tune that is played when you win a game
+
+input yn question: who killed everyone in designated survivor
+answer to yn question: all_valid
+generated wh question: "Everyone was killed in designated survivor."
+
+#question: "What is the purpose of a single-stage rocket?" => #statement
+
+input yn question: why are there stones between railway tracks
+answer to yn question: all_valid
+generated wh question: "There are stones between railway tracks."
+
+#question: "What is the difference between a bun and a roll?" => #statement: "There
+
+input yn question: where is the grand canyon in las vegas
+answer to yn question: has_invalid
+generated wh question: "There is grand canyon in las vegas."
+
+#question: "What is the difference between a lens and a shutter?" =>
+
+input yn question: why do dogs cry at night
+answer to yn question: all_valid
+generated wh question: "Dogs cry at night."
+
+#question: "Why do dogs cry at night" => #statement: "Dogs cry at night."
+
+
+input yn question: who won the battle of fort henry and donelson
+answer to yn question: all_valid
+generated wh question: "The battle of fort henry and donelson was won."
+
+#question: "What is the best way to make a tuna sandwich
+
+input yn question: why did the uk leave brexit
+answer to yn question: has_invalid
+generated wh question: "The uk left brexit."
+
+#question: "Why is the movie 28 days later so scary?" => #statement: "
+
+input yn question: when did they stop using lead in pencils
+answer to yn question: has_invalid
+generated wh question: "They stopped using lead in pencils."
+
+#question: "Why is it called a rainbow?" => #statement: "It is called
+
+input yn question: where is the grand canyon located in az
+answer to yn question: all_valid
+generated wh question: "The grand canyon is located in az."
+
+#question: "Where can you buy liquor at walmart in kansas?" => #
+
+input yn question: what is the unesco world heritage site in missouri
+answer to yn question: has_invalid
+generated wh question: "There is a unesco world heritage site in missouri."
+
+#question: "What is the difference between a glock 23
+
+input yn question: when did the browns win the afc north
+answer to yn question: all_valid
+generated wh question: "The browns won the afc north."
+
+#question: "What is the name of the place in the world where the most people live?"
+
+input yn question: when was the bible first translated into english
+answer to yn question: all_valid
+generated wh question: "The bible was first translated into english."
+
+#question: "What is the meaning of the name kelly" => #statement: "
+
+input yn question: when did horses come to europe
+answer to yn question: all_valid
+generated wh question: "Horses came to europe."
+
+#question: "When was the year of the horse" => #statement: "The year of the horse
+
+input yn question: where did bill gates graduate college
+answer to yn question: has_invalid
+generated wh question: "Bill gates graduated college."
+
+#question: "How is the studebaker and the chevrolet different" => #statement:
+
+input yn question: when did the soviet union invade afghanistan
+answer to yn question: all_valid
+generated wh question: "The soviet union invaded afghanistan in 1979."
+
+#question: "Who is the british prime minister in 
+
+input yn question: when did the iphone se come out in the us
+answer to yn question: has_invalid
+generated wh question: "The iphone se came out in the us in 2016."
+
+#question: "What is the meaning of a strawberry in
+
+input yn question: when did the olympics start drug testing
+answer to yn question: all_valid
+generated wh question: "The olympics started drug testing."
+
+#question: "When is the isle of man part of great britain?" => #statement: "
+
+input yn question: what does the song watermelon high mean
+answer to yn question: has_invalid
+generated wh question: "The song watermelon high means"
+
+#question: "What is the definition of the word bureaucracy?" => #statement:
+
+input yn question: when did the browns go back to cleveland
+answer to yn question: has_invalid
+generated wh question: "The browns went back to cleveland."
+
+#question: "What is the name of the town in new jersey called the birth
+
+input yn question: who were the samaritans in the old testament
+answer to yn question: all_valid
+generated wh question: "There were samaritans in the old testament."
+
+#question: "What is the difference between a 2018 ford focus
+
+input yn question: what episode of spongebob has the magic conch
+answer to yn question: all_valid
+generated wh question: "There is an episode of spongebob that has the magic conch."
+
+#question: "Who was the first president of the united
+
+input yn question: when was gunpowder invented in the song dynasty
+answer to yn question: has_invalid
+generated wh question: "Gunpowder was invented in the song dynasty."
+
+#question: "Where can you get a copy of the 192
+
+input yn question: who wrote the book of genesis to deuteronomy
+answer to yn question: all_valid
+generated wh question: "There was a book of genesis to deuteronomy."
+
+#question: "How much does a gallon of milk cost in the us?"
+
+input yn question: who does josh end up with in please like me
+answer to yn question: has_invalid
+generated wh question: "Josh ends up with in please like me."
+
+#question: "When is the last day to get a passport?" => #statement:
+
+input yn question: who does george marry in seinfeld
+answer to yn question: has_invalid
+generated wh question: "George marries seinfeld."
+
+#question: "What is the difference between a sponge and a sponge?" => #statement
+
+input yn question: who plays raj's sister on big bang theory
+answer to yn question: all_valid
+generated wh question: "Raj's sister is played by raj's sister."
+
+#question: "Why is it called a jimmy hat?" =>
+
+input yn question: when did charles dickens marry maria beadnell
+answer to yn question: has_invalid
+generated wh question: "Charles dickens married maria beadnell."
+
+#question: "What is the difference between a breech and a full term
+
+input yn question: who is the movie the underdog about
+answer to yn question: has_invalid
+generated wh question: "The movie the underdog is about."
+
+#question: "When is the movie the underdog about" => #statement: "The movie the
+
+input yn question: what two particles reside in the nucleus
+answer to yn question: all_valid
+generated wh question: "There are two particles residing in the nucleus."
+
+#question: "What is the best way to make a website?" => #statement:
+
+input yn question: when is steven universe season 7 coming out
+answer to yn question: has_invalid
+generated wh question: "Steven universe season 7 is coming out."
+
+#question: "How do you get a sas account?" => #statement: "You
+
+input yn question: who won rookie of the year mama 2019
+answer to yn question: has_invalid
+generated wh question: "Rookie of the year mama 2019 was won."
+
+#question: "What is the difference between a caterp
+
+input yn question: when did undertaker start using rollin
+answer to yn question: all_valid
+generated wh question: "Undertaker started using rollin."
+
+#question: "Who is the actress in the movie the hateful eight?" => #statement: "
+
+input yn question: who plays harley in pure country
+answer to yn question: all_valid
+generated wh question: "Harley is played by pure country."
+
+#question: "What is the name of the movie where the girl falls in love with the doctor"
+
+input yn question: why are there no brahma temple
+answer to yn question: has_invalid
+generated wh question: "There are no brahma temple."
+
+#question: "How many people died in the kent state shootings" => #statement: "
+
+input yn question: when did the communist party take over china
+answer to yn question: all_valid
+generated wh question: "The communist party took over china."
+
+#question: "What is the name of the town in kansas where the tornado hit in
+
+input yn question: how many episodes of midnight texas are there
+answer to yn question: all_valid
+generated wh question: "There are many episodes of midnight texas."
+
+#question: "What is the best way to make a peanut butter and jel
+
+input yn question: who owns blue moon brewing company
+answer to yn question: all_valid
+generated wh question: "Blue moon brewing company is owned."
+
+#question: "What is the name of the candy store in chicago?" => #statement:
+
+input yn question: when does the nfl football season start for 2020
+answer to yn question: all_valid
+generated wh question: "The nfl football season starts for 2020."
+
+#question: "How much does a 1999 toyota
+
+input yn question: who does lily marry in crossing jordan
+answer to yn question: has_invalid
+generated wh question: "Lily marries crossing jordan."
+
+#question: "What is the best way to get to the niagara falls from toronto
+
+input yn question: when did they stop giving polio vaccinations
+answer to yn question: has_invalid
+generated wh question: "They stopped giving polio vaccinations."
+
+#question: "When is the isle of man part of great britain?" => #
+
+input yn question: when is the season 3 of insatiable
+answer to yn question: has_invalid
+generated wh question: "The season 3 of insatiable is coming soon."
+
+#question: "What is the date of 2018 australian open
+
+input yn question: what episode does aiden appear in just like that
+answer to yn question: has_invalid
+generated wh question: "Aiden appears in just like that."
+
+#question: "What is the difference between a human and a chimpanzee" => #statement
+
+input yn question: when is the season 6 of haikyuu
+answer to yn question: has_invalid
+generated wh question: "Season 6 of haikyuu is when"
+
+#question: "When did the cold war start and end?" => #statement
+
+input yn question: why are there ants in my underwear
+answer to yn question: all_valid
+generated wh question: "There are ants in my underwear."
+
+#question: "Where can I buy a blender for $100 in Australia?"
+
+input yn question: how many seasons of the mentalist are on amazon prime
+answer to yn question: all_valid
+generated wh question: "The mentalist has 7 seasons."
+
+#question: "What is the difference between a brake and a clutch?" => #statement:
+
+input yn question: who was the king of england in 1620
+answer to yn question: all_valid
+generated wh question: "There was a king of england in 1620."
+
+#question: "What is the difference between a bull and a cow
+
+input yn question: when does quinn leave one tree hill
+answer to yn question: has_invalid
+generated wh question: "Quinn leaves one tree hill."
+
+#question: "What is the difference between a washing machine and a dryer?" => #statement:
+
+input yn question: when is season 7 of hunter x hunter
+answer to yn question: has_invalid
+generated wh question: "Season 7 of hunter x hunter"
+
+#question: "What is the name of the song in the first trailer for the
+
+input yn question: when was the bible first published
+answer to yn question: all_valid
+generated wh question: "The bible was first published."
+
+#question: "What is the difference between a 2016 and 2017 che
+
+input yn question: who did elton john wrote the song daniel about
+answer to yn question: has_invalid
+generated wh question: "Elton john wrote the song daniel about."
+
+#question: "Where is the town called hong kong in australia?" =>
+
+input yn question: how old was george clooney in the perfect storm
+answer to yn question: all_valid
+generated wh question: "George clooney was 37 in the perfect storm."
+
+#question: "What is the difference between a moped and a motorcycle
+
+input yn question: who plays jake from state farm in the commercials
+answer to yn question: all_valid
+generated wh question: "Jake from state farm is in commercials."
+
+#question: "What is the difference between a spade and a shovel?"
+
+input yn question: why do they cut cocker spaniels tails
+answer to yn question: all_valid
+generated wh question: "They cut cocker spaniels tails."
+
+#question: "Who is the king of pop" => #statement: "There is a king
+
+input yn question: who won the women's soccer world cup 2021
+answer to yn question: has_invalid
+generated wh question: "The women's soccer world cup 2021 was won by the USA."
+
+#question: "What is the capital of the
+
+input yn question: how old was george michael when he wrote careless whisper
+answer to yn question: all_valid
+generated wh question: "George michael wrote careless whisper when he was old."
+
+#question: "Why are the scottish islands called the highlands"
+
+input yn question: who does dawson date after casey
+answer to yn question: has_invalid
+generated wh question: "Dawson dates after casey."
+
+#question: "When is the isle of man part of great britain?" => #statement:
+
+input yn question: who was president of russia in 1971
+answer to yn question: has_invalid
+generated wh question: "There was president of russia in 1971."
+
+#question: "How many teams are in the nba?" => #statement
+
+input yn question: where in the bible does it say no meat on fridays
+answer to yn question: has_invalid
+generated wh question: "The bible does not say no meat on fridays."
+
+#question: "Where can i buy ketchup in the uk?" =>
+
+input yn question: which us embassy is the largest
+answer to yn question: all_valid
+generated wh question: "The largest us embassy is the largest."
+
+#question: "Which is the best book of the series?" => #statement: "
+
+input yn question: where is pepsin found in food
+answer to yn question: has_invalid
+generated wh question: "Pepsin is found in food."
+
+#question: "Why is a drive belt the same as a cambelt?" => #statement:
+
+input yn question: where did the band name meatloaf come from
+answer to yn question: has_invalid
+generated wh question: "The band name meatloaf came from."
+
+#question: "Where is the town called bendigo in australia?" => #statement:
+
+input yn question: who wrote that's my daughter in the water
+answer to yn question: all_valid
+generated wh question: "That's my daughter in the water was written by..."
+
+#question: "What is the difference between a hurricane and a typh
+
+input yn question: when did chelsea won europa league
+answer to yn question: all_valid
+generated wh question: "Chelsea won europa league in 2013."
+
+#question: "What is the difference between a scotch and a
+
+input yn question: when is steven universe season 6
+answer to yn question: has_invalid
+generated wh question: "There is season 6 of steven universe."
+
+#question: "When is the best time to visit the vatican?" => #statement
+
+input yn question: who has more number one hits than george strait
+answer to yn question: has_invalid
+generated wh question: "George strait has more number one hits than anyone else."
+
+#question: "What is the difference between a bicycle and a bi
+
+input yn question: who is the she wolf in teen wolf
+answer to yn question: has_invalid
+generated wh question: "There is a she wolf in teen wolf."
+
+#question: "What is the difference between a crossover and a su
+
+input yn question: when did china ban video games
+answer to yn question: all_valid
+generated wh question: "China banned video games."
+
+#question: "Why are the mongolian people called mongoloid?" => #statement:
+
+input yn question: what does the kidney do in the digestive system
+answer to yn question: has_invalid
+generated wh question: "Kidney does in the digestive system"
+
+#question: "What is the difference between a 401k and a ro
+
+input yn question: when did michigan ban lead paint
+answer to yn question: has_invalid
+generated wh question: "Michigan banned lead paint."
+
+#question: "How many people are in the usa" => #statement: "There are many people
+
+input yn question: where did bill clinton stay in derry
+answer to yn question: all_valid
+generated wh question: "Bill clinton stayed in derry."
+
+#question: "What is the meaning of a small and inexpensive meal?" => #
+
+input yn question: when did the uk leave brexit
+answer to yn question: has_invalid
+generated wh question: "The uk left brexit."
+
+#question: "Why is a drive belt the same as a cambelt?" => #statement: "
+
+input yn question: where was the titanic when it crashed
+answer to yn question: all_valid
+generated wh question: "Titanic crashed when it was somewhere."
+
+#question: "What is the name of the city where the twilight series was fil
+
+input yn question: where did the battle of dieppe raid take place
+answer to yn question: all_valid
+generated wh question: "The battle of dieppe raid took place."
+
+#question: "Where is the best place to buy a car in toronto?" => #
+
+input yn question: how do they induce pain for labour
+answer to yn question: has_invalid
+generated wh question: "They induce pain for labour."
+
+#question: "Who is the best soccer player in the world?" => #statement: "The best
+
+input yn question: who did lsu play in the sec championship in 2019
+answer to yn question: all_valid
+generated wh question: "Lsu played in the sec championship in 2019."
+
+#question: "What is the capital of new york?" => #
+
+input yn question: where do we live on earth or in earth
+answer to yn question: all_valid
+generated wh question: "We live on earth or in earth."
+
+#question: "How do you say hello in french?" => #statement: "You say hello
+
+input yn question: when did the catholic church change the sabbath
+answer to yn question: has_invalid
+generated wh question: "The catholic church changed the sabbath."
+
+#question: "What is the difference between a boxer and a brindle pitb
+
+input yn question: when is steven universe future season 2
+answer to yn question: has_invalid
+generated wh question: "Steven universe future season 2 is when"
+
+#question: "What is the difference between a crankshaft and a camshaft
+
+input yn question: when does south korea celebrate their republic day
+answer to yn question: has_invalid
+generated wh question: "South korea celebrates their republic day."
+
+#question: "What is the difference between a wrist watch and a watch?" =>
+
+input yn question: when does the new season of z nation come out on netflix
+answer to yn question: has_invalid
+generated wh question: "The new season of z nation comes out on netflix."
+
+#question: "What is the difference between a tire and a tyre
+
+input yn question: who does bo scarbrough play for in the nfl
+answer to yn question: has_invalid
+generated wh question: "Bo scarbrough plays for nfl."
+
+#question: "What is the difference between a slip ring and a brushless motor?"
+
+input yn question: where was the movie silverado filmed
+answer to yn question: all_valid
+generated wh question: "Silverado was filmed in the us."
+
+#question: "Where can you buy liquor at walmart in kansas?" => #
+
+input yn question: who did the browns trade for deshaun
+answer to yn question: has_invalid
+generated wh question: "The browns traded for deshaun."
+
+#question: "What is the most popular tattoo in 2019?"
+
+input yn question: who does vic end up with on longmire
+answer to yn question: all_valid
+generated wh question: "Vic ends up with longmire."
+
+#question: "What is the name of the little girl in the little house on the prairie
+
+input yn question: when was gunpowder invented in europe
+answer to yn question: has_invalid
+generated wh question: "Gunpowder was invented in europe."
+
+#question: "When is the last day of the summer?" => #statement: "The
+
+input yn question: who does george costanza end up with
+answer to yn question: has_invalid
+generated wh question: "George costanza ends up with maria."
+
+#question: "What is the difference between the isle of man and the isle of
+
+input yn question: when is house of cards season 7
+answer to yn question: has_invalid
+generated wh question: "House of cards season 7"
+
+#question: "What is the best way to cook beef stew?" => #statement: "
+
+input yn question: how did the dutch acquire new amsterdam
+answer to yn question: all_valid
+generated wh question: "The dutch acquired new amsterdam."
+
+#question: "What is the name of the first president of the united states?" => #statement
+
+input yn question: when did the us declare war on germany ww2
+answer to yn question: all_valid
+generated wh question: "The us declared war on germany ww2."
+
+#question: "What is the difference between a 2005 ford escape and a
+
+input yn question: who wrote we are standing on holy ground
+answer to yn question: all_valid
+generated wh question: "We are standing on holy ground was written by someone."
+
+#question: "What is the best food to eat when you have a cold?" =>
+
+input yn question: when did the browns move from colorado to washington
+answer to yn question: has_invalid
+generated wh question: "The browns moved from colorado to washington."
+
+#question: "Why did the green bay packers change their name to the green
+
+input yn question: when was gunpowder invented in the middle ages
+answer to yn question: has_invalid
+generated wh question: "Gunpowder was invented in the middle ages."
+
+#question: "When did the battle of the bulge take place?" => #
+
+input yn question: how many years british ruled china
+answer to yn question: has_invalid
+generated wh question: "British ruled china for years."
+
+#question: "How to make a sponge cake?" => #statement: "You
+
+input yn question: when did nigeria became a federation of 19 states
+answer to yn question: all_valid
+generated wh question: "Nigeria became a federation of 19 states."
+
+#question: "Who is the owner of the 49ers?" =>
+
+input yn question: when did the catholic church accept divorce
+answer to yn question: has_invalid
+generated wh question: "The catholic church accepts divorce."
+
+#question: "When did the catholic church accept divorce" => #statement: "The c
+
+input yn question: who does dawson marry in dawson's creek
+answer to yn question: has_invalid
+generated wh question: "Dawson marries in dawson's creek"
+
+#question: "How are scrambled eggs and fried eggs the
+
+input yn question: when did the bible get rewritten
+answer to yn question: all_valid
+generated wh question: "The bible was rewritten."
+
+#question: "When did the bible get rewritten" => #statement: "The bible was
+
+input yn question: when did charles dickens wrote a christmas story
+answer to yn question: has_invalid
+generated wh question: "Charles dickens wrote a christmas story."
+
+#question: "What is the number of the us post office in new york"
+
+input yn question: who plays carol in santa clause 2
+answer to yn question: all_valid
+generated wh question: "Carol is played by carol."
+
+#question: "What is the difference between a cobra and a mamba?" => #statement
+
+input yn question: who wrote the book origin of species about evaluation
+answer to yn question: has_invalid
+generated wh question: "The book origin of species is about evaluation."
+
+#question: "What is the difference between a glock 19 and a glock 
+
+input yn question: when does elena remember her love for damon
+answer to yn question: all_valid
+generated wh question: "Elena remembers her love for damon."
+
+#question: "What is the name of the actor who plays the role of brian in
+
+input yn question: how did the u.s. acquire the philippines
+answer to yn question: all_valid
+generated wh question: "The u.s. acquired the philippines."
+
+#question: "Why do i need to put my bicycle in the gar
+
+input yn question: when did vivo launch in india
+answer to yn question: all_valid
+generated wh question: "Vivo launched in india."
+
+#question: "What is the name of the mountain in india?" => #statement: "The name
+
+input yn question: when does amelia shepherd die in grey's anatomy
+answer to yn question: has_invalid
+generated wh question: "Amelia shepherd dies in grey's anatomy."
+
+#question: "When was the last time the patriots won the super
+
+input yn question: when did the whig party end uk
+answer to yn question: all_valid
+generated wh question: "The whig party ended uk."
+
+#question: "What is the name of the apartment building in new york?" => #statement:
+
+input yn question: when did the vietnam war end for australia
+answer to yn question: all_valid
+generated wh question: "The vietnam war ended for australia."
+
+#question: "When did the vietnam war end for australia" => #statement: "
+
+input yn question: when did the soviet union split up
+answer to yn question: all_valid
+generated wh question: "The soviet union split up."
+
+#question: "Where is the best place to buy a macbook in california?" => #statement
+
+input yn question: when did gene roddenberry write andromeda
+answer to yn question: has_invalid
+generated wh question: "Gene roddenberry wrote andromeda."
+
+#question: "How many people are there in the united kingdom?" => #statement:
+
+input yn question: where do they inject rabies vaccine in humans
+answer to yn question: all_valid
+generated wh question: "They inject rabies vaccine in humans."
+
+#question: "What is the best way to cure a headache?" => #
+
+input yn question: when did south sudan split from sudan
+answer to yn question: all_valid
+generated wh question: "South sudan split from sudan."
+
+#question: "What is the distance between new york and boston" => #statement:
+
+input yn question: when did michael jordan retire baseball
+answer to yn question: all_valid
+generated wh question: "Michael jordan retired from baseball."
+
+#question: "What is the most popular type of gin?" => #statement: "Gin
+
+input yn question: where was the movie the birds filmed
+answer to yn question: all_valid
+generated wh question: "The movie the birds was filmed."
+
+#question: "Where is the closest walmart to me?" => #statement: "The closest wal
+
+input yn question: when did the browns move to washington
+answer to yn question: all_valid
+generated wh question: "The browns moved to washington."
+
+#question: "Why is the name of the company aerosmith?" => #statement:
+
+input yn question: when did north korea became a democracy
+answer to yn question: has_invalid
+generated wh question: "North korea became a democracy."
+
+#question: "How many people live in london uk?" => #statement: "
+
+input yn question: when is steven universe coming to netflix
+answer to yn question: has_invalid
+generated wh question: "Steven universe is coming to netflix."
+
+#question: "What is the best place to buy a washer and dryer in cal
+
+input yn question: where is the thymus located mediastinum
+answer to yn question: all_valid
+generated wh question: "The thymus is located mediastinum."
+
+#question: "What is the difference between a pelvis and a coccyx
+
+input yn question: when does rachel leave packed to the rafters
+answer to yn question: all_valid
+generated wh question: "Rachel leaves packed to the rafters."
+
+#question: "What is the best way to get to miami from orlando
+
+input yn question: who plays the fairy in a boy called christmas
+answer to yn question: all_valid
+generated wh question: "There is a fairy in a boy called christmas."
+
+#question: "What is the capital of the state of jersey?" =>
+
+input yn question: why is 1 not an odd number
+answer to yn question: has_invalid
+generated wh question: "1 is not an odd number."
+
+#question: "When is a banana a fruit" => #statement: "A banana is a
+
+input yn question: when did michael jordan sign with nike
+answer to yn question: all_valid
+generated wh question: "Michael jordan signed with nike."
+
+#question: "What is the name of the girl in the new york times photo?" =>
+
+input yn question: when does jj die in outer banks
+answer to yn question: has_invalid
+generated wh question: "Jj dies in outer banks."
+
+#question: "What is the difference between a spark plug and a coil pack?" => #statement:
+
+input yn question: when did horses come out in minecraft
+answer to yn question: all_valid
+generated wh question: "Horses came out in minecraft."
+
+#question: "When was the first time the dallas cowboys won the super bowl
+
+input yn question: when does the new season of the ranch start 2021
+answer to yn question: has_invalid
+generated wh question: "The new season of the ranch starts 2021."
+
+#question: "When was the first episode of the ranch filmed
+
+input yn question: who won the battle of fort duquesne in 1755
+answer to yn question: has_invalid
+generated wh question: "Fort duquesne was won in 1755."
+
+#question: "When did the great depression start and end?" =>
+
+input yn question: when does stefan die in season 7
+answer to yn question: all_valid
+generated wh question: "Stefan dies in season 7."
+
+#question: "How many times did jerry win the lottery?" => #statement: "
+
+input yn question: who won the little league world series in 2020
+answer to yn question: has_invalid
+generated wh question: "Little league world series was won in 2020."
+
+#question: "What is the difference between a brake and a cl
+
+input yn question: when did the bible come to south africa
+answer to yn question: all_valid
+generated wh question: "The bible came to south africa."
+
+#question: "What is the difference between a red and a blue pill?" => #statement:
+
+input yn question: when does rachel and ross get together suits
+answer to yn question: all_valid
+generated wh question: "Rachel and ross get together suits."
+
+#question: "Where can you buy a case of coors light in a store?"
+
+input yn question: where in the bible does it say birthdays are wrong
+answer to yn question: has_invalid
+generated wh question: "Birthdays are wrong in the bible."
+
+#question: "Where can you buy a hot dog in the uk?" => #statement:
+
+input yn question: when does michael cordero die in jane the virgin
+answer to yn question: all_valid
+generated wh question: "Michael cordero dies in jane the virgin."
+
+#question: "What is the difference between a rattlesnake and a diamond
+
+input yn question: what does o stand for on the periodic table
+answer to yn question: all_valid
+generated wh question: "O stands for on the periodic table."
+
+#question: "How to make a hot air balloon?" => #statement: "How to
+
+input yn question: who is a in season 7 of pretty little liars
+answer to yn question: all_valid
+generated wh question: "There is a in season 7 of pretty little liars."
+
+#question: "What is a in season 7 of pretty little liars
+
+input yn question: when does the hills start in 2020
+answer to yn question: has_invalid
+generated wh question: "The hills start in 2020."
+
+#question: "When does the hills start in 2020" => #statement
+
+input yn question: which us president killed saddam hussein
+answer to yn question: has_invalid
+generated wh question: "Saddam hussein was killed by us president."
+
+#question: "Which us president killed saddam hussein" => #statement
+
+input yn question: who won medals for india in olympics 2021
+answer to yn question: all_valid
+generated wh question: "India won medals in olympics 2021."
+
+#question: "What is the best way to make a pie crust
+
+input yn question: when did they write the preamble
+answer to yn question: has_invalid
+generated wh question: "They wrote the preamble."
+
+#question: "What is the best way to find out if a friend is on facebook?" => #statement
+
+input yn question: who was the first american woman on the moon
+answer to yn question: has_invalid
+generated wh question: "There was a first american woman on the moon."
+
+#question: "How do you get the spark plug out of a 200
+
+input yn question: when does the movie eternals come out on hbo max
+answer to yn question: has_invalid
+generated wh question: "Eternals comes out on hbo max."
+
+#question: "How are a jaguar and a cheetah the same?" =>
+
+input yn question: when did the san andreas fault last erupt
+answer to yn question: has_invalid
+generated wh question: "San andreas fault last erupted."
+
+#question: "What is the address of the 1000 santa monica bl
+
+input yn question: when did gods live on earth
+answer to yn question: has_invalid
+generated wh question: "Gods lived on earth."
+
+#question: "Where is the dmv in fayetteville arkansas?" => #statement: "
+
+input yn question: who owns the means of production in a capitalist system
+answer to yn question: all_valid
+generated wh question: "The means of production in a capitalist system are owned by capitalists."
+
+#question: "What is the best way to get to the top
+
+input yn question: when did the browns win the super bowl
+answer to yn question: has_invalid
+generated wh question: "The browns won the super bowl in 1950."
+
+#question: "When was the last time the red sox won
+
+input yn question: when did puerto rico gain its independence from the united states
+answer to yn question: has_invalid
+generated wh question: "Puerto rico gained its independence from the united states."
+
+#question: "How many miles is 1000 yards?" =>
+
+input yn question: how many jehovah witnesses go to heaven
+answer to yn question: all_valid
+generated wh question: "Jehovah witnesses go to heaven."
+
+#question: "How many people are in the navy" => #statement: "There are
+
+input yn question: who won the fight of the alamo
+answer to yn question: all_valid
+generated wh question: "There was a fight of the alamo."
+
+#question: "How many people are there in the world?" => #statement: "There are
+
+input yn question: when did west virginia became its own state
+answer to yn question: all_valid
+generated wh question: "West virginia became its own state in 1863."
+
+#question: "What is the difference between a turbo and a
+
+input yn question: where in the bible does it say yoga is a sin
+answer to yn question: has_invalid
+generated wh question: "It says yoga is a sin in the bible."
+
+#question: "What is the difference between a 1969 dodge
+
+input yn question: when did the bible say jesus was born
+answer to yn question: has_invalid
+generated wh question: "The bible says jesus was born."
+
+#question: "How many babies are born in the united states each year?"
+
+input yn question: where did top gear leave cars in india
+answer to yn question: all_valid
+generated wh question: "Top gear left cars in india."
+
+#question: "Who is the owner of the london bridge?" => #statement: "
+
+input yn question: what kind of cars are in cars
+answer to yn question: all_valid
+generated wh question: "There are cars in cars."
+
+#question: "What is the best way to prepare a pork tenderloin?" => #statement: "
+
+input yn question: who won medals for ireland in the olympics 2021
+answer to yn question: all_valid
+generated wh question: "Ireland won medals in the olympics 2021."
+
+#question: "How to get a loan from the bank" =>
+
+input yn question: how many great white sharks are in captivity
+answer to yn question: has_invalid
+generated wh question: "There are great white sharks in captivity."
+
+#question: "What is the name of the town in south carolina" => #
+
+input yn question: where was national lampoon's christmas vacation filmed wally world
+answer to yn question: all_valid
+generated wh question: "Wally world was filmed in national lampoon's christmas vacation."
+
+#question: "What is the name of the
+
+input yn question: why did france declare war on britain in 1778
+answer to yn question: all_valid
+generated wh question: "France declared war on britain in 1778."
+
+#question: "What is the difference between a porter and a stout
+
+input yn question: when does attack on titan season 4 end
+answer to yn question: all_valid
+generated wh question: "Attack on titan season 4 ends."
+
+#question: "How do you get to the phoenix in new york?" =>
+
+input yn question: where is the plane that crashed into the pentagon
+answer to yn question: has_invalid
+generated wh question: "The plane that crashed into the pentagon is in the plane that crashed into the pentagon."
+
+#question: "What is the name
+
+input yn question: when does quinn come back to glee in season 3
+answer to yn question: all_valid
+generated wh question: "Quinn comes back to glee in season 3."
+
+#question: "Where does the isle of man lie in the atlantic
