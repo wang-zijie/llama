@@ -35,7 +35,7 @@ def data_process_qa2(path):
     qa2_test = pd.read_csv(os.path.join(path,"QAQA_evaluation_set_Dec2022.csv"))
     test_wh_question = qa2_test['question'].tolist()
     test_yn_question = qa2_test['yesno_verification_question_including_valid_qs'].tolist()
-    
+    test_label = qa2_test['all_assumptions_valid'].tolist() 
     # qa2_test = pd.read_csv(os.path.join(path,"qa2_test.csv"))
     # test_texts = qa2_test['question'].tolist()
     # test_labels = qa2_test['yesno_verification_question_including_valid_qs'].tolist()
@@ -45,7 +45,7 @@ def data_process_qa2(path):
     # val_labels =  [qa2_label_dict[item] for item in val_labels]
     # test_labels =  [qa2_label_dict[item] for item in test_labels]
 
-    return train_wh_question, train_yn_question, test_wh_question, test_yn_question
+    return train_wh_question, train_yn_question, test_wh_question, test_yn_question, test_label
 
 
 
@@ -146,21 +146,21 @@ def generate_prompt(question: str, number:str) -> str:
 
 Transform questions into a statement within similar semantic meanings.
 
-#Yes-no question: "Why is a drive belt the same as a cambelt?" => #statement: "A drive belt is the same as a cambelt."
+#question: "Why is a drive belt the same as a cambelt?" => #statement: "A drive belt is the same as a cambelt."
 
-#Yes-no question: "When is the isle of man part of great britain?" => #statement: "The isle of man is part of great britain."
+#question: "When is the isle of man part of great britain?" => #statement: "The isle of man is part of great britain."
 
-#Yes-no question: "which true story is new york movie based on?" => #statement: "New york movie is based on true story."
+#question: "which true story is new york movie based on?" => #statement: "New york movie is based on true story."
 
-#Yes-no question: "Where can you buy liquor at walmart in kansas?" => #statement: "You can buy liquor at walmart in kansas."
+#question: "Where can you buy liquor at walmart in kansas?" => #statement: "You can buy liquor at walmart in kansas."
 
-#Yes-no question: "Who is the duke of oxford?" => #statement: "There is a duke of oxford."
+#question: "Who is the duke of oxford?" => #statement: "There is a duke of oxford."
 
-#Yes-no question: "What is the town called inverness in australia?" => #statement: "There is town called inverness in australia."
+#question: "What is the town called inverness in australia?" => #statement: "There is town called inverness in australia."
 
-#Yes-no question: "How are hanger steak and skirt steak the same?" => #statement: "Hanger steak and skirt steak are the same."
+#question: "How are hanger steak and skirt steak the same?" => #statement: "Hanger steak and skirt steak are the same."
 
-#Yes-no question: "{question.capitalize()}?" => #statement:"""
+#question: "{question.capitalize()}" => #statement:"""
 
 
 @record
@@ -192,7 +192,7 @@ def main(
         max_batch_size (int, optional): The maximum batch size for generating sequences. Defaults to 4.
     """ 
 
-    yn_questions, labels = data_process_boolq(dataset_path)
+    #yn_questions, labels = data_process_boolq(dataset_path)
 
     generator = Llama.build(
         ckpt_dir=ckpt_dir,
@@ -219,10 +219,10 @@ def main(
     #     plush girafe => girafe peluche
     #     cheese =>""",
     # ]
-    test_dataset = "qa2"
+    
 
     if test_dataset =='qa2':
-        train_wh_question, train_yn_question, test_wh_question, test_yn_question = data_process_qa2(dataset_path)
+        train_wh_question, train_yn_question, test_wh_question, test_yn_question,labels = data_process_qa2(dataset_path)
     elif test_dataset == 'crepe':
         test_wh_question,labels,_,_,_,_= data_process_crepe(dataset_path)
     elif test_dataset == 'falseqa':
