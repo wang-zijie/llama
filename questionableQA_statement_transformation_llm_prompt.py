@@ -144,7 +144,7 @@ def generate_prompt(question: str, number:str) -> str:
     return f"""Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
 
-Transform questions into a statement within similar semantic meanings.
+Transform a given question into a statement, like the following examples.
 
 #question: "Why is a drive belt the same as a cambelt?" => #statement: "A drive belt is the same as a cambelt."
 
