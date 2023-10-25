@@ -2413,7 +2413,7 @@ generated wh question: "Ones eyes tear up when getting hit on the nose."
 #question: "Where does the chicago river run through the city?" =>
 
 input yn question: Is it just humans that have such a hard time giving birth or is it just because we can Express it?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Humans have a hard time giving birth."
 
 #question: "What is the best way to get from boston to new york city
@@ -3854,7 +3854,7 @@ generated wh question: "Turning down the heat while cooking gives off more steam
 #question: "What is the capital of the united states?" => #
 
 input yn question: Why are some tests/exams scored on seemingly arbitrary ranges instead of straight percentage?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Some tests/exams are scored on seemingly arbitrary ranges instead of straight percentage."
 
 #question: "How are gumbo and jamb
@@ -3892,7 +3892,7 @@ answer to yn question: 0
 generated wh question: "Scandinavian languages (danish, norwegian & swedish) are considered distinct languages instead of different dialects of the same language."
 
 input yn question: If I use a plastic straw and put it in the trash, how does it make it to the ocean.
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "If i use a plastic straw and put it in the trash, it makes it to the ocean."
 
 #question: "What is
@@ -4509,7 +4509,7 @@ generated wh question: "Drinking alcohol affects a man's ability to get an erect
 #question: "What is the name of the movie based
 
 input yn question: How do executives hold board of director positions at multiple fortune 500 companies?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Executives hold board of director positions at multiple fortune 500 companies."
 
 #question: "How do you use the word dorm
@@ -5454,7 +5454,7 @@ generated wh question: "Quebec is the only canadian province with cegep instead 
 #question: "What is the best way to
 
 input yn question: Why is it in the west HIV infections are still primarily related with homosexual activity and drug use but in Africa where the vast majority of worldwide cases is it primarily spread through heterosexual transmission?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "It is in the west hiv infections are still primarily related with homosexual activity and drug use but in africa where the vast majority of
 
 input yn question: What are the cultural and social reasons to throw a sexual bachelor/bachelorette party?
@@ -6859,7 +6859,7 @@ answer to yn question: 1
 generated wh question: "There is a difference between city court, high court, and supreme court. City court is the lowest court in the legal system. High court is the
 
 input yn question: Why do digital copies of books or games cost the same as physical copies when we're helping them avoid the cost of production / shipping / warehousing?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Digital copies of books or games cost the same as physical copies because we're helping them avoid the cost of production / shipping / warehous
 
 input yn question: How does acid stay in a person’s stomach after death and not begin to immediately eat away at the body?
@@ -8084,7 +8084,7 @@ generated wh question: "Feet have a big impact on body temperature."
 #question: "How do you make a statement?" => #statement: "You can make
 
 input yn question: Why does it cost $39 to overdraft your account, or $3 for using a "foreign" ATM? What costs does the bank incur for those transactions in order to charge that amount of money?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "It costs $39 to overdraft your account, or $3 for using a "foreign" atm."
 
 #question: "
@@ -10567,13 +10567,13 @@ generated wh question: "People get accurate measures of the highest peak of a mo
 #question: "Who is the most famous person to have a birthday on
 
 input yn question: Why do old PDFs have really weird font, as if they've been scanned in, yet we are able to still select and copy text from them?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Old pdfs have really weird font, as if they've been scanned in."
 
 #question: "What is the difference between an a
 
 input yn question: Why do lightning bolts sometimes break into segments before disappearing?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Lightning bolts sometimes break into segments before disappearing."
 
 #question: "What is the definition of a quark?" => #statement:
@@ -12514,7 +12514,7 @@ generated wh question: "Solids are able to flow."
 #question: "What is the best way to put a toothpick in a strawberry?" =>
 
 input yn question: how do flies avoid hitting each other in a swarm but will constantly slam into their own reflection in a mirror?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Flies avoid hitting each other in a swarm and will constantly slam into their own reflection in a mirror."
 
 #question: "Why is
@@ -12836,7 +12836,7 @@ answer to yn question: 0
 generated wh question: "Countries such as the united states have a very high standard of living whilst being in tremendous amounts of debt; why can’t less
 
 input yn question: What are the actual consequences if you download Movies/Shows/Music off torrent sites? I’m aware it’s not legal but I’ve never come across anyone who has been punished for this. Is it not something that is widely prosecuted or is this actually enforced more than most people are aware of?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "If you download movies/shows/music off torrent sites, you are not allowed to do that."
 
 #question: "What is
@@ -13100,7 +13100,7 @@ generated wh question: "Your earphones make noise when you walk through thief de
 #question: "How is the movie the
 
 input yn question: Cannot comprehend how all these countries around the world have such high National debt.
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "It is hard to comprehend how all these countries around the world have such high national debt."
 
 #question: "How many cups is
@@ -13656,7 +13656,7 @@ generated wh question: "It is difficult to explore the ocean because it is vast.
 
 
 input yn question: when water boils, its bubbles are round, but when it freezes, its crystals are 6-sided. Why isn’t frozen water round or boiling water hexagonally shaped? Aren’t H2O molecules the same in either state?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Water bubbles are round when it boils, but its crystals are 6-sided when it freezes. There is no
 
 input yn question: How can sulfur hexafluoride stay in someone’s lungs, but co2 doesn’t even though they are both more dense than air?
@@ -13918,7 +13918,7 @@ generated wh question: "Blockchain technology can ensure diamond authenticity / 
 #question: "What is the difference between a c
 
 input yn question: With there being thousands and thousands of satellites (maybe millions? idk) all orbiting Earth at the same time, how are they not constantly colliding with each other?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "There are thousands and thousands of satellites orbiting earth at the same time."
 
 #question: "Why is the earth not flat?" =>
@@ -15748,7 +15748,7 @@ generated wh question: "You can figure out what percentage a battery is at."
 #question: "Why is the isle of man part of great britain?" =>
 
 input yn question: Shouldn't the earth's core cool down over time?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "The earth's core should cool down over time."
 
 #question: "How to pronounce the name of the country the netherlands?"
@@ -16354,7 +16354,7 @@ generated wh question: "Sinclair broadcasting group controls so many stations."
 #question: "Who is the oldest member of the national football league?" => #
 
 input yn question: Why do leftovers taste different than freshly cooked food?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Leftovers taste different than freshly cooked food."
 
 #question: "What is the difference between a raspberry and a black
@@ -19036,7 +19036,7 @@ generated wh question: "Household appliances can pick up radio signals and conve
 #question: "What is the difference between a cash
 
 input yn question: Why do you hear “the ocean” when you put a hollow object on your ear?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "You hear the ocean when you put a hollow object on your ear."
 
 #question: "Where do you go to get a free flu shot
@@ -19176,7 +19176,7 @@ generated wh question: "It is not possible to make drinkable freshwater from sal
 #question: "Why do we use the term
 
 input yn question: If you voluntarily took a lot of antibiotics everyday of your life would you eventually ruin your immune system?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "If you voluntarily took a lot of antibiotics everyday of your life you would eventually ruin your immune system."
 
 #question
@@ -19396,7 +19396,7 @@ generated wh question: "Computer screens (or tv screens) flicker when filming th
 #question: "Why is it called a gr
 
 input yn question: Why video games cost $60 as opposed to movies or other forms of entertainment.
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "Video games cost $60 as opposed to movies or other forms of entertainment."
 
 #question: "Why do we say that the v
@@ -19494,7 +19494,7 @@ generated wh question: "Some criminal cases are brought to trial very quickly in
 #question: "What is the name of the city in texas where the
 
 input yn question: Why does the European GDPR mean I'm not allowed to view some American based websites?
-answer to yn question: 0
+answer to yn question: 1
 generated wh question: "The european gdpr means i'm not allowed to view some american based websites."
 
 #question: "How many years is a
