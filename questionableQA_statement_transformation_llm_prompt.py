@@ -92,7 +92,7 @@ def data_process_crepe(path):
             elif(line['labels'] == ['false presupposition']):
                 test_labels.append(0)
             else:
-                test_labels.append(0)
+                test_labels.append(1)
 
 
 
@@ -227,7 +227,11 @@ def main(
         test_wh_question,labels,_,_,_,_= data_process_crepe(dataset_path)
     elif test_dataset == 'falseqa':
         test_wh_question,labels,_,_,_,_= data_process_falseqa(dataset_path)
+    
+    elif test_dataset == 'boolq':                                             
 
+        test_wh_question, labels = data_process_boolq(dataset_path)
+    
     task = f'llama7b_prompting_transform_whquestion_to_statement_{test_dataset}_{few_shot_number}_shot'
     prompts_list = []
     results = []
