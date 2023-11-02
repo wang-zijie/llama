@@ -10,6 +10,14 @@ from typing import List
 from torch.distributed.elastic.multiprocessing.errors import record
 import torch
 
+def data_process_aaai_paper(dataset_name, path):
+    
+    benchmark = pd.read_csv(os.path.join(path,dataset_name+"_dataset_benchmark_relaxed_rule.xlsx"))
+    yn_question_list = benchmark["Q"]
+    answer_list = benchmark["A"]
+    label = benchmark["label"]
+    return yn_question_list,answer_list,label
+
 def data_process_boolq(path):
     yn_question_list = []
     answer_list = []
@@ -101,7 +109,6 @@ def data_process_crepe(path):
 
 
 
-
 def data_process_falseqa(path):
     falseqa_train = pd.read_csv(os.path.join(path,"falseqa_train.csv"))
     train_texts = falseqa_train['question'].tolist()
@@ -118,7 +125,7 @@ def data_process_falseqa(path):
     return train_texts, train_labels, val_texts, val_labels, test_texts, test_labels
 
 
-def generate_prompt(question: str, number:str) -> str:
+def generate_prompt(yn_question: str, answer:str) -> str:
     
 ##Yes-no question: "Is there a duke of oxford?"
 ##new question: "Who is the duke of oxford?"
@@ -141,41 +148,30 @@ def generate_prompt(question: str, number:str) -> str:
 #Yes-no question: "Is canola oil made from corn?"
 #new question: "What is canola oil made from corn?"
 
-    return f"""Below is an instruction that describes a task. Write a response that appropriately completes the request.
-
-
-Transform a given question into a statement, like the following examples.
-
-#question: "Why is a drive belt the same as a cambelt?" => #statement: "A drive belt is the same as a cambelt."
-
-#question: "When is the isle of man part of great britain?" => #statement: "The isle of man is part of great britain."
-
-#question: "which true story is new york movie based on?" => #statement: "New york movie is based on true story."
-
-#question: "Where can you buy liquor at walmart in kansas?" => #statement: "You can buy liquor at walmart in kansas."
-
-#question: "Who is the duke of oxford?" => #statement: "There is a duke of oxford."
-
-#question: "What is the town called inverness in australia?" => #statement: "There is town called inverness in australia."
-
-#question: "How are hanger steak and skirt steak the same?" => #statement: "Hanger steak and skirt steak are the same."
-
-#question: "{question.capitalize()}" => #statement:"""
+    return f"""Below is an instruction and a yes-no question-answer pair input. Write a response that appropriately completes the request.
+                ### Instruction: I need you to help me understand indirect answers to yes-no questions. 
+                Indirect answers can be interpreted with three meanings: Yes, No, and Middle. Simply reply Yes, No or Middle based on the question and answer.
+                
+                ### Input:
+                Question: {yn_question} 
+                Answer: {answer}
+                Does the answer mean Yes, No or Middle?
+                ### Response:"""
 
 
 @record
 def main(
     ckpt_dir: str="llama-2-7b/",
     tokenizer_path: str="tokenizer.model",
-    dataset_path: str = "dataset/",
-    test_dataset: str = "falseqa",
+    dataset_path: str = "aaai_paper_benchmark/",
+    test_dataset: str = "movie",
     split: str = "test",
-    store_path: str = "transformation_llama_results/",
+    store_path: str = "indirect_answer_classification_llama_results/",
     few_shot_number: int = 7,
     temperature: float = 0.6,
     top_p: float = 0.9,
     max_seq_len: int = 512,
-    max_gen_len: int = 16,
+    max_gen_len: int = 4,
     max_batch_size: int = 4,
 ):
     """
@@ -222,33 +218,22 @@ def main(
     # ]
     
 
-    if test_dataset =='qa2':
-        train_wh_question, train_yn_question, test_question, test_yn_question,test_labels = data_process_qa2(dataset_path)
-    elif test_dataset == 'crepe':
-        train_question,train_labels,val_question,val_labels,test_question,test_labels = data_process_crepe(dataset_path)
-    elif test_dataset == 'falseqa':
-        train_wh_question,train_labels,val_question,val_labels,test_question,test_labels = data_process_falseqa(dataset_path)
-    
-    elif test_dataset == 'boolq':                                             
+ 
+    yn_questions, answers, labels = data_process_aaai_paper(test_dataset,dataset_path)
 
-        test_wh_question, labels = data_process_boolq(dataset_path)
-    
-    task = f'llama7b_prompting_transform_whquestion_to_statement_{test_dataset}_{split}_dataset_{few_shot_number}_shot_32_gen_tokens'
-    if split == "test":
-        test_wh_question = test_question
-        labels = test_labels
-    
-
+    task = f'llama7b_prompting_classify_indirect_answer_to_ynquestion_{test_dataset}_{split}_dataset'
+   
 
     prompts_list = []
     results = []
    
     
-    for batch in range(int(len(test_wh_question)/max_batch_size)):
+    for batch in range(int(len(yn_questions)/max_batch_size)):
         prompts = []                                                        
 
-        for wh_question, label in zip(test_wh_question[batch*max_batch_size:(batch+1)*max_batch_size],labels[batch*max_batch_size:(batch+1)*max_batch_size]):
-            prompt = generate_prompt(wh_question, few_shot_number)
+        for yn_question, answer in zip(yn_questions[batch*max_batch_size:(batch+1)*max_batch_size],
+                                        answers[batch*max_batch_size:(batch+1)*max_batch_size]):
+            prompt = generate_prompt(yn_question, answer)
             prompts.append(prompt)
             prompts_list.append(prompt)                                              
 
@@ -261,16 +246,17 @@ def main(
         )
         results.extend(result)
         #print(f"number of prompts: {len(prompts)}")
-    for prompt, result,wh_question, label in zip(prompts_list, results,test_wh_question,labels):
+    for prompt, result, yn_question, answer, label in zip(prompts_list, results,yn_questions,answers,labels):
         print(f"----------PROMPT-----------\n{prompt}\n----------END-------------\n")
         print(label)
         print(f"> {result['generation']}")
         print("\n==================================\n")
         with open (f'{store_path}/generated_question_{task}.txt','a') as wf:
             wf.write('\n')
-            wf.write(f'input yn question: {wh_question}\n')
-            wf.write(f'answer to yn question: {label}\n')
-            wf.write(f"generated wh question: {result['generation']}\n")
+            wf.write(f'input yn question: {yn_question}\n')
+            wf.write(f'input answer: {answer}\n')
+            wf.write(f'label: {label}\n')
+            wf.write(f"prediction: {result['generation']}\n")
      
             wf.close()
 
