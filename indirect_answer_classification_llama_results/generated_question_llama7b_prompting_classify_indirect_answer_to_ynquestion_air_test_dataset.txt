@@ -1,0 +1,1564 @@
+
+input yn question: Can I know your boarding airport code?
+input answer: Boarding point is New York,  EWR.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: May I know your nearest airport codes please?
+input answer: My airport codes are DEN - CLT.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you have any class preference?
+input answer: I already mentioned above.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: To proceed further with the booking I need your name, can you please share it?
+input answer: My name is Joseph Martinez.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Sure, I will help you with that Thomas White. Can you please provide your planned dates of journey?
+input answer: I would like to takeoff on October 12th and I will be returning back on October 14th.
+label: Yes
+prediction: 
+                I can
+
+input yn question: Can you please provide me your origin and travelling dates?
+input answer: I need a flight from CA - LAX on 09/17. My recur on 09/19.
+label: Yes
+prediction: 
+                If the
+
+input yn question: May I know your good name please?
+input answer: Myself, Brenda Gonzalez.
+label: Yes
+prediction: 
+                Please reply
+
+input yn question: Do you have any specifications?
+input answer: I need a single connection. The price should not exceed 500.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: There is a flight available with connection limit 1, is it ok for you?
+input answer: That's perfect flight for me, you can proceed the booking.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Can you provide your return date please?
+input answer: I would like to return on 12/14.
+label: Yes
+prediction: 
+                I need
+
+input yn question: Can you help me, To book a ticket from Oakland, CA - OAK to Seattle, WA - SEA?
+input answer: May I know your travelling dates?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: May I know your name for the documentation process?
+input answer: William Garcia here.
+label: Yes
+prediction: 
+                Middle.
+
+input yn question: May I know your name to proceed further?
+input answer: I am Stephanie Taylor.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: Do you have any class preference?
+input answer: I am comfortable with any class.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Do you have any specifications?
+input answer: I prefer connecting flight.
+label: Yes
+prediction: 
+                I prefer
+
+input yn question: Ok, may I know your travel dates?
+input answer: My travelling dates would be on 06/09 to 06/11.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can you please help me with booking a flight ticket from DFW to OAK?
+input answer: Can you please share your travelling dates?
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: May I know from where you are willing to landing at?
+input answer: I have to land at San Francisco, SFO.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: I want to attend for a seminar in DEN. Can you please make a reservation from DFW?
+input answer: May I know your trip dates?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Do you have any preferences?
+input answer: Please look for a connecting flight.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Sure, I am happy to help you with that. Can I have your travel dates please?
+input answer: Thank you for accepting my request. My travel dates are Nov 14 and Nov 16.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: May I know your source code?
+input answer: My source is TX - HOU.
+label: Yes
+prediction: 
+                <strong
+
+input yn question: Sure, can you share your trip dates?
+input answer: My trip dates are Nov 14th and Nov 16th.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Do you have any other requirements?
+input answer: I want normal cost airline preference.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you have any other specifications?
+input answer: I don't have any more requirements.
+label: No
+prediction: 
+                Middle
+
+
+input yn question: Sure, I am happ  to help you, Can you please provide your preferable journey dates?
+input answer: My journey dates are from 03/11 to 03/13.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I found a ticket for you with price of 100, flight number is 1016 and connection is 1. Is it ok for you?
+input answer: Ok, please proceed.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Do you have any specifications?
+input answer: I am looking for a connecting flight.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Is there any connection limit?
+input answer: I need a connecting flight.
+label: Yes
+prediction: 
+                I need
+
+input yn question: Can you help me in booking a flight ticket from ORD to DTW?
+input answer: On which dates would you like me to book a flight ticket for you?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Do you need any other requirements?
+input answer: I prefer a connecting flight.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Hello, do you need any help from us?
+input answer: I need to travel form ATL to LGA, can you help me?
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Yes, please I will help you with flight ticket booking. May I know your travel dates please?
+input answer: I would like to fly on 04/10 and return on 04/12.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: May I know your source and destination airport codes?
+input answer: My source airport code is CLT and destination airport code is EWR.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Sure, could you please share your departure and arrival day?
+input answer: My journey dates are 01/13 and 01/15.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Sure, can you please share your travel dates?
+input answer: Ok, my itinerary dates are on Aug 18 and return on Aug 20.
+label: Yes
+prediction: 
+                Sure,
+
+input yn question: My scheduled examination dates has been postponed, could you please help me with changing my recent reservation?
+input answer: On which name can I change your reservation?
+label: UNK
+prediction: 
+                My scheduled
+
+input yn question: May I know  airport code to proceed further?
+input answer: My nearest origin airport code is ORD and destination airport code is LAX.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I need to depart to my destination at the evening time. Can you please help me with that?
+input answer: Sorry to say, there is no flight available for you as per your requests. May I know your name?
+label: No
+prediction: 
+                Yes,
+
+input yn question: Do you have any other specifications?
+input answer: I need break in my journey.
+label: Yes
+prediction: 
+                I need
+
+input yn question: Anthony Evans, here is a connecting flight in UA airlines. Can I proceed with it?
+input answer: Please proceed.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: May I have your name please?
+input answer: I am Deborah Jones.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can you please help me to book a ticket from LAX to PHL?
+input answer: Let me the travel dates please?
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Sure, may I know your travel dates please?
+input answer: Can you make a reservation with single halt?
+label: UNK
+prediction: 
+                Answer:
+
+input yn question: Do you have any price limit?
+input answer: Make sure price should not exceed 1000.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Can I know your name please?
+input answer: Susan Evans here.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Sure, may I know your journey dates?
+input answer: I would like to travel on 12/27 to 12/29.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: May I know your name to proceed further?
+input answer: Carol Scott here.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Can you please help me with booking a flight ticket from PHX to IAH?
+input answer: Can you please share your travelling dates?
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: May I know your good name?
+input answer: Thomas Robinson is my name.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, I am here to help you. May I know your name?
+input answer: I am Brandon Moore.
+label: Yes
+prediction: 
+                Sure,
+
+input yn question: Sure, may I know your travelling dates?
+input answer: I am travelling on these dates 04/16 and 04/18.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: Sure, I am here to help you in booking. Can you please share your travel dates?
+input answer: My planned journey dates are May 30 and June 01.
+label: Yes
+prediction: 
+                Please share
+
+input yn question: There is a flight with connection 1, can I proceed with this flight?
+input answer: Please book my ticket.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Can you please help me with the airport code of Washington?
+input answer: The airport code is IAD.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you have any preference?
+input answer: I want to return in the evening time.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Can please mention your airport codes and travel dates?
+input answer: My trip is form DCA to LGA. And I would like to return on 09/01.
+label: Yes
+prediction: 
+                I have
+
+input yn question: May I know your depart and return time?
+input answer: My return time is afternoon.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Can I have your good name?
+input answer: Ashley Baker here.
+label: Yes
+prediction: 
+                Response:
+
+input yn question: Do you have any other requirements?
+input answer: I need a connecting flight.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Sure, may I know your travel dates?
+input answer: I want to fly on Jan 13, return on Jan 15.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, I can do that for you. Can you please provide me your travel dates?
+input answer: Thank you, the travelling dates are 07/01 to 07/03.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, can I know your itinerary dates please?
+input answer: My travelling dates are 10/17 to 10/19.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: I need to book a ticket to meet my friend on an event which is organised by parents but I should be volunteer that event. Can you help me for booking on 08/02 to 08/04?
+input answer: Ok, please provide your journey airport codes.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: There is a connecting flight of fare 200 with the Delta airline, shall I proceed with this ticket booking?
+input answer: Ok, please proceed.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Are there any other specifications for you?
+input answer: Make sure that my return time should be in the evening only.
+label: Yes
+prediction: 
+                <p
+
+input yn question: Sure, may I know your trip dates please?
+input answer: My trip dates are 01/19 and 01/21.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Do you have any specifications?
+input answer: I prefer a normal - cost airline with a single connection.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: May I know your name?
+input answer: I am Steven Davis.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Can I know your name?
+input answer: Ok, my name is Mary Walker.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Do you have any preferences regarding timings of your journey?
+input answer: The return time would be evening.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you have any preference?
+input answer: I only prefer for a flight having single connection.
+label: Yes
+prediction: 
+                I only
+
+input yn question: May I know your connection limit.?
+input answer: I need a connecting flight.
+label: Yes
+prediction: 
+                May I
+
+input yn question: Do you have any specifications?
+input answer: I need a halt in my journey.
+label: Yes
+prediction: 
+                No,
+
+input yn question: Hello, do you need any help from us?
+input answer: My name is Michael Green. I would like to cancel my reservation, could you help me out?
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, I will help you to book a flight, can you please share me your travelling dates?
+input answer: I would like to travel on Aug 05 and return back on Aug 07.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, I will help you with that. May I know your preferable travel dates?
+input answer: My planned travel dates are on Mar 18 and Mar 20.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Do you have any connection limit?
+input answer: I prefer for connecting flight.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: May I know your good name to proceed further?
+input answer: Myself Kevin Smith.
+label: Yes
+prediction: 
+                I need
+
+input yn question: Can you help me with your destination airport code?
+input answer: My destination airport code is SFO, please give me a quick response.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, can you please provide your journey dates?
+input answer: My journey dates are 01/23 and recur on 01/25.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Is there any connection limit for you?
+input answer: I need a connecting flight.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Ok, do you have any connection limit?
+input answer: I need a connecting flight.
+label: Yes
+prediction: 
+                Please reply
+
+input yn question: Flight-1027 is available with JetBlue airlines having direct flight and the ticket costs you 200 only in economy class. Are you comfortable with this flight?
+input answer: Ok, proceed with the booking.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: Sure, may I know your planned travel dates please?
+input answer: My travel dates are Dec 29 and Dec 31.
+label: Yes
+prediction: 
+                - Middle
+
+input yn question: Do you have any another specifications on your journey?
+input answer: I need a connected flight.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: There is a flight 1010 in Spirit airline and price 200 with a connection. Can I make reservation?
+input answer: Please proceed with booking.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Sure, can I know the details of travel?
+input answer: The dates are 03/07 and 03/09 respectively.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Do you need any stopover in between your journey?
+input answer: I need a flight with 1 connection.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Do you have any specifications?
+input answer: I would like to prefer normal cost airline.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Do you have any specifications?
+input answer: I am looking for a stopover flight.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Sure, do you need any halt in between the journey?
+input answer: I have already mentioned.
+label: UNK
+prediction: 
+                Sure,
+
+input yn question: I would like to go to meet my friend in Chicago, so could you please book a ticket for me?
+input answer: May I know your desired travel dates please?
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: May I know your good name?
+input answer: Myself Gary Hernandez.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: May I know your name?
+input answer: Jennifer Thompson here.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure Paul, Could you please provide your respective dates for booking your ticket?
+input answer: My travelling dates will be from 02/28 and I will be returning on 03/01.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you have any specifications?
+input answer: I need a single connection.
+label: Yes
+prediction: 
+                I need
+
+input yn question: Do you need any other requirements?
+input answer: I would like to depart in afternoon time.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, I will help you in booking the ticket. May I know your travelling dates please?
+input answer: My planned journey dates are 12/26 and 12/28.
+label: Yes
+prediction: 
+                Please help
+
+input yn question: Please provide your travel dates?
+input answer: I would like to take off on 01/04 and return on 01/06.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Ok, May I know your name?
+input answer: My name is Carol Thompson.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Can you please let me know your source and destination airport codes?
+input answer: My travelling airport codes are LAX and ORD.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Do you need any halt in between your journey?
+input answer: I need halt in my journey.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Sure, do you prefer any class?
+input answer: I am ok with any class.
+label: No
+prediction: 
+                I am
+
+input yn question: Oh sure. That sounds perfect for me. Can you please book it for me?
+input answer: Absolutely.  Just one moment.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can I know your travelling dates?
+input answer: My journey dates are from Aug 18 to Aug 20.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Sure, we are here to help you. Can you share me your travelling dates?
+input answer: I want to travel in the flight on June 08 and June 10.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: The HOU airlines is providing the service in this route, which is having a connection limit 1 and the price is 200. Can I book the ticket with this flight?
+input answer: Please proceed with booking.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: To proceed further, can I have your name please?
+input answer: I am Brenda Gonzalez.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Thank you for providing details, we found a connecting flight in 1022 JetBlue airline with a fare of 100. Can I proceed for booking?
+input answer: Ok, please proceed with that booking.
+label: Yes
+prediction: 
+                Answer:
+
+input yn question: Do you have any specifications?
+input answer: I want a business class flight ticket.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you have any specifications?
+input answer: I need a connecting flight.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, can you share your name?
+input answer: My name is Melissa Williams.
+label: Yes
+prediction: 
+                Answer:
+
+input yn question: Do you have any connection preference?
+input answer: I want to travel in a connecting flight.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Ok, can I know the dates in which you are interested to travel?
+input answer: I will start my journey on 04/17 and I will be return on 04/19.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Shirley Jones, we have a direct flight in Delta airline with price 100. Is it ok for you?
+input answer: Please proceed.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Let me know your source point?
+input answer: My source airport code is SFO.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Is there any class preference?
+input answer: I am comfortable to travel in any class.
+label: No
+prediction: 
+                Response:
+
+input yn question: Do you prefer stopover in between your journey?
+input answer: I need a connecting flight.
+label: Yes
+prediction: 
+                I need
+
+input yn question: Sure, I am gleeful to help you. Could you please provide your travelling dates to search for the flight?
+input answer: My travelling dates are Oct,26 and Oct,28.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Can I know your name please?
+input answer: Myself Michael Davis.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, can I know your trip dates?
+input answer: My journey dates are Sept 16 and Sept 18.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Ok, may I know your travelling dates?
+input answer: I will travel from 01/21 to 01/23. Make sure that the maximum price is 200.
+label: Yes
+prediction: 
+                Response:
+
+input yn question: Sure, may I know your departure and arrival day?
+input answer: My travelling dates are 02/20 and 02/22.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Sure, I am glad to help you with that. Can you please provide your departure and return dates of travelling?
+input answer: My travelling dates are Nov 17 and Nov 19.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: There is a flight for you in Spirit airline with flight number 1026. Can I proceed?
+input answer: If the connection limit is 1 go a head for booking it for me.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Do you have any other specifications?
+input answer: Make sure that connection limit is single and my depart should be morning return on afternoon.
+label: Yes
+prediction: 
+                Response:
+
+input yn question: I would like to change my flight reservation as my trip got postponed, can you please help me?
+input answer: May I know your name please to check the status of your reservation?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: May I know your name?
+input answer: I need a connecting flight. Cynthia Harris here.
+label: Yes
+prediction: 
+                - Yes
+
+input yn question: May I know your name?
+input answer: My name is Elizabeth Johnson.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Do you have any other specifications?
+input answer: I want a flight with single connection.
+label: Yes
+prediction: 
+                I want
+
+input yn question: Do you have any price and connection limit?
+input answer: Ticket fare limit is 1000. One connection is needed.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: I see there is a flight-1015, operated by Spirit airlines with a fare of 200. Is it okay for you?
+input answer: Ok, please proceed.
+label: Yes
+prediction: 
+                I see
+
+input yn question: Ok, can I know your specification?
+input answer: I prefer connecting flight.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: May I know your good name please?
+input answer: My good name is Frank Edwards.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: May I know your connection limit?
+input answer: I would be comfortable with single stop over.
+label: Yes
+prediction: 
+                May I
+
+input yn question: Sure, may I know your planned travel dates?
+input answer: Thank you for your response, I want to take off on Sept 07 and book my return ticket also on Sept 09.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can you please change my reservation, due to change of my trip plan to another location?
+input answer: Ok, I will help you with that.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you need a connecting flight?
+input answer: I would prefer connecting flight.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Ok, could you please provide your travelling dates?
+input answer: My journey dates are from 10/18 to 10/20.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: May I know on which dates you want to travel?
+input answer: My travel dates are 06/08 and 06/10.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Sure, can you please share your journey dates?
+input answer: I am planning my journey on 01/01 and return on 01/03.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, May I know the travelling dates?
+input answer: I starts my journey on 12/18 and returns on 12/20.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: There is a flight-1000 with 1 connection from AA airlines, shall I proceed?
+input answer: Please proceed the booking.
+label: Yes
+prediction: 
+                Please proceed
+
+input yn question: Do you want to know any thing else from us?
+input answer: Nothing. Anyway, thank you for checking. Have a nice day.
+label: No
+prediction: 
+                Response:
+
+input yn question: Sure, can I know the travel dates please?
+input answer: My journey dates are 03/23 and 03/25.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, can you please share your travel dates?
+input answer: My travel is from 12/05 to 12/07.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Sure, I am here to help you. May I know your travel dates please?
+input answer: I am planning to start on Aug 20th and return back on Aug 22nd.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Thank you for waiting, there is a flight in JetBlue airlines and price is 200. Can I proceed?
+input answer: Please proceed further.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Sure, may I know your travel dates please?
+input answer: I am planning to start on 08/14 and return back on 08/16.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: May I know your good name?
+input answer: My name is Margaret Clark.
+label: Yes
+prediction: 
+                My name
+
+input yn question: Please can I know your dates of journey to book?
+input answer: I want to fly in the flight on Nov 03 and Nov 05.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: May I know the flight details?
+input answer: The flight number is 1010 with connection limit 1 and the price of the flight is 200.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, May I know your price limit?
+input answer: My price limit is 5000.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I am here to help you. Please let me know your exact airport codes you are willing to travel?
+input answer: The airport codes are MSP and HOU respectively.
+label: Yes
+prediction: 
+                Please let
+
+input yn question: Sure, can you please tell me your trip dates?
+input answer: My date of travelling is on 12/14 to 12/16.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: May I know if you want any specific time for your departure and return?
+input answer: I want to departure on morning.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: Yes, can you tell me your dates of travel?
+input answer: My travelling dates are Nov 17 to Nov 19.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Sure, may I know your other journey date please?
+input answer: 08/05 is my other travel date.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you need a connecting flight?
+input answer: I need a connecting flight.
+label: Yes
+prediction: 
+                Yes.
+
+input yn question: Do you have any limits on number of connections?
+input answer: I prefer for a flight having single connection.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: May I know the price of that flight?
+input answer: The price is 200 with one connection.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I found a flight with the price of 200 and 1 connection limit. Can I proceed to booking?
+input answer: Ok, please proceed for further.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I want to cancel my recent reservation. Can you help me for this one?
+input answer: I will help you with that. May I know your name?
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you need a break in your journey?
+input answer: I need a flight with 1 connection limit.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Ok, provide your airport codes please? Wait a moment for searching the flights. Can I know the dates please?
+input answer: My travel dates are from 09/25 to 09/27.
+label: Yes
+prediction: 
+                No
+
+
+input yn question: There is a connecting flight available with Frontier airline, shall I proceed?
+input answer: Ok, please proceed for further.
+label: Yes
+prediction: 
+                Response:
+
+input yn question: May i know your journey locations?
+input answer: My origin is LGA and destination is OAK.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: There is a connecting flight of UA airline available with fare 200 and 1004 number. May I proceed with booking?
+input answer: Ok, Proceed.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can you please help me in booking the ticket from AUS to IAH?
+input answer: May I know your desired travel dates please?
+label: UNK
+prediction: 
+                - Yes
+
+input yn question: Do you have any other requirements?
+input answer: I am looking for a flight with 1 connection.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Sure, may I know your travel dates?
+input answer: My travelling dates are 03/19 and 03/21.
+label: Yes
+prediction: 
+                I have
+
+input yn question: Sure, can you please share me with your dates of journey?
+input answer: My preferred journey dates are 01/25 and 01/27.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Sure Dorothy Lewis. Spirit airlines running a flight in your route with connection 1 and the ticket fare is 200. Is it ok for you?
+input answer: Proceed with booking.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, can I have your name please?
+input answer: My name is Timothy Nelson.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Do you prefer break in between your journey?
+input answer: I am looking for a flight with 1 connection.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Ok, may I know your journey dates to get a flight?
+input answer: Ok, my itinerary dates are from 09/21 to 09/23.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Hello, do you need any help from us?
+input answer: I am planning to reserve a flight ticket from CLT to DEN, could you please check any inexpensive flight?
+label: Yes
+prediction: 
+                <Response
+
+input yn question: Anna, can I know your travel dates please?
+input answer: The travel dates are from 08/20 to 08/22.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: May I know your name?
+input answer: Jacob Baker here.
+label: Yes
+prediction: 
+                Response:
+
+input yn question: Can I know your name?
+input answer: I am Brenda Young.
+label: Yes
+prediction: 
+                Brenda
+
+input yn question: Thank you. Can I know your travel dates?
+input answer: My travel dates are July 31 and Aug 02.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I found an economy class in Frontier airlines with fare 100 and it is a connecting flight. Can I book your ticket?
+input answer: Ok, please proceed for further.
+label: Yes
+prediction: 
+                I found
+
+input yn question: Sure, I will help you. Can you please share me your travelling dates?
+input answer: Thank you. I have planned my travel dates as Feb 24 and Feb 26.
+label: Yes
+prediction: 
+                <mark
+
+input yn question: Sure, may I know your planned travel dates?
+input answer: I am planning to travel on June 30 and return back on July 02.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Do you have any other specifications?
+input answer: I need a connected flight. My price limit does not exceed more than 200.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: May I know your name?
+input answer: My name is Cynthia Hernandez.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I want to attend a business meeting in Chicago. Can you book a ticket from SFO to ORD?
+input answer: Please share your itinerary dates.
+label: UNK
+prediction: 
+                Please share
+
+input yn question: I want to book the flight ticket from MCO to DCA. Can you please help me?
+input answer: Please share your travel dates?
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: I found a ticket for you with price 100, flight number is 1026 and connection is 1. Is it ok for you?
+input answer: Please proceed with the booking.
+label: Yes
+prediction: 
+                Answer:
+
+input yn question: Do you have any connection limit?
+input answer: I need connecting flight.
+label: Yes
+prediction: 
+                Yes.
+
+input yn question: Ok, please may I know the dates to book a flight for your specific dates?
+input answer: My travelling dates are Jan 28 and Jan 30.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Ok, can I know your travelling dates?
+input answer: The dates are from 11/22 to 11/24.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Ok, can I know your travelling dates?
+input answer: My travelling dates are Jan 09 and Jan 11.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, can you please let me know your trip dates?
+input answer: My travel dates are from May 07 to May 09.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, may I know your travel dates?
+input answer: My journey dates are July 2 to July 4.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Do you require any stopovers in your journey?
+input answer: Please provide a halt.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: May I know your name?
+input answer: My name is Steven Moore.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Do you have any specifications?
+input answer: My price limit is 5000.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, I am here to help you with the ticket booking. Could you please provide me your requirement about the connections?
+input answer: I need a single connection.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, could I have your travel dates?
+input answer: I am planning this trip from 01/11 to 01/13.
+label: Yes
+prediction: 
+                <Response
+
+input yn question: Can you please let me know your class preference?
+input answer: Make sure it should be economy class ticket.
+label: Yes
+prediction: 
+                ### 
+
+input yn question: Yes, can you tell me your dates of travel?
+input answer: Thank you, I would like to start on Dec 12th and return on Dec 14th.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, I will help you with that. May I know your travelling dates, please?
+input answer: Ok, my planned dates are from Feb 12 to 14.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Do you have any requirements?
+input answer: I need a halt.
+label: Yes
+prediction: 
+                <h
+
+input yn question: Sure, can I know your name?
+input answer: My name is Daniel Robinson.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Thank you for your information, there is a flight 1003 with a 1 drop off in Hawaiian airlines and the fare of the ticket is 200. Is it ok for you to book the ticket?
+input answer: Please proceed.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Do you have any other preferences?
+input answer: I prefer for economy class to travel.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Sure, can you share your travel dates?
+input answer: Thank you for accepting my request, my departure is on Aug 31 and please book my return ticket on Sept 02.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Sure, can I know your travelling dates?
+input answer: My travelling dates are Feb 01 and Feb 03.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you need any break in your journey?
+input answer: I need a lay by in between journey.
+label: Yes
+prediction: 
+                I need
+
+input yn question: Can I know your depart and arrival dates?
+input answer: My journey dates are from 04/15 to 04/17.
+label: Yes
+prediction: 
+                Yes.
+
+input yn question: Sure, I am here to help you with that, can I know your good name to proceed further?
+input answer: I am Helen Robinson.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Thank you for your time, we have found a United airline, flight number-1027, connections-1 and ticket-200. Would you like me to book the ticket?
+input answer: Please proceed with the booking.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Can you please share your travelling dates?
+input answer: My journey dates are from 04/29 to 05/01.
+label: Yes
+prediction: 
+                <Answer
+
+input yn question: May I know your journey dates please?
+input answer: I am travelling on these dates 12/28 and 12/30.
+label: Yes
+prediction: 
+                I am
+
+input yn question: May I know your name please?
+input answer: My name is Katherine Gonzalez.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Sure, may I know your travel dates?
+input answer: My travel dates are Mar 15th and 17th.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: May I know your trip dates?
+input answer: My trip dates are June 16 and June 18.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Hello. May I know your name?
+input answer: My name is Charles Lewis.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I am Jason Hernandez. I am planning to meet my friend at Los Angeles, LAX. Can you please book a ticket on 12/22?
+input answer: Certainly, I will try to find a best flight for you.
+label: Yes
+prediction: 
+                I will
+
+input yn question: Can you please share me your destination code?
+input answer: Sorry, my destination code is PHX.
+label: Yes
+prediction: 
+                My destination
+
+input yn question: Do you have any preferences?
+input answer: I prefer business class.
+label: Yes
+prediction: 
+                No,
+
+input yn question: Do you have any connection limit?
+input answer: I need a direct flight.
+label: Yes
+prediction: 
+                I need
+
+input yn question: Do you have any connection limit?
+input answer: Ensure it is a single connecting flight.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Do you require any stopovers in your journey?
+input answer: Make sure it is a single connecting flight.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: I'm Nicholas Lee. I am planning to attend music concert at IAH, can you please help me with booking a flight ticket from ATL?
+input answer: Please help me with your airport codes?
+label: UNK
+prediction: 
+                Please help
+
+input yn question: Is there any specifications?
+input answer: My departure time is evening.
+label: Yes
+prediction: 
+                My departure
+
+input yn question: Sure, may I know your date of travelling please?
+input answer: My travel dates are 09/10 and 09/12.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: May I know your name please?
+input answer: Ashley Anderson here.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Do you have any connection preference?
+input answer: I like one connection limit.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Any other specifications to be met?
+input answer: I prefer to travel in an economy class.
+label: Yes
+prediction: 
+                <i
+
+input yn question: Sure, may I know your journey dates?
+input answer: I am planning to start my journey on Sept 01 and return back on Sept 03.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Sure, I can help you with that. May I know your good name please?
+input answer: Thomas Robinson here.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Do you have any price limit?
+input answer: My price limit should not exceed 500 please make sure.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Could you provide me your travelling dates?
+input answer: I am probably planned my dates on 11/01 and back on 11/03.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you have any specifications?
+input answer: Connection is 1 and price limit is 5000.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Can you help me to book a connecting flight? My trip dates are Sept 27 and 29.
+input answer: Ok, please wait for a while.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Flight 1000 of AA airlines with connection as 1 which costs 100. Can I confirm it?
+input answer: You can proceed with booking.
+label: Yes
+prediction: 
+                I can
+
+input yn question: May I know your name please?
+input answer: Samantha Campbell here.
+label: Yes
+prediction: 
+                Yes
+
