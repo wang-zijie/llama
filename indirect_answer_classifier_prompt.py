@@ -12,7 +12,7 @@ import torch
 
 def data_process_aaai_paper(dataset_name, path):
     
-    benchmark = pd.read_csv(os.path.join(path,dataset_name+"_dataset_benchmark_relaxed_rule.xlsx"))
+    benchmark = pd.read_csv(os.path.join(path,dataset_name+"_test_dataset.csv"))
     yn_question_list = benchmark["Q"]
     answer_list = benchmark["A"]
     label = benchmark["label"]
