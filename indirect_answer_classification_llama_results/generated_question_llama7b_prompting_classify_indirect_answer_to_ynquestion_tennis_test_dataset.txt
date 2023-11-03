@@ -1,0 +1,1587 @@
+
+input yn question: When you come to Wimbledon, do you keep the same routine in terms of where you stay, your restaurants, the time you eat? How superstitious are you?
+input answer: I'm not superstitious. I'm no Goran Ivanisevic. No, I'm not like that, you know. Give me a different dish every day, different restaurant, I have no problem. Or even a different bed.
+label: No
+prediction: 
+                Middle
+
+
+input yn question: Have you ever thought about the winter Olympics? Maybe you could bobsled or something. (Smiling).
+input answer: I don't know if my sprinting is up to par to be able to bobsled.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Some people say that when you are trying to do some homework prior to the competition it's very much easy for you to lose because you can't get enough information from the opponent. Is that simply because you don't know the opponent before? Does your coach Carlos help you to change you in this regard? You will stick to what you planned in advance even if you are not so familiar with your opponent?
+input answer: I can tell you the answer in the future. When I get to know an opponent that I'm not familiar with, I want to repeat again that for female players, actually we are basically equal to each other in terms of competence. Everybody have the chance to win title.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Are you surprised by this or did you expect this?
+input answer: I definitely felt I was ready for this. I knew what I could do. I knew if I stayed positive and focused, I would be able to come out with some good stuff in the end, which I did, so I was proud of that.
+label: Yes
+prediction: 
+                Response:
+
+input yn question: But never on the same court?
+input answer: Never on the same court.
+label: Yes
+prediction: 
+                Please provide
+
+input yn question: As you get more experienced and kind of more used to all this, might we see more of the real you on court in time?
+input answer: I'm sure the real me will come out a couple of times throughout my career. But hopefully gonna try to keep the serious Madison on court more often.
+label: Yes
+prediction: 
+                -----------------
+
+input yn question: Does he spend a lot of time talking to you about his time at Wimbledon and giving you advice?
+input answer: Never.  You have to ask him questions about his playing career for him to talk about it.  At the Open last year, it wasn't, "I use the crowd to get you going."  It's like, "Use the New York crowd to your advantage."  It's never really about him, which I guess is the purpose of a coach. It's amazing kind of how little he discusses it.
+label: No
+prediction: 
+                Yes,
+
+input yn question: What do you make of your first and second-round matches where you struggle, then beat three top five players like it's nothing?  Is it playing into a rhythm, physical?
+input answer: I think it's just all about doing the right things at the right time, obviously believing in myself.  I always believe in myself.  I feel like no matter who I play, I have the advantage going up. I feel like I do so many things well, I actually have a great reputation behind me, too.  I think it's a lot of factors.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: Has she got one of the best serves you've faced? Your coach said to me, She serves like a man.
+input answer: I mean, it is. I mean, start of the first point till the end of the match, every serve was like around 117 miles. I mean, this is impossible for the women.
+label: Yes
+prediction: 
+                No
+
+
+input yn question: I don't come from a small country like Serbia. Can we even understand the kind of impact that you've had at home?
+input answer: If you can believe, for example, for a country that has about maybe 8 million people and we have like three No.1s in the world in tennis, you know, I think that's pretty impressive. If somebody told us that when we began our careers, we would think it's a joke or it's not even -- it's like a mission impossible. But this shows that anything is achievable. Doesn't matter where you come from and what kind of facilities you have to train, if you're wealthy or poor. I think with the will and with the desire and the hunger, the determination, you can achieve anything. We showed that, and, you know, I'm pretty proud that we have done so well. It's really amazing success for Serbian tennis, and hopefully we will inspire other younger generations to come our way as well.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: A lot of guys go to college and stop after a year or two years. You stayed four; got your degree. Was there ever a point in your time there where you thought about leaving?
+input answer: Um, there were good -- after the first year I got to the finals, NCAA's my first year, and they were kind of strong on that one. You get older, and they kind of tend to weaken the deal to go play. Actually, they offered me a coach and offered me some help and expenses to play and travel, but I just -- I loved college too much. I just -- I didn't want to let the team down. Just had too much fun, and I was playing well, and I wanted to finish out and get my degree because you never know what's going to happen with tennis. One ankle injury, you're done.
+label: No
+prediction: 
+                ---------
+
+input yn question: Looking at the draw for the rest of the tournament, do you think you've got a good chance here of getting far?
+input answer: Well, I'm playing Azarenka tomorrow, and she's really in a good shape. She just went to the top 10, so she's obviously playing very good now. I'll just try to do my best, what I can, and we will see if it's enough or not.
+label: UNK
+prediction: 
+                ### 
+
+input yn question: When you arrive at one tournament to the next, just before things start, do you have the same sort of feeling mentally and all that, one tournament to the next? Or do you feel that, Oh, God, here I can do really well; I think this could be a good week for me? Or this is not really working out the way I wanted to? How do you feel from one tournament to the next?
+input answer: I think it always changes. Because especially when you have back-to-back tournaments, it's a good way to, you know, see what worked and what didn't work in the previous tournament, what you feel like you might need to work on. You always get a better idea of things when you're playing matches, so you're more aware of things and you know what to work on more than maybe when you came into the first tournament after only practicing for three weeks or -- you know, having the tournament I think really helps you.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: What about players who need to move to the next level? One of our own players, Heather Watson, has suggested that some of our British players are mollycoddled or perhaps lazy. From where you have battled through in Serbia, do you see it that way? Because of the facilities, the LTA gives them so much money, do you think the English players have it a little bit easier?
+input answer: There was a lot of talk about the lack of success in British tennis, having Wimbledon, having LTA as a very successful organization who has invested over 40 million into the National Tennis Center. Of course they're expecting to produce a new wave of successful players that can compete with top players for major titles. This country has the history of this sport, obviously beginning with this tournament. There is no reason to believe that they would not want to have more global success and players who are able to reach bigger heights. But, again, it's probably a systemic problem or issue that they have to work with, the mental approach of the players. Having the right conditions, having everything in front of you at your availability to use anytime you like is not essential for success at the top level. It's an individual sport. It's quite different from any other team sport. It's important to have the right mental approach, the hunger for success, the proper surroundings, the people who can encourage you who know in which way you should develop and practice daytoday. In my own experience, I could feel everything that I do on a daily basis on and off the court will reflect sooner or later on my success and on my tennis results. It's very complex and very demanding sport in general because you are alone on the court and you cannot rely on anybody else once you are there. It's you against your opponent. It's becoming more and more popular around the world, which makes the competition stronger. But, again, considering the tradition that this country has in this sport, the conditions that they have with their National Tennis Center, I believe sooner or later they will have a certain amount of players, both men and women, who will fight for major titles.
+label: UNK
+prediction: 
+                Middle
+
+input yn question: When you win, how many of them do you allow yourself to eat? And when you lose do you get to eat more as a consolation prize or is it the other way, do you punish yourself and have a bit less?
+input answer: I will probably have to answer that question once the tournament is over (laughter). It depends how fresh they are. I don't know. I usually allow myself a couple here and there, but on tougher occasions I allow myself more than usual. Yeah.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Can you say a few words about your new coach? How different is he?
+input answer: Well, we started working together at the US Open. But since we started working together, we never had much time to have a long period together because there were tournaments all the time and we couldn't working on specific things. When you want to work on something specific, you need more time. So what was important for me was that he could watch me play in different circumstances on different surfaces so that he could have a real opinion about my game. Now he knows. Even if he had an idea before, now he knows exactly what I need to work on during the offseason. I really hope he's going to bring me new things for my game. I know I have to work on many things. I have a margin for progression. This is positive. This is why I chose him. And also, I know he's going to be very strict about my game and my physical training.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: 11-0 against Federer.  Does that make you even more eager to beat him?
+input answer: You got to count the first seven that I won, so it's not that bad.
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: The shop, has it gone as well as you hoped? Am I right in thinking it's kind of a popup thing?
+input answer: It is.
+label: Yes
+prediction: 
+                It is
+
+input yn question: Coming off the win, do you feel right now that your own expectations of yourself has risen?
+input answer: Um, not really. I'm just -- as long as I'm on court I'm just trying to win, more or less, and I'm trying to win every point, or, you know, sometimes put a little show in there. But I'm just trying to enjoy it. I'm just trying at the moment not to be angry on myself if I'm losing.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Did you need to have a complete game today or are you happy with the one set?
+input answer: You know, I think I had enough tennis already the last couple weeks. It's good that, you know, you don't spend that much time on the court, maybe save some energy. But I'm going to be ready for next match.
+label: nan
+prediction: 
+                Yes,
+
+input yn question: Former No.1. Does that seem a little bit strange?
+input answer: For both of us. I didn't say former champion. I said former Grand Slam champion and former No.1.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Do you remember much about that night?
+input answer: I remember some. I don't remember every day, but I definitely remember the Pernfors Wilander match. I think it was on Louis Armstrong where I was there until 2:30, 3:00 in the morning. We started up higher up, and then by like 1:00 a.m. they let everybody move down closer to the courts. I remember also watching Sampras and holding up the 120 miles per hour signs, which now I guess you'd have to change that to like 135. There are a few memories like that that stick out for sure. I remember being with my brother and sister  my mom didn't make it. It was a fun time and I was already big into tennis, but that even made it even more just being able to see the biggest stage in the U.S. for tennis.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: You came here last year on top of the world, French Open champion, new No.1. Are you happy on court right now, or does it ever feel like the pressure got too much for you? How did you cope in the last year?
+input answer: I'm very happy on the court at the moment. I think that's what made the big difference because there was time when I was not really happy being out there because I didn't feel confident and I didn't feel comfortable because I sort of felt I didn't have tools to deal with certain things, you know. Just maybe it was because I wasn't, you know, practicing in the right direction, and I went a little bit off the track there. But now I feel I'm putting the things in place that need to be taken care of and I feel I'm on the right way and that gives me confidence, so I'm back enjoying.
+label: Yes
+prediction: 
+                - Yes
+
+input yn question: You returned very well, and yet Wickmayer is known for having a rather difficult serve. Was it quite easy to read today?
+input answer: Um, yeah. Well, honestly, sometimes she was serving at the same place or just body to me, so... Or I think she was just kicking the serve mostly. Like she wasn't really going for ace or something like this, so it was pretty tough to return. But I don't know, it just worked well today.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Are you saying it did affect your return?
+input answer: Actually, this is not the point of the problem, you know. The problem is that when the linesman call it out and it's not a clear ace which wasn't. I mean, I just hit the ball into the net because I heard it out, then he cannot give a point to him. Even if he take a challenge and the ball is good. That's why we have a challenge to repeat the point. Because the linesman wasn't right; the challenge show it's good; then should be two points. I have no idea where he find out that it's the point for him. No, I never seen that.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: You said before going against Federer you feel like you've got nothing to lose. Do you feel like you're going into the match on equal terms or as the underdog?
+input answer: I cannot compare my success to him. Of course he's the main favorite next to Nadal to win the title of any tournament they play on. They're the best two players in the world. As I said, I have to be confident on the court, have the right attitude, and that's the only way I can beat Roger or Rafa. There is no other way. If you go out there and try to play your best tennis, you don't deserve to be there. You're not going to get any positive outcome.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: It still gives you confidence two years after?
+input answer: Listen, I didn't need to play that match to know that I could play on grass. It's something that I feel like I can do pretty well. I understand a lot of the nuances of it. I made runs in the slams before. I'm healthy for the first time in a while. You know, I don't feel like I'm compromising my game right now. So I feel good about where I'm at.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Ana drew a lot of support from the crowd. Did you feel the crowd was against you at all throughout the match?
+input answer: I just felt like the crowd often goes for the underdog sometimes. And she was playing well, and she was hitting a lot of winners. I don't think the crowd was against me. I think they wanted Ana to play well.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Talk about your fighting spirit. Do you think that's a real strength of yours? Could you reflect on that for a moment?
+input answer: Definitely. I think it's -- that's the main thing that pulls me through some very tough matches that I've had, in juniors and some women's tournaments. I mean, what really drives me to keep my fighting spirit and, saying, Come on, and pumping myself up on the court, is that I see all the top players doing it and obviously it must help them, because they're on the top, you know.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: One of the features of the tournament is you get wellknown sports people here, Olivier Giroud and Laurent Koscielny. Do you get to know these sports people throughout your career?
+input answer: They are friend of mine. It was very nice for them to come here. I saw them on the corner. It was nice they support me. I thank them for coming. I appreciate it.
+label: Yes
+prediction: 
+                I appreciate
+
+input yn question: The shirt you were wearing today, a fashion statement?
+input answer: Well, probably you guys are here for the fashion statements. I'm the one who wear it. I will not say much about it. But, no, I think it's something different, something you cannot see on the others, which I really like. As I'm a face of a fashion brand, then I need to listen and go whatever they make. You know, I think that's what it's all about, the people starts to talk about it, the people are interesting in it. Of course, you will get some negative feedback as well. You cannot make it perfect for everyone. It's the matter of the taste. But in the end it creates some action. That's what I like.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: Do you see him winning the tournament?
+input answer: Winning the tournament? I can't say. There are other players who play very well, as well. Before the tournament, I said he was my favorite. But now that he defeated me, I'm not going to say the contrary.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Are you losing power as a result?
+input answer: I don't think so.  I mean, I serve pretty consistently today.  I hit one 115 or 116 actually.  But I feel like my speed is getting here.  In the middle of year I was just trying to get a higher percentage of first serves in and now I'm feeling like I'm getting a lot more velocity in it.
+label: No
+prediction: 
+                Middle
+
+
+input yn question: Was the tear in Indian Wells a grade 2?
+input answer: I think they described that one as a 1.5.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Your reading of what Kevin Anderson was going to do today really stood out. Was that luck or was there a bit more, a sixth sense in reading what he's going to do?
+input answer: Well, yeah, I mean, I guess, you know, anticipation is yeah, a bit of it's guessing, but a bit of it is just sort of being educated in a way that you can see certain movements that they're making just before they hit the shot and almost thinking what they're thinking, as well, in that little split second that you have to make a decision which side to go. But, yeah, that's just part of defending in the game. Anticipation is very important. It's something I've done well since I was a kid.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: With the rain delay and everything like that, must be nice to get on and off the court quickly in your first grass match?
+input answer: Well, I don't know if it's nice to go on and off, but I think I would prefer to stay longer and stay and play during the whole match. But doesn't matter. It's same for both of us. No, I mean, here we are, and that's quite usual. I mean, I think it's a preparation for Wimbledon with everything, you know. Especially these tough moments, it's also good to know how to handle that, and I did it quite well. So I'm happy for it.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You know why it is, though? Because of the commercial deals that each tournament can make for itself. So do you think this is a problem that is an indication of everything that you're talking about?
+input answer: I am very happy to win less money and be more health.
+label: Yes
+prediction: 
+                Answer:
+
+input yn question: Can you describe the difference between thinking you can win and knowing you can?
+input answer: I'll try. The difference, what I felt, was I played him at Wimbledon. I served the opening game. I lost serve in 45 seconds at 15, and wasn't unbelievably surprised. You know, I was like, Oh, not a good start kind of thing. I was down 15-40 here and I felt like I left maybe one or two points out there in those four points. I felt like I wanted a better start than Wimbledon. It's just that small belief that I really felt like I could win. Not that I wanted to win, I really felt like I could and maybe should win in that scenario. That's best that I can do.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: You don't remember the shot? It was a good shot.
+input answer: Anyway, it was a good one? Perfect. No, but like you say, I think there were some good ones out there, some unusual shots, you know, like the lob, the passing shots, the little flick stuff. You have to come up with -- I remember that's how I played the whole time, coming up, and then I had to improve so much on my baseline game because all the guys leading the rankings sort of like Ferrero and Nalbandian and Hewitt and Safin and Roddick even, I mean, they were all playing from the baseline. This is when I realized I also have to be more patient and not just approach on anything, because they were not coming in anymore. You have to maneuver the opponents around a bit more and be smart about it. So it was a really fun match. I enjoyed it.
+label: No
+prediction: 
+                You mean
+
+input yn question: Obviously winning this event in itself is a big thing. Is there also a sense with you that you want to put down a marker as well in terms of next year to show that you're going to be right in there sort of breathing down Rafa's neck?
+input answer: Well, I think regardless if I win here or not, I'm one of the big contenders with Rafa and other guys trying to win the big tournaments. But obviously this would just help on - how do you say - a level starting the season great in Australia, finishing the season great in London would be, you know, the circle is sort of closed. Then again, I'm still two matches away, two really tough matches. I'm most likely going to play against top-five guys. Depends who I play, I don't even know yet. It's going to be a tough weekend ahead of me. That's my focus right now. So far it's been good, you know. I won against top-10 players in straight sets. That's going to make me feel obviously awfully good for the weekend. But I hope I can keep it up. Tournament's not over yet. This is really when it starts for me.
+label: nan
+prediction: 
+                No
+
+
+input yn question: After the first eight games  you were hitting it so well. What turned it around, do you think?
+input answer: Well, you know, great tennis at the start, but I knew that the main problem today will be the continuity of my energy. Unfortunately, it wasn't to be after the second set. And during the second set I already felt that physically I'm down, and I struggled every game. Yeah, it's unfortunate; but on the brighter side, I have a little bit more time to rest because I had really difficult period in the last couple of weeks. Some things happened and a lot of things on my mind and had to do, so right now I just need a couple of days' rest before London.
+label: nan
+prediction: 
+                -----------------
+
+input yn question: You came in on second serves a lot. Is there no other way to go? Because you don't compete with a guy like that at the back court. Is that how you see it?
+input answer: I can play from the back. I can play from the net. I choose to come in. That's the way I want to play.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Has her game gotten a lot more varied in the last year or so, would you say?
+input answer: She worked hard, I think, in the off-season.  Apparently her shoulder is good now, so it gives her a lot of self-confidence.  She serves great.  She did everything well today.  She was playing the lines.  She was really aggressive.  She was attacking the ball, and I was way too far. She, I think, improved quite a lot in the last few weeks and came back much better than she was last year.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: You make fun of your husband quite a bit. We were wondering if he ever gets you back or goes to a corner and cries? What's the reaction he usually has? Is there retaliation from him?
+input answer: I mean, he always try to be like nice one, you know. I was the worst one. But so don't listen what he do, what he say, and don't look what he do. Because sorry to say that, but sometimes the guys is a little bit faking, you know. Yeah, but how you say? Yeah, he was traveling like it's tough time for him, as well. He always got a lot of pressure, because he was give up the job just traveling with me. So that's why after  I was feeling he pay a lot for me, so that's why I was feeling I wish after I was retire I can pay back to him. Yeah.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: How comfortable or uncomfortable did you feel out there?  Didn't look the Roddick we've seen here?
+input answer: It's annoying, because I've been -- it's not like a hitting the ball issue like it was last year.  It's just I wasn't -- I just wasn't up in the court.  I didn't have a set game plan and it was just my fault.  I didn't do what I've been practicing and, you know, for whatever reason. When you don't do that it makes it real difficult on yourself.  So, yeah, I mean, it wasn't the -- how I normally play here.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Comments about coaches letting players slip and slide and that sort of thing, do you not think will we not see much of an advancement in British tennis unless the attitude changes?
+input answer: I guess it just depends who you are. I don't know who the next people coming up are after the junior players now. You know, I say we could suddenly have lots of good players or we could have not so many.
+label: UNK
+prediction: 
+                -------------
+
+input yn question: You and Michael Jordan are with Nike. I take it Phil Knight doesn't arrange parties?
+input answer: I never got my invitation. Maybe they don't have my address. No, I think our schedules are too busy for everyone to get together, yeah.
+label: UNK
+prediction: 
+                No
+
+
+input yn question: Could you talk about Vania's game?  Obviously the Americans, beyond the Williams girls, the American tennis right now is suffering a little bit.  She's one of the young up and coming ones.  Do you think she has what it takes?  What does she need to get to the next level?
+input answer: Well, she's playing well.  She gave me a little bit of trouble in the first set.  She has a good backhand.  She's taking the opportunities, and she didn't look very nervous in the match.  So good qualities, but who knows what's going to happen for her in the future.  We'll see.  I. Mean, it's tough for American tennis now.  They're suffering a little bit, but I'm sure they will get good players in the future.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can you just look at your semifinal matchup and talk about her?
+input answer: Well, I played Simona a few times, last time in Rome on clay, so a bit different conditions, of course. But, well, I think she really had great season last year, having some really good results, and as well here I saw her playing a couple of matches, also. Today she was playing unbelievable. Well, for sure tough match, but it's a semifinal, so I think there is a little bit less pressure, because, you know, this is a really good score, and now I think everyone is going to play good. I'm really looking forward, and for sure it will be tough one.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Are you planning to bring a different coach in, or are you going to continue to be like this for the time being?
+input answer: We will see. I have been playing so many matches. I have been hitting so many balls that I don't really feel like I can change a lot to my game. Certainly having someone in my box cheering on for me will help me, but it's not really my main focus right now. My main focus is to improve physically. I think today, considering my flu, arriving just yesterday, I can see already the improvement physically. I mean, the way I was moving in the second set and the way I handled all those tough rallies, I was really pleased with that. So that's first my main direction, and then if I feel I need to bring out someone on the court with me, I will do the move, but right now it's not my main priority.
+label: UNK
+prediction: 
+                Yes:
+
+input yn question: A lot of the Australians tend to play on Margaret Court and have been successful there. Wayne Arthurs used to like playing there. Something particular about that court that suits the local players?
+input answer: I mean, it's a great crowd out there. Obviously the third biggest court here. You get a good crowd out there. They're always chanting and cheering for you. It's great to have their support out there. I mean, it's quite a nice court to play on.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: I saw you playing very well yesterday against Fognini and today even better, or is it just two different opponents with different games?
+input answer: First, it's two different opponents. Second is that I think I was just very consistent. I had a good level yesterday. I felt that early on today I had a good level, too. For me, I didn't have to do anything else in a way. I didn't have to improvise much. All I had to do is play a solid game. I think that was pretty much it for me. Everything else was just coming and I was playing good, game after game, starting to feel a bit more confident. Again, I didn't think Stan played his best tennis, that's true. Everyone saw that. But winning is winning.
+label: Yes
+prediction: 
+                I think
+
+input yn question: Could you arrange me?
+input answer: Electrolytes, Gatorade, a lot of water, bananas, whatever it takes.  Good luck, huh?  Is everyone playing?  Someone need some coaching?
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Any reason why you felt you were down in the first three sets in terms of quality?
+input answer: What's the question?
+label: UNK
+prediction: 
+                Any reason
+
+input yn question: Was he more maybe difficult than you thought, dealing with the ankle and the grass and change and stuff like that?
+input answer: I knew it was difficult because I had a few problems in practice. But it's just so little time to get ready for it. That was really the first true test on the grass to put it through. It was okay.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Speaking of the next round against Li Na, will you approach that match with the same strategy? Seems last time it went down very well. She's also on a very good momentum at this time.
+input answer: We played I think like 10 days ago. But it's always tough against her. She's always playing very solid tennis. I think I really have to play aggressive against her, definitely serving good, really playing my hundred percent the best tennis; otherwise I'm not going to win, for sure.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Do you think after your performance today it's time for everyone to start taking you more seriously as a contender this year?
+input answer: To be honest, I'm not thinking about if somebody takes me or takes me not for serious contender. I don't care too much. I really just try to focus on my game. I'm happy with the way things are moving on for me at this point. Physically I feel very fit, and mentally I'm very focused on the court and taking every match very seriously. This is the only way for me to go far in the tournament. So far I've been feeling very confident and just trying to move on.
+label: No
+prediction: 
+                <input
+
+input yn question: Given the nature of the way you got to the Finals in the first place, is there enough in the tank to do things the hard way again this week?
+input answer: Well, I felt okay on the court today. I don't think that was the reason why I lost the match. I guess if I was to play a threehour match which was extremely physical, then maybe I would feel fatigued in the latter stages of a match like that. But, yeah, obviously now I need to win my next two matches more than likely, and win them well if I want to go through. That's going to be tricky because Milos obviously played fantastic last week in Paris, and Roger always plays well at this event. So I'm definitely going to have to play better if I want to get through.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: Are we seeing the new Mario Ancic of the game?
+input answer: I don't know if it's new.  I have my own game, so I don't know.  It's good to compare me with Mario, because I am -- has a good game for his height.  So I think I should develop more as he is playing.  So I'm going to try to play more aggressively and try more to come into the net.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Do you feel like you have missed a good opportunity to win your first Grand Slam this time?
+input answer: You can always say I missed this opportunity. You can always -- if you look at the match, you can always look at the opponents and everyone who's left in the tournament and say, I should have been there. I could have been there. To be honest, Li Na played a really great match today. It was a great effort for both of us. She just came out as the winner of this match. I wish her good luck in the finals. That's it. I will come back. Just need to have an hour or two and I'll be back and on the right track again.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: So when she got back to 4-3, were you thinking, No way she maintains this level? Or were you thinking, Now I might have to raise my game even more?
+input answer: Like I said, 4-3, I didn't really change anything. She was start to play so much better, really like no mistakes, she was like going for it. Every game was very close. Even when I won those 10 games in a row. It looks like the same in the first set, but those games were just going to my side. But, you know, also was a good game on my side when it was 4-3. I had a couple good shots. It was pretty close in the end, yes.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: Your aces were quite high. I think your placement was very good. You seemed to have lost a bit of power. Would you accept that?
+input answer: As long as my placement is good, I don't argue about the power. It's important I think -- I think it's more important to have the good placement and, you know, lots of free points.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: You've had an extraordinary year.  In your heart, do you think you're ready to win a Slam, a major?
+input answer: I think I'm ready, and I need to be ready.  I need to think like this.  I need to believe in myself, because otherwise I wouldn't get the positive outcome.  I don't want to go out tomorrow and try to do my best or try to perform well.  No, I'll go tomorrow to try to win.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Even though you haven't had time to think about it, you've already seen him play since he came back from his injury. Have you seen anything different, any new weakness, something you can attack that he didn't have before the injury?
+input answer: You know, between clay court and indoor is different. Sometimes he is pretty fast for him. That's was he losing control. He cannot control from baseline always. That's was I think he from baseline is pretty fast. That's was for him is very difficult.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Are you learning to watch or pay attention beyond knowing what the time of the match is before you?
+input answer: I mean, I watched it.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: You had kind of a slow start today.  Can you talk about how you got into the match and what you were thinking at the beginning?
+input answer: Well, a little bit in the beginning a little bit nervous.  Every match is very difficult because you play only against the best.  So I start the match with, well, little bit doubts, no?  But later I play a little bit more aggressive. Very important was do the break in the beginning of the second.  I finish much better than I start, no?
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: You won in Cincinnati last year. Your father was architect of that strategy. Did you get any advice from your mother today?
+input answer: My mom is very supportive. You know, I cannot say she's the coach because she doesn't really get involved so much when it comes to the tennis game. But she's very, very positive woman, always gives me positive energy and always is there even when I'm down, when I'm winning. She always gives me words of encouragement and is always there for me. So I really appreciate, you know, her help. It means a lot to me to have her in my box.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: The level, not your best tennis but playing well enough to win again and again. Was that sort of what you were feeling out there?
+input answer: Definitely. Like I said, Mona's a great player. When she's on she's playing some good ball. Obviously when you're not on it's tough to match that, but I think today I just stuck in there and I knew that if I kept at it, I would eventually get my chances, which was good. So I just hung in and kind of just waited for it.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: The fans at the start of the game, they were fantastic for you. Are you getting used to that sort of reception on the big arena here?
+input answer: I am. I mean, look, the crowd got me through last year, got me through today. If you had to leave because of the rain, I'm sure they got annoyed. But in the next round, hopefully I can have as much supporters as I can.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Is there a more mentally tough opponent out there than Lleyton Hewitt?
+input answer: He's certainly up there.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can you possibly compare TeamTennis on the one hand, which is team, coed, rowdy, American, unconventional, versus Centre Court, traditional, English? Can you compare the two?
+input answer: Yeah, I mean, I think going into it I thought it would have been a little bit more tamed. Maybe because the roof was closed it seemed 10 times louder. But I kind of felt kind of the same out there. After a crazy point, pumping my fist, have the crowd, you know, enjoying it, clapping, I just felt like it was kind of the same environment.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Is it distracting when she's catching her toss as much as she does?
+input answer: You know, it's not really distracting, you know. Just sometimes she hits it, you know, when she toss it bad, and sometimes she, you know, catches it and serves again. So you always have to be ready, because you don't know, you know. But, you know, it's the way she does it. You know, there's nothing I can do about that. It's her thing.
+label: No
+prediction: 
+                You know
+
+input yn question: We know that you are in the final in the previous Championship here in Doha, now you are realizing good results in the second win. Do you have such feeling in some countries that you feel better in some countries or is it just like that?
+input answer: Well, Doha is definitely great for me, because I have only good memories from here. I don't know what's going to happen in the future, it may change. But so far it brings me luck (smiling).
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you work very hard on your serve or is it natural?
+input answer: Well, I didn't have good serve, so I had lots of work with this.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you enjoy being the one guy from H& M instead of five like Nike guys in the top 10?
+input answer: Definitely I do. It's something very unique, very special, especially in this kind of brand, as I said, which is not a mainsport brand. It's something else. It's a fashion company. You know, they choose me to be the only one. Really it's a huge, huge national, worldwide brand. So, yeah, it feels very special to me.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Every time when we talk about the young or junior players you are not very much confidant for them. Today Ze Zhang is competing with Gasquet. Will you bother to make comments on the significance of this match? Because in China it's not easy first to have excellent, you know, Chinese male player as you are in Top 10.
+input answer: Actually, a lot of people ask me why in China we only have female competent players but not male competent players. I would say probably the male players in China prefer to choose table tennis, as a joke. Then I would say that they havent woken up. Today Im happy that Ze Zhang beat a Top 20 player in China. I think that's very important, a significant match for him, and he's going to gain more confidence in his professional career. If he failed to win Gasquet today, probably he's going to be a little bit negative towards the match. Its a big step for him to win this match.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: So the umpire was out of line?
+input answer: I don't know the specific thing you're talking about. If you're talking about yelling during a point. I hear people saying, why do you have to be quiet? We use all of our senses. If someone slices, if someone really cracks the ball, that's programmed into our minds. So I think that's important. People moving and whatnot, we're trying to see a ball moving at a hundred and whatever miles an hour. As long as it's in the framework of being respectful, then I'm all for it. You can do a handstand if you want.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You seem in pretty good spirits despite the loss.  Does the enormity of this week outweigh the disappointment of losing tonight?
+input answer: No, I am disappointed.  I wouldn't say that I'm not, especially how I let the second set slip away, I guess, in a way. But I've got to take the positives out of every match.  I've got to take the mental gains that I've made, the physical, the match play, everything.  I've got to try to take out the positives. Yeah, obviously disappointed, but I guess move forward and next week I'm going to be playing Fed Cup for Australia, so I have no time to feel sorry for myself.  Got to get back on the court and keep working at it.  Yeah, hopefully Australia, we can have a good week next week in Thailand.
+label: No
+prediction: 
+                Yes:
+
+input yn question: Can you talk about tonight's match a little bit. Is that the best you felt on court this week? Especially the second set, you didn't make many errors.
+input answer: I thought I already played well in the first set against Julien. He did very well in the first set on his own games, put me under pressure, especially towards the end of the set and the tiebreak. It was a tough set. I thought I played very well against Bautista Agut, but maybe tonight was a bit better. Especially once I got in the lead, it's nice to have those great 10, 15 minutes where you can stretch it really. That's what I was able to do. So this probably was my best match so far.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Did she change the tactics on you, try to make you run more? What did you feel she was doing differently?
+input answer: Well, I think I let her do more things 'cause I went like one step behind. I had this on my stomach. You know, when you let the other ones play, you're going to start to run. I think that was it.
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: Do you feel like you played the wrong shot on any of those four points?
+input answer: I don't really remember exactly the four points.  It was a long game, actually.
+label: UNK
+prediction: 
+                I don
+
+input yn question: Is it strange to kind of lose three matches in one tournament? Strange format, no?
+input answer: Well, I mean, this is a tournament, like I was saying before, even if you're losing you can still going forward. Of course in the beginning maybe my first time in the Champs it was always weird. Now I think when you go here you can expect that.
+label: UNK
+prediction: 
+                <p
+
+input yn question: After struggling with your knee and elbow injuries a few years back, some have said that you're playing the best tennis you have played in your career. Is it the physical being the better part, or is it just time, that your game is starting to come together?
+input answer: I think it's a bit of time. The elbow and the knee is more of a constant thing. After Australia the knee wasn't feeling that great, and it was a little iffy of whether I was even going to be playing Delray Beach. It's quite temperamental really. It's settled down a lot and it's been feeling better over the last few weeks. Just taking care of that and staying healthy, picking my schedule. I have really put as much emphasis as I can on giving myself the right amount of breaks and really  fortunately being in the position where I can pick and choose my tournaments has helped a lot. Staying healthy is such an important thing. It sounds obvious, but you're not at 100% it's really tough to compete. It really throws you off your whole schedule and your routine. And when you have a good schedule and good routine, I think it's so much easier to feel comfortable and play good tennis.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: (Through translation.) Now three out of four top seeds haven't got through the third round. Do you feel there is anything special for you to, it's hard to get used to in Wuhan like the surface, the court, the venue or the player service or something like that?
+input answer: I think it would be pretty low from player standards to blame player service or anything else for a loss. I think all the players have been very impressed with the facilities and everyone that's contributed to this tournament. I felt very welcomed from the drivers to the people taking you out on court. Everyone has been super friendly. Facilities themselves I think speak, you know, they speak for itself, because they're great. And with the new stadium coming, I thought the surface was great. I really enjoyed it. I'm certainly not blaming the loss on any of those things.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: What were the conditions out there in the second set? As you're trying to wrap it up, it's getting cloudier and darker. Were you trying to get it in before the rain comes? Were you thinking about that at all?
+input answer: Actually, I wasn't thinking about that. It was a little bit chilly, and it didn't seem like nice desert today too much. No, I didn't think about the rains coming. I was just, you know, trying to focus on every point, one point at a time, one game at a time. That's it. You know, it could have been three sets; could have been two sets. I was just trying to stay in the moment.
+label: No
+prediction: 
+                -----------------
+
+input yn question: I think in the WTA ranking, actually a lot of young juniors is catching up. Do you feel a lot of pressure from those junior players? How are you going to still keep very good fitness faced with those pressures?
+input answer: Well, I have been on the tour for many years. I started as a young teenager, and I'm 25 years old now. I feel like I have seen a lot of different generations. The reality of it is it's not like your generation is going to be the only one playing tennis. You're always going to see new upandcomers and talent, you know, great players that are juniors and that are making the transition from the juniors to the pros, you know, and it's part of it. When you retire, there's always going to be somebody that takes your place in the rankings and the draws. That's just the reality of it. I feel like I'm somewhere in the middle. When I came up, you know, you had Justine and Kim and the Williamses, and I felt I was kind of the younger of the bunch. Now I'm somewhere in the middle. You see a couple of retirements, some are still playing, and then you see a younger generation. I'm really kind of smack in the middle.
+label: UNK
+prediction: 
+                If the
+
+input yn question: Has it become more challenging or do you feel it's circumstances one year to the next?
+input answer: Well, the surface itself has changed since 10 years ago. I don't think we had the rallies that I had with Kerber today 10 years ago against anyone.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: Tell us something about your background. Did you go to college?
+input answer: Florida. I went to Florida for about eight months, University of Florida, then turned pro in 2007.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can you tell me a little bit about your high school education and your relationship with high school? Were you home schooled or...
+input answer: I started home schooling when I was 13, and I've been home schooled ever since. So for four, almost five years, I'd say.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Is there something about when you play her here? Is there anything about this particular venue? Obviously you beat her in other places, but last year here, also. Is it just the conditions? Is it she's close to home?
+input answer: Oh, I don't know. I don't know about that. Who knows? She's feeling very good here, that's for sure. The reason I couldn't -- I couldn't really play my game, I don't think so.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Do you find the conditions between here and Florida are much different?
+input answer: Well, last year I played here and after Florida, like two years or three years ago.  And it was hard for me.  Last year, I didn't play here, so it's hard for me to compare, but I think it's pretty different ones.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Is Rafael better than ever before?
+input answer: I don't know. I think he was pretty good also before than the same like he played today and the same he was playing this week. He was like doing this six years, of course, some moments better than other ones. But if you remember Roland Garros when he beat Federer in three sets really easy, he was also playing unbelievable.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: If Petra wins tomorrow, she's going to be No.2, and she'll be pretty close to Caroline going into the new year. Could you just compare and sort of contrast their respective games from a player's perspective?
+input answer: Well, I think Petra plays a lot more aggressive. She's, you know, got a lot more visible, I guess, weapons than what Caroline has. But what Caroline, you know, does very, very well is, you know, things that, you know, that a normal tennis fan may not necessarily see. I mean, she moves well, competes extremely hard, and really makes you work for it; whereas Petra, you can see those flashes of great, great tennis. Yeah, two probably different styles, but, you know, I think, you know, Petra is a very exciting player to watch and probably deserves to be in that No.2 spot if she does win.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Tennis these days obviously is such a power game; there is also a lot of grace in the game. It's almost an art form, you could say. You have your beautiful onehanded backhand; your forehand has a lot of flow; you move with grace. Could you just talk about the grace in the game, the beauty of the game, and sort of what for you is key? Is it balance? The legs? The reflexes? The anticipation? Just talk about that, please.
+input answer: To win, you mean?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Has it ever felt a bit sort of like Land of the Giants, or you've been used to?
+input answer: Yeah, just been used to it, I guess. Doesn't worry me too much. I think on this surface, yeah, you can take advantage as well of people's movement sometimes as well. I feel like I move pretty well on this surface, so...
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you know very well Kuznetsova?
+input answer: Of course.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Was there a turning point in this game when you started to realize it was going to get tough today?
+input answer: There's not one moment in the match where you think like that. I mean, I was down 25, got back on serve, and I had opportunities for it to be 5All. Played a few sloppy points and she raised her level. That just wasn't a good combination for me. And, yeah, I mean, that was the first set. She came after the rain delay really firing.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: How important was the end of the second set? Do you think that was the key to the match?
+input answer: There I was lucky, I have to say. I was really lucky then. In the second set he had a smash and I guess the place, the place where he could  I don't know, I guess I just didn't move a lot. I stayed in one place. He smashed right onto me. So, yeah, that was a bit lucky.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Does it make your ambition greater now? You did very well before. Got to No.12 in the world. Are you aiming for the top 10 now?
+input answer: I am, I am. That was my goal even before. Now it's definitely also again my goal, to get to the top 10. Even probably more than before I'm really motivated for that. I think I'm working harder than before. Yeah, Jack has been helping me a lot with that. I think it's a lot mental. Mentally I'm stronger in some moments. Yeah, I'm looking forward to the next period. It's been tough coming back from the bottom, from zero, and I think I did it pretty well in a short time. I've been playing only three and a half, four months actually, because November and December were dead. There was no tournaments. I started only end of July. So it was tough period behind me, but I'm looking forward to the next period where I can play in the main draws of the big events. That's where I think I can make some good wins and good points.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: You're in a match, not playing well, not going well on the day. Are you thinking that you can't believe you're playing so bad? Are you kicking your own butt mentally?
+input answer: A little bit. I mean, you have to. You have to give yourself a little push, whether it's in the butt or somewhere else, in the head, I don't know. Yeah, you got to find a way to get going in a way, but you also have to find a sense of calmness, as well. Because if you get too ahead of yourself, then that's a recipe for disaster.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: What are the options here? What can be done? Because that's not a small injury, the herniation. Is there some sort of a surgical procedure or something that can be done? What are your options?
+input answer: I don't know. We are trying to figure it out, physios, doctors. Yeah.
+label: UNK
+prediction: 
+                I don
+
+input yn question: Your prospective match, your second round, does someone have a look at that match for you?
+input answer: My coach will have a look. And depending who it is, we know one of the players very well and one I don't know at all. So I'm sure Dave's out there either watching it or will watch it, you know, before I play, and we can come up with something.
+label: Yes
+prediction: 
+                My coach
+
+input yn question: Have you ever played anybody so hot like that before?
+input answer: I don't know.  He played well.  You know, I made more errors than I should have in the first.  After that, there's no doubt he was coming up with some shots tonight.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Obviously there is a focus going into the US Open. Do you sort of sense that at all yourself? Do you think it's any harder on the guys because... (Indiscernible.)
+input answer: I mean, obviously you feel, you know, a little bit more attention when you're in the U.S. and it's before the US Open. But, I mean, it is kind of nice being a girl because there are so many of us right now. There is not one sole focus. Then obviously we have Venus and Serena who are still doing really well. Personally, I can't comment on the guys. You'd have to ask them, but I would imagine it's probably I think the girls are a little bit happier with the situation right now.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: What was the difference today in terms of what allowed Andy to beat you? Do you see yourself and Andy as being maybe the next biggest rivalry in tennis?
+input answer: I think we already have a rivalry. It's not the next. It's already existing there for many years. Andy is deservedly a winner today on the court. I thought what made the difference was his serve and my serve. I didn't serve well the first set and a half. After, I just wasn't able to serve. But not taking anything away from him, from his victory. He deserved it. He stepped in, played some great shots. Most of all the moments when he needed to, he served very, very well. Breakpoints that one game, when I had I think four, five opportunities to break back, he just came up always with big serves, so I couldn't do much. But it was a great week all in all for me. I didn't know what to expect obviously coming in, first hard court tournament. I know people always expect me to do well, but I try to be modest with my expectations and just kind of see how each day goes. When I reflect on the week, of course it's positive. I'm playing better as the tournament progressed, and hopefully I can continue in the same style in Cincinnati.
+label: No
+prediction: 
+                Yes,
+
+input yn question: Do you get nervous in the majors? What is your mentality in the majors different from the rest of the year?
+input answer: I'm not sure. It's just the atmosphere, the tournament around, you know, it is your Grand Slam, and that's what you work hard, very hard, over the many, many years. That's where you want to play your best tennis. I think this kind of, you know, thought, it brings maybe even the best out of myself in a way that I'm really enjoying the challenge and I'm really excited about it. Want to really do well here in Australia and any other Grand Slam.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Any one aspect of your game that didn't work for you, that you were disappointed with?
+input answer: Well, I think that I haven't been aggressive enough.  I haven't taken the opportunities.  And, yeah, it's kind of the day that happens sometimes.  She did put on me a lot of pressure.  I knew I had to play my best level, and I wasn't today.  So that's tough to accept, but you have to.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Is it a huge emphasis as a kid in Russia, tennis?
+input answer: When I started, it was very popular. We had a lot of tennis schools which were for free. It was a part of the sport program. So I believe, you know, people saw a good opportunity also to travel the world and also, you know, make a living out of their hobby.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Looking forward to the rest of the season, the U.S. is going to play Fed Cup in Italy. Can you tell us how you see the match for the U.S.?
+input answer: Honestly I have not even given it a second of thought. I mean, Italy is always good. We have lost to Italy a lot, like every year. (Smiling.) I mean, it will be a tough match. It always is. I think every Fed Cup tie is tough. There is always really good players playing for their country. Hopefully we beat Italy this time.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Is there one issue, Andy, that you would like that person really to tackle when he or she comes in?
+input answer: When she comes in, I think -- you know, we've been talking about schedule length for a long time with not a lot of success, you know. There's been, okay, new schedule, new schedule, and we're all supposed to celebrate but it all ends kind of at the same time, and we have to travel to another part of the world and back. I think that's something that needs to be addressed. Not only from a player's perspective as far as injuries. That's probably the main concern. But even giving the fans a chance to miss the game, you know. You're seeing, you know, these NFL shows, these preseason things have been going on for two months now. I think you need a little bit of buildup, maybe a little bit of time to miss it. I think that's something that never really gets talked about. Because you guys get to go to great, fun places, like Basel in the fall.
+label: nan
+prediction: 
+                If the
+
+input yn question: I guess some players will say this place is special, that place is special. Maybe they're not telling the truth. But you have had very good results here. When you start playing on the courts here, do you think it doesn't matter what happened the last few months, maybe the great form will come back again?
+input answer: Playing in New York, it's always good for me. I really love this place. I have a good memories. But I think it's something happen you cannot say why. It just happen because you are there and you are practice and you are try your best all the time. Of course, this place for me, it's special. But I can tell you the first day, when I played the first match, I didn't expect to be here today. I didn't expect to play so good against Sara the day after because the first day I didn't play a good tennis. I was really nervous and tight and everything. But I just try to play all the time my tennis, try to be aggressive, try to do something with the ball, don't thinking about winning or lose, just try to play tennis. I think is the important thing now.
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: Do you have any concerns about the air quality in Beijing? American runners are saying...
+input answer: Not really, to be honest with you. We are holding a tournament there many, many years in Beijing. Never heard of any problems. I think I heard they're going to try their very best to keep the air as clean as possible. I know it will be tough, but I have no reasons to be nervous for that.
+label: No
+prediction: 
+                Yes,
+
+input yn question: Describe the way she's playing right now.  Is she in your estimation playing top-tier tennis?  I mean, is she going to be very hard to beat?
+input answer: She's playing really, really good now.  She has a good chance to be in the final I guess.  She has everything, like serve good, big forehand.  Big, big forehand and backhand also good.  She's tough mentally, so I think she has good chances on this tournament.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Have you helped him or mentored him in any way?
+input answer: He's older. He knows.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: You had some really strong results a while back in your career, then there were some tough results and your injury. What was it like when you were really struggling, trying to get over your injury? Did you imagine relatively quickly you'd reach the Wimbledon semifinal?
+input answer: Well, you always dream about it. You always want to be there. Like I always say, I always believe in myself and I believe I can be here. But obviously when you go through a lot of injuries in your career, it sort of puts a lot of doubts in your head. It is very difficult to come back after an injury. You lose a lot of confidence. But, uhm, I think, I don't know, I always believed in myself. I always believed I could do it. I was just maybe frustrated that my injuries are not going away. But I know as soon as I feel hundred percent, I will be able to play good tennis again. It's just matter of time. Because I can work hard. I can work hard every day. I believe that, you know, if you work hard, you will achieve.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Can you put into words what makes it so difficult playing against Rafa, especially on grass, and the pressure you're constantly under?
+input answer: Every time I play him I explain the same thing. It's tough. He makes a lot of balls. He's very good when he's behind. He's one of the best players ever, and a great athlete on top of that. So, you know, even when he's not hitting the ball unbelievable from the middle of the court, he gets to a lot of balls, makes you play an extra ball all the time. And eventually today, like after the first set and a half, when I started making mistakes, he raised his game and started playing better and capitalized on it.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: What about the court? Did you ever look up and realize the enormity of it at all?
+input answer: I didn't want to do that because I thought then it would like settle in and I'd start thinking about that too much. I just wanted to focus on the match.
+label: No
+prediction: 
+                Middle
+
+
+input yn question: They've installed a gate on Centre Court so that the players can't climb up onto the box when they celebrate. What do you think of that? Do you think that will ruin a Wimbledon tradition?
+input answer: I heard you can open the gate. Gates usually open also.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: So you're talking about playing on the shady courts and the outside courts?
+input answer: Sorry?
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: When you're out there, you're very quiet returning shots. Your opponent was screaming. Was it hard to concentrate?
+input answer: I didn't really notice it at all. And I thought I was kind a bit loud today, as well (smiling).
+label: No
+prediction: 
+                Yes,
+
+input yn question: Are you surprised that he plays at that level? He reached No.28 today. He was No.32 before.
+input answer: I'm not surprised. He played very well since he was a kid, and I believe he deserves to be better than top 28. He can be top 20 anytime. He has the level for that.
+label: No
+prediction: 
+                Middle
+
+
+input yn question: Is a winning streak anything that's in the front of your head?
+input answer: It's a kind of pressure because everyone -- I mean, one day or another I will lose.  I mean, that's the game.  I hope it's going to be as late as possible. But, no, what I'm doing for -- I wouldn't say for a couple months, but the last year is just great.  I've been so consistent.  But every match is different.  You have to start again all the time. You know if you're not in your best level you know you can lose.  Every time I wake up now I know I can win, I know I can lose.  I just want to stay focused on the main important things, because one day or another it will come that I'll have not a very good day.  So we'll see.  I hope it's not going to be for this tournament.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: Do you have a feeling for what you need to do differently or what else you need to do in order to be able to get that consistency?
+input answer: Well, a lot of it is adjustments throughout the match, and depending on your opponents. You know, if you find yourself with a game plan that's just you come out and you're not feeling it or it doesn't quite work, you just really have to find a way to adjust to your opponent and maybe the conditions sometimes and just really figure it out. That's the great thing about the sport is that, you know, you have so many points and so many games, and many, many different situation opportunities. Just really got to take care of them.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Comparing Davis Cup and preparing for ties compared to this, what's better for you: having someone like Pat Rafter around? Do you respond to that kind of thing?
+input answer: Look, with me, like, you know, I can work with Pat  like the Davis Cup is great. I love working on the team, and I can't wait for when Davis Cup starts. I love being in that role of being in the team. To have a shot at even qualifying this year if I do so it will be huge. I think regardless of who's working with me, it's my sort of tennis my game is just it relies on me. People can say they can help you with a lot of tips. Even my dad who has been with me for 11 years has done a great job. You know, that can take the place, but saying people can help, it's not really for my tennis, it's all about me. I've got to find that in me. People give you great tips along the way and can help you and stuff, which I'm ready for any help, but you're not going to become Federer, Rafa, or Novak if you don't do it yourself. That's for sure.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: With so many titles and records in the bag, how do you assess your hunger and desire? Has it dipped at all? Is it stronger than ever?
+input answer: It's normal really. I don't go through phases where I feel like I want to play 10 more years and then only six more months. I always look ahead one and a half to two years, and that's still the same right now. Then as time goes by, you know, you see how the body is. I love this game more than anybody, so I'm not all of a sudden going to wake up in the morning and say I don't like it anymore. It's a lot of sacrifice. It's a lot of effort I have to put in every day. I know that. But I do enjoy that because what I get in return is moments like I got today, with my team, with my family. It's priceless really. So for this reason I'm very excited for next year. I am happy that the season is over because it has been long, it has been grueling. But, yeah, I'm very happy and upbeat about what's to come.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Do you remember what year that was?
+input answer: Year?
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: Is there anything she did particularly well today that she didn't do well the first three times?
+input answer: I think the difference between her on clay and grass and on hard court is her movement.  On clay she struggle a lot more to move and to slide. On grass with some bad bounce and also it's more difficult to move, she really struggled more on this side of her game.  I think her movement is the key of her game.  She is not hitting super hard but she moves very well. I think on the hard courts you have to hit maybe five, six times like this from the lines to make points.  You don't need to hit like this on clay and grass courts.  So on hard courts she's really hard to beat.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: She paid compliments to you, that you played a very, very smart game out there. She made a lot of errors, no doubt, and gave away a lot of points, but you also earned some points out there. Are you happy?
+input answer: Well, I think we played really good. We fight a lot and we run a lot both. You know, this match I'm winning for two or three points, no; it was not that much the difference. I just play very aggressive and everything was working really good.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: When you get deep into a Slam, how do you find that balance between the work you do between the matches? Who makes that call? Is it you? Is it Marian? Who makes the call about the amount of time you do spend preparing?
+input answer: Well, depending on the matches that I play and depending how my body feels, then we make a plan together. You know, they're the bosses. I have to follow what they say, you know. That's why they're there. They're coaches. It's their job to try to improve my game and make me feel good, and obviously all it's compromise. Now we have an extra day to the semifinals. I think we're going to play golf. Todd is a great golfer. Generally we will practice a little bit, not too much.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Do you get excited watching this kind of match on TV?  Third round, pretty unusual.
+input answer: Doesn't matter if it's Nadal/Kohlschreiber, Hewitt against somebody, Roddick/Safin, for me it's the same.  I enjoy watching night sessions at Grand Slams, see them battle it out.  This one is definitely entertaining because I know the guys very well since a long time.  These are the strongest guys basically we have on tour.  It's going to be an entertaining match.  I think the last one they played here was a five-set thriller.  They played in Davis Cup since. No, I think it's going to be a close match.  Don't know who to give the favorite to.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: Did you get enough of a break during the off-season and did you actually feel mentally refreshed starting the new year?
+input answer: Definitely. I felt like I had a great off-season. Had some time off where I completely relaxed, which was really nice. Then I started working hard, started to build my shape up.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: When do you think you played your best tennis last year? Was there ever a tournament like you were in the zone the whole time?
+input answer: Ah, pretty much all first half of the year. I mean, I played great. Australia was incredible tournament for me, and, you know, when you start year with a Grand Slam win, it gives you a lot of confidence. I was playing on that confidence run, and I was trying to, you know, be 100% committed to every match that I play. I think that mindset that I had on just taking one match at a time helped me to have the streak that I had. But it wasn't easy, of course. Everybody was talk talking about when the loss will come, and it had to come sometime. I was aware of that. But I was not trying to think about loss or trying to think about every win that I had. So I think clay court season was pretty much fantastic for me until the semifinals of French Open.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: This is an opportunity. You're only 23 years old, and there are plenty of Grand Slams out there. You seem to be healing. Is this kind of like the time? Do you feel that? Have you thought about that? Any strategy?
+input answer: Um, I don't know when a time is. I mean, I don't know if it's yesterday, today, or tomorrow. (Smiling.) I mean, I think at way I look at it is the more matches you win, whether it's here, whether it's at a Grand Slam, the better your ranking is gonna be, I mean, yeah, the further you get in a tournament. So. I don't know. I never really focus, this is my time, it's now or never. Might as well -- yeah, I don't know, jump off one of the canyons over there if you have that mentality. It's pretty tough to think like that. You just have to -- you know, even if you do feel -- sometimes you come into a tournament and you feel great and you feel like you're confident and everything's working well, hitting great in practice; sometimes you come in and those things don't quite work match in match situations. Other times you feel kind of crappy on the court, and you come in, and all of a sudden you find yourself swinging away and balls are going in and you're in a later stages of the tournament, you're loose because you didn't really expect much. It's very different. It makes the sport really unique.
+label: UNK
+prediction: 
+                Yes:
+
+input yn question: Do you look at players like Tommy Haas, maybe David Ferrer, does that give you belief that maybe some of your best tennis is ahead of you?
+input answer: This year I'm surprised how I feel physically really good at the moment, like better than last two seasons. I think that's because I have stayed healthy for a long time. But obviously it's nice to see other veterans do well. I think our age group is very strong, born '81, '82. There's so many guys that I played against in the juniors. I think we have been helping each other to improve because the competition is so tough. But I have been always a hard worker. That's one of my strengths. I really try to take care of my body and practice hard and well, still rest enough. Also with the experience, I think I know better what suits to me, like when I have to rest, that I don't play too much. Maybe sometimes I play too much, maybe sometimes I play too little. I think all this comes together that seems to make me play better again.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Obviously you and Rafa have dominated the story of the last four Grand Slams. Was there a part of you at all that was genuinely shocked by what happened last night and knowing that this Grand Slam could be about to unfold very differently and you can never take dominance for granted?
+input answer: Well, you cannot take for granted anybody. You can't underestimate any opponent. I don't think Rafa did, as well. He's well aware of the quality of all the players on the tour. Rosol is a tall player. He's serving huge. He had a firstserve percentage incredibly well. He's hitting the first shotreally  you know, he's going for everything. It's Grand Slam. It's Wimbledon. Everybody wants to come up with their best game, especially when you're playing one of the top players, one of the favorites. You have nothing to lose. You're out there on the court and you're going for your shots. Obviously I was surprised a little bit with his mental strength in these important moments, Rosol, because he doesn't have much experience playing against the top guys in such important stage. You just can say congratulations. It can serve as an example for everybody that anything is possible in this sport. Even though myself, Rafa, Roger, Murray, a couple other players, we've been dominant in a way in Grand Slams, last couple of years later stages of events, and it's expected us to reach the last four. But tennis is improving. Everybody plays equally well.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: That you know them so well, is it then hard to see them as a foe on the tennis court, to make that switch?
+input answer: Used to be. But over the years, playing so many matches against great friends of mine, especially from my country, like Troicki, Tipsarevic, I manage to understand what I need to do on the court. I'm a professional. I want to win as much as they want to. As soon as you step on the court, it's all business.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Did you watch Roger's game yesterday?
+input answer: For moments. Not all the match.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: With regards to Rafa, he has accumulated more points at No.2 than a lot of guys had at No.1.  Do you think that's something the public sort of doesn't get, how really good he's been as a No.2?
+input answer: I think they probably get it.  I think from where I see it anyway, I think a lot of people realize how close he is to Roger.  A lot of people, even outside the tennis world, I think realize that he's had Roger's measure in a lot of big matches. You know, he's basically only been two Wimbledon finals where Roger has had the better of him in a lot of ways. When you have a guy like Roger that's had stand-out years the last three or four years, probably better than Pete and Andre and all those guys had at their best.  So, yeah, obviously you're going to have to have a great year to pass him and get the No.1 ranking.  But, you know, it's only around the corner for him.
+label: No
+prediction: 
+                <
+
+input yn question: You had obviously to withdraw at Eastbourne because of the injury. You said it wasn't too serious. It was to make sure you'd be right for Wimbledon. But now at this point, are you pleased you made that decision to do that then? Was there a point when you worried you might not be ready for this tournament?
+input answer: I play Eastbourne first time against Lucie. It was big fight. Very long match. Next day I start to feel the leg. I play against Lepchenko. I won it, but next day I woke up and I really couldn't walk without the pain. It was something actually I didn't do it before, but I knew it's before the Wimbledon. If I need to recovery I need some days off. Actually, I hit for the first time little bit on Saturday very easily. I had my first round on Monday. So now I'm very pleased with my decision over there.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can you speak to that?  You said you haven't been tested.  Now you're going to face the ultimate test maybe.  Is that a problem, that you haven't had that mental time to prepare?
+input answer: I don't know.  Like I said, you could probably spin it either way you wanted to.  You could say I could be fresh mentally or maybe I haven't been freaking out enough over the past two weeks.  I don't know. You guys can run with that any way you want.  It's kind of out of my hands.  I'm going to kind of focus on the task at hand.
+label: UNK
+prediction: 
+                I don
+
+input yn question: Did you ever think you might go the soccer route, or were you not as good?
+input answer: I had to choose. But I actually didn't like soccer too much because it was only the guys. And, you know, it wasn't really fun. None of my friends were playing or anything. So, you know, it kind of took me away from that. So that's the reason, yeah.
+label: No
+prediction: 
+                I had
+
+input yn question: Any indication they will give that to you?
+input answer: Depends if Fish loses his doubles. If he wins, they said they'll probably put me on first again. If he loses, then they might put me on later.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Were you not feeling okay, or was something wrong?
+input answer: I was feeling fine.  I was feeling fine.  It's the way I was thinking on the game.  The way I prepare for the game and everything, it wasn't right. I've got to learn to do it right way next time during Grand Slams.  It's lots of pressure.  I got to handle it and got to play well and do it differently, you know.  Otherwise, it will happen to me many times.  You know, I got to learn a lot from this lose and definitely a very disappointed one, but I got to go with it.  So that's it.
+label: No
+prediction: 
+                Middle
+
+
+input yn question: We are going to see Wozniacki on the Court 1 now. Of course we don't know your next opponent, but could you tell us a little about if you're having Caroline in the next round what kind of opponent would that be for you?
+input answer: I remember I played her, Wozniacki, if she play against me next round, I played against her in Eastbourne in finals. It was a fun match, because there was a point I remember she don't see the ball. But it was history. I don't know if you remember match point.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: In your three previous matches against Victoria in the WTA you've not dropped a set. This year she's had a great start. How much a better a player is she now, do you think?
+input answer: I think she's a much better player. She's much stronger physically and mentally just because she had been on the tour for a bit longer now. She's already played lots of top players. Because when you're young and you are coming out of juniors, maybe you don't have that experience. You didn't experience playing so many top players. I think she's got lots of that experience last year. She had to play back to back, you know, top players and had great wins. So she's definitely tough girl to beat at the moment. I think she's improving, and she's going to be a very tough competitor in the future.
+label: nan
+prediction: 
+                - Yes
+
+input yn question: This is the kind of match in the past that you would have expected yourself to win. It would have been routine to win. Did it feel at all that way today?
+input answer: I don't know. I don't think about the score when I'm out there. So even if I'm up 5Love, I don't see 5Love. I just see I need to get the set. That's kind of what I'm thinking about. Nothing is really routine. You never know how well your opponent is going to play or if you don't have a good day. Obviously it's nice to spend less time on the court, and not be in long sets. Obviously a win is a win no matter what it is, but it's nice when it's more routine.
+label: UNK
+prediction: 
+                Yes:
+
+input yn question: Because?
+input answer: I just appreciate everything a lot more. I appreciate just being able to be a tennis player, be healthy, doing what I'm doing, because it's a big privilege to be in this position, to be so lucky in my life.
+label: nan
+prediction: 
+                Middle
+
+
+input yn question: You've had such great success at the majors this year, been so consistent in the majors. Do you find yourself at a point where you're as confident as you've ever been playing in the big championships?
+input answer: I don't question myself. You know, I always believed in myself. I always believe. I'm just going out there and trying my best in every match. You know, it's been working pretty good for me so far.
+label: Yes
+prediction: 
+                <select
+
+input yn question: The finals in Australia would have hurt him, wouldn't it? I think he's admitted how much that hurt him.
+input answer: Well, that's for him to answer really. But, look, he played in couple finals of a Grand Slam, three finals. But, you know, he came back. You have to give him credit for that. It's not easy. Everybody knows that he can win a Grand Slam, but he didn't. But now he's coming back and he's playing really well on grass under all this pressure that he has here. I'm sure he has a lot of motivation, so...
+label: UNK
+prediction: 
+                ### Yes
+
+input yn question: Could you talk a little bit about what you think the cause of the nerves was at the outset? Was it the opponent or the setting, the whole...
+input answer: Well, I think a little bit of both. More of the setting. My first time on Ashe, and it was pretty windy at the beginning. It was kind of windy the whole match, but especially the beginning. It was really windy and my heart was racing for the first hour. You know, also, too, playing Rafa. He's -- the last six months he's lost like one match, so it was kind of a combination.
+label: nan
+prediction: 
+                -----------------
+
+input yn question: You wouldn't have played doubles otherwise?
+input answer: I don't know. Mixed was kind of a lastminute decision.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: It's a fair chance you play Murray in the next round on Centre Court. Will it worry you to go out and basically upset a whole nation by beating a Brit?
+input answer: Yeah, that could be not nice, I guess, but that's what I try to do. Yeah.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Is it getting easier for you as you play a little bit more this summer to deal to the issues spoke about? And also, are you hearing from people going through similar issues? You feel like you're fulfilling your mission in helping others?
+input answer: I hope so. Answer the second part first. I just heard from a kid when I was walking off the court. Thank you for what you do with mental illness. Couldn't have been more than 12, 14 years old. Yeah, that makes me feel good. I wouldn't call it necessarily my mission. I hope to help really bring awareness to show that there can be a role model that can be positive and can shed some light on it and that whole thing. And personally, that stuff is not really in the forefront of my mind. I forgot the first part of your question. Personally that stuff isn't in the forefront of my mind because I'm still trying to I don't want to embarrass myself out here. I played really terribly in the first match that I played in Atlanta and it sort of felt off. Just felt like, Is this going to be a sort of a am I going to be a walkover the whole time? I was real nervous in that match and just did not play well at all. Didn't feel well at all. Felt much better on the doubles court. But I'm glad that it's not that.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Is the improvement mainly in conditioning as well as just match experience?
+input answer: I think match experience, conditioning. I think physically I'm a lot stronger. Spend a lot of time in the weight room. Got to put most of the credit with my new coach, though. In February -- I went to Australia, cramping in the third set in Australia. Wasn't really playing that great. I came back and I played in Memphis, Delray Beach, was just playing horrible. I started working with him. Next thing I went out to Indian Wells, I did well there. I've just been playing well ever since.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: If you think back a couple of years, and you had expectations then, do you think you've achieved those expectations or not reached them or exceeded them?
+input answer: I can't even remember what my expectations were a few years ago. All I have been trying to do for the last few months is work on movement, work on my serve. I think both things are improving. You know, I'm not really saying, Oh, I want to be top 50 by the end of the year, whatever. I'm just trying to stay injuryfree for the moment and work as hard as I can.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: When you're going against Soderling, you really made some advances. What is your thought about him? Do you scout him? Do you do anything? Do you just do your thing?
+input answer: My thought about him is he's a great player. He's solid. There's not really a lot of holes in his game right now. There used to be the errant ball two or three times in the back fence. That doesn't happen anymore. He's solid. It's something I always tell Jenny and my dad when we're talking about scouting guys. The reality of the matter is I'm not good enough to worry about the other guy. That's the reality of the matter. I don't feel like I'm reliable enough in my game to sacrifice just thinking about my execution out there, what I have to do to play and impose my game. I'm fortunate, because if I do execute my game, there's not a whole lot guys can do in the first place. But, you know, as soon as I get better, more reliable out on the court to where I feel very confident with what I'm doing and how I'm doing it, then I'll start to maybe pick apart guy's games. To be honest, I'm just not at that level right now.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: Do you think he should worry about playing Gasquet?
+input answer: Well, he worries about playing anybody. That's why he's a champion. He always plays at 1,000%. He will not make the mistake of underestimating his opponent. Because we played many times, he knows me, and sometimes I pushed him to a third set.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can he be hard on you sometimes?
+input answer: As a coach, of course. If I am not ready for practice or if I don't give 100%, of course he tells me, Okay, come on, Caroline, move your butt, because otherwise I'm going to make you run even harder. So I always make sure I'm prepared and 100% ready on the court. But I think that's normal. Off the court, he's my dad; he's my friend. We relax and have a good time off the court. I that balance is very important. For me, I'm this kind of person that I love to work hard and see the results, but I also enjoy just having my own time, relaxing. I have my best friend here, her family, and we are just having a good time in the evening. That just makes me so much more relaxed on the court when I'm there and I can focus 100%.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: How many of those head bands do you have? How many colors? Is it like a mood ring?
+input answer: Honestly? The amount of head bands I have, I'd probably say I have about I'd say I have about 250 head bands. Yeah.
+label: UNK
+prediction: 
+                I'
+
+input yn question: Seems to be a very open tournament. Have you thought about the possibility of winning it?
+input answer: You know, if I'm coming for the tournament, I'm pretty confident in myself. If I'm in the tournament, I'm here to try to win it. But I'm really concentrating on every match. For me, it doesn't really matter what's happening around any other matches. I just try to concentrate on myself as much as possible, try to improve match to match because I know I need it. That's why I'm just looking forward for the next one, not thinking about anything else.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Serena Williams yesterday said, looking forward to the final, she doesn't need to win another Wimbledon, that primarily she wants to have fun. Does that apply to you?
+input answer: I'm sure she tries to also find that, I'd say, new source of inspiration and motivation, why she's there, why she's on the court. Also she's 32, 33 years old. She's one of the best tennis players ever to play the game, both women's and men's. She's incredible whatever she does. I probably think she's trying to relieve some of the pressure that she has. Everybody talks about the Serena Slam. Everybody talks about the Golden Slam, will she make it? She has another match, US Open as well. She's so dominant and superior on the court, it's really a pleasure to watch that. I'm sure she has fun, but she also wants to win it. That's for sure.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: How different has this year been for you? In the past you've had injuries, but things have clicked quite quickly when you started. Obviously you found success quite quickly. Now you've had to be patient and understand things will take their time. Is there this a different sensation for you?
+input answer: It's all about moments, and all the moments are different. Different feelings, different situations on the career of everyone. You have to pass all these moments. I had injuries; I had much more good than bad moments. But I had some tough moments with injuries in the past, and now I'm not injured. That's a very important point. I am on the court. If I am on the court, I have the chance to play well and win matches. Last year for six months I didn't have that chance. If I am not winning matches today, I accept. If I am not playing well enough, only thing I can do is accept, stay positive, work as much as I can, and be positive knowing that the normal thing if I had success during 11 years, why can't I have success again if I am motivated enough? I am fit; I don't have injuries; and I cannot forget to play tennis in six months.
+label: Yes
+prediction: 
+                I need
+
+input yn question: You don't want it?
+input answer: I want it to be more inside. That's why I was practicing a little bit more. No, in the beginning, yeah, I was putting the ball okay, but in the second set I start to put the ball lower and lower. Yeah, I think a little bit more higher is better for my serve, I think for everyone.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Does your last name mean anything? Sounds a little bit like macaroni in Italian.
+input answer: I know, but I don't like it. When sometimes you are playing, the crowd, they start, Macarena or Macaroni, I don't like it really, so...
+label: UNK
+prediction: 
+                I know
+
+input yn question: I've never heard you do it before. Do you remember the point? You were hitting a lob; before Pervak hit it you yelled. It was a sort of noise.
+input answer: I don't know. I remember something that I was on the run and kind of like tried to stretch out.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Looks like Fed Cup has meant so many people are so tired and sick and they went to different continents in very small time. Venus yesterday was telling us that perhaps it should be done in a different way. Do you agree?
+input answer: Well, I mean, we are lucky that I was home in my hometown, so I was okay with that. Indoor courts like three minutes from my home. It was really easy. So I was happy about that. Especially that we never played in Krakow before any other tournaments or any matches. But, for example, going to Australia or to China between tournaments in Europe is not really great schedule. So I think what they should maybe do, trying to play in the country that's going to be easier for everyone. I think it shouldn't be any draw, like it just should be the place that is easier for the other WTA tournaments. I think that's always going to be much easier for everyone just to stay very close or even the same country.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Did you see the match last night between Federer and Tomic?
+input answer: Actually not much. I didn't see much. I just seen couple of points actually today from the tiebreak in the second set. I mean, no, it's tough to say something about it if you see like three, four points. It's tough. I would be cooking from nothing. Sorry.
+label: No
+prediction: 
+                Yes,
+
+input yn question: Do you feel you could have an intimidating factor when you're playing like a Rochus or one of these little guys who are foot and a half shorter than you?
+input answer: You know, if I played the right way. If I impose myself and serve big and take some chances on the serve and come at him and kind of get in his face, you know, tennis-speaking, I think can you kind of impose yourself and make a statement.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Has anything changed for you since winning Wimbledon?
+input answer: I don't think so. I mean, the few days after were very, very busy. It was a bit different to what I'm used to after events. But once I got back to training and stuff, everything kind of went back to normal. Coming back to the tournaments and stuff, it feels the same.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Is Wimbledon sort of forming as a possibility in your mind? Do you see yourself as a future Wimbledon champion now?
+input answer: I mean, I'd love to win Wimbledon. I'm kind of going with baby steps here and try and make the third round this year, because the second round is the best I've ever done there. You know, it's possible, but I think I've still got some work to do, and there's still some great competitors out there you have to beat to win a Wimbledon title.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Very much a hard game with obviously movement and retrieving defense, and she said that she didn't feel  you know, she couldn't move today for some reason. Did you sense that maybe she wasn't at the top of her game?
+input answer: I can't really speak for her. I don't really know. I know she's a good counterpuncher and runs a lot of balls down. I tried to, like I said be forward in the court and try to look to take advantage of short balls if I got them. Like I said, it worked out.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: This is your third Grand Slam fourth round.  Was that your best win of your career?
+input answer: By a result, of course.  I never beat -- I beat two times top 10 player, but not top five.  First time for me to reach the quarterfinal.  I was playing good today.  I just went there and gave everything, played my game.  I'm happy the way I played.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Could you talk about the atmosphere, maybe the challenge of playing in front of maybe less people than you would in other tournaments?
+input answer: Well, I mean, it's not really -- when we play, we are focused only on the ball and trying to focus what are we going to do on the court. It's of course better feeling when you are playing in front of a full stadium or in front of a lot of people. But over here today, I think both of us, Ivan and me, are not the players that are changing our feelings or pushing so much with pumping the fists and things like that. So we are - I guess especially me - I'm just more focused on what I have to do on the court. But anyway, I was feeling good on the court and the stadium is good to play on. It's a little more indoor atmosphere and the ball is cleaner, comes cleaner, and is, you know, a good feeling.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: He's clearly got a very decent record against you in best-of-three matches. In best-of-five, you've come out on top. Is there somewhat of a different mindset, not more capable, but in the ascendancy in Grand Slam matches rather than in best-of-three?
+input answer: Well, look, he's still going for his first Grand Slam, so that's hard, you know. You also got to give the guy a bit of I don't want to say time, but like credit for trying and playing so well in the Masters 1000s. He's won a bunch of those guys now. Obviously clearly the next step for him is to win a Grand Slam. But it's not easy to break through. You have to break through me, I don't know if he's been in another Grand Slam final other than me. There's tough guys at the top right now and they don't give you just an easy match, you know. But he's capable of beating everybody right now. He's proven it. He's beaten everybody multiple times, I think Rafa, Novak, myself. That's what you got to do, and hopefully you can string those matches together when it really matters in slams. But the tour is just not only slams, you know. He's having another good year. I'm happy for him because he's a good player.
+label: UNK
+prediction: 
+                - Yes
+
+input yn question: Is it in the back of your mind about the knees, or now you don't think about it at all when you're playing?
+input answer: I don't have pain, so I don't think.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: When you were in the middle of your five titles on the trot, I can remember you talking about the feeling of coming here, feeling like you owned the place, like it was your court. Does it still feel like that?
+input answer: Uhm, I never really felt it was that way. I don't think I ever said that. I always just feel very good here, around the grounds, on the court. Obviously the more you win, the more confidence you get. Then again, I've learned my lesson early on in my career where I used to underestimate opponents because of the way they played, the way their techniques worked out, or just said against this guy, I can't lose on grass. Next thing you know, that's what happens. This is where you have to be very, very, you know, sort of mentally strong. I think with the success I've had here, obviously I always come in with somewhat of a pressure. But, as well, I think this is where I'm able to shift up a couple gears on grass because it works to my strengths the way I can play here.
+label: No
+prediction: 
+                Yes,
+
+input yn question: Have you ever played anyone who served as well as she did?
+input answer: Actually, I think she has like one of the best serves on tour. That's why it's difficult to return, so...
+label: UNK
+prediction: 
+                If the
+
+input yn question: Have you ever had any bad experiences around the locker room with players?
+input answer: With bad players?
+label: UNK
+prediction: 
+                With bad
+
+input yn question: On the women's side, top three seeds are out already, and third round is not even over. Do you ever wish that could happen on the men's side? Because that never happens.
+input answer: Last year at Wimbledon, I was in that section that Rafa and Roger, I think I was the highest seed when those guys went out and unfortunately I got hurt. It doesn't happen too often on the men's side, but I guess it did last year at Wimbledon. No, you know, I mean, in order to win a Grand Slam, you've seen, you've got to go through at the very minimum two of the top guys. That's what it seems like, they're always there.
+label: UNK
+prediction: 
+                ### Middle
+
+input yn question: Sorry to hear about your grandfather. Can you just talk about your relationship with him, his influence on your career? It was your father's father or mother's father?
+input answer: My dad's father.
+label: nan
+prediction: 
+                My d
+
+input yn question: Is it harder to accept because the first ranking was available for you this week?
+input answer: It's okay. Doesn't matter the first ranking. I want to be healthy. I want to improve. I want to play tennis. I mean, I don't really think about No.1 or whatever happens. If it's going to happen, it will happen. But at the moment I don't deserve that spot. I am not in the best shape. I am not, you know, at my highest level. So it will take time for me to get better and better.
+label: No
+prediction: 
+                Middle
+
+
+input yn question: There are still four players for the semis. Well, I know it's off the cuff, but would you say that Rafa is going to reign again this year?
+input answer: Well, you know, Rafa and Djokovic are still the two favorites, but let's not forget about Murray. He's playing excellent tennis. He has many qualities and skills on clay. However, I think that Rafa is the favorite.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Are you satisfied with the way you played today?
+input answer: It wasn't the best match I played. But it was a tough one. You know, she played a match before. So for me it was the first match since Wimbledon. So, you know, in the beginning obviously struggled to find my rhythm a little bit. But, you know, I'm very happy I managed to win this match. It's never easy. But, you know, you have to win even if you don't play your best tennis. That was the case for me today.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: This final, we all know that it's very important for the Paris title that you want in your career. Do you think that you will have some different type of approaching Nadal, or will you play the game that you usually play? What do you have in mind in trying how to deal with Nadal?
+input answer: Well, there is not going to be a significant difference in my tactics against Nadal comparing to other prior matches that are played, especially the one in Rome. I'm going to try to be aggressive, because that is the only way I can win against him. I know that of course this is the court he's most dominant on. He has only lost one time in his career. This is where he plays his best. It's a very wide and very big court. He likes to have that visual effect, as well, because it appears that he gets every ball back, you know. He feels more comfortable when he plays on the bigger court. That's one of the reasons why he's so successful here. But, you know, we played some really close and good matches, good quality matches the last two years here, especially the one last year serving at 43 in the fifth set to go 53. It was a very close one. And knowing that I was that close to win against him the past two years gives me that reason to believe that I can make it this time. Of course I'm going to go out on the court trying to win, trying to do my best. I'm not going to serve and volley, that's for sure, but I'm going to try to stay with my own tactics. I know what I need to do in order to win. It's easier said than done, of course, because we all know how good he is on this court. But he's not unbeatable. You know, winning against him last couple of matches in the finals, big events, definitely gives me confidence that I can do it again.
+label: No
+prediction: 
+                - Middle
+
+input yn question: Can you talk about the two opponents that you might play?
+input answer: So we played with Vera already in the group, so, I mean, it will be very strange if we will be playing the final. So, you know, the match, what was it. And against Vika we played two times this year already. I won both, so hopefully it will be better for me, mentally. So we know each other very well, with both players.
+label: Yes
+prediction: 
+                Please reply
+
+input yn question: Now that you're out, any thoughts about the court?  The speed slower than the past?  Not quite as advantageous to your game?
+input answer: You know, it's a court.  I don't know if it's so much the court.  I think, you know, the way the balls react to it.  When you play with new balls it's like a different surface.  Then all of a sudden seven, eight games later, it's just a lot different. You know, but I guess that's the process that it takes to kind of get the surface you want.  I don't know if you're going to get it perfect the first time out.  But it is what it is, man.  I don't mind the surface.  I don't mind the effect that it has.  It's just different.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can I ask you to talk about your reaction to the Los Angeles and San Jose tournaments leaving the States and why you think that is and what, if any, effect that has on American tennis?
+input answer: I'm bummed to see them go. I don't know how that works for sponsorships and things, but I know that one is going to Colombia and  one is going to South America, and I think, you know, tennis is big in those areas. I think they can just get bigger, bigger crowds, bigger sponsorships, more top players, then I think that's kind of what it comes down to.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: How does this semifinal compare with the one at Roland Garros last year?  Do you feel you're a more mature player?
+input answer: I mean, two totally different players.  Two totally different occasions, surfaces, everything.  I don't think you can really compare it much.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Mentally you seemed to manage the match very well. Can you talk about what you were feeling inside?
+input answer: You know, I was just trying to play one point at a time. I was not looking around. I was trying to stay concentrated, keep my concentration on all the time, trying to think what I will do in my next point. That's about it. Nothing else was bothering me around. I wasn't noticing anything around. I think that helped me a lot, because I was able to play pretty good tennis from the beginning till the end. You know, there is a couple unforced errors there and there, but I managed to, yeah, overall to play pretty even from the beginning till the end.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Was there anything different about Roger? Look like the same guy to you?
+input answer: Well, today he played really a high level. I think one of the best matches on clay court for him.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Did your level improve from the first match?
+input answer: Uhm, well, you know, again, different opponent.  Jonas plays much more flat, more aggressive, takes the ball early and everything.  It's a bit of a different match, you know. But maybe a bit more consistent, especially on the serve.  Didn't give him so many chances like I did against Phau in the first round.  I think it's a bit of an improvement, yes.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Can I switch topics a bit? The Wayne Odesnik situation, the guy who was suspended for a year.
+input answer: It's a great subject. I love talking about that right now.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: Given all the controversy about Andy Roddick's match last year, do you feel like you proved a point today in this gutsy performance?
+input answer: Definitely. To turn any match around like thiswhere I think I was probably one or two points away from being out of the tournament, being able to turn that around and find something inside you to win this match was very, very good for me, and, you know, I take that as confidence into my next round. You know, I'm going to approach it with a lot of confidence. That's the important thing.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: Heading into the US Open, you have been third round obviously like you say. What kind of expectations do you have? Are you trying not to put pressure on yourself? What's the frame of mind?
+input answer: I'm going into the Open confident. I think playing these matches and being able to play here and playing in D.C. kind of gave me some really good a lot of confidence leading up into the Open. I'm still not done yet. I'm getting some doubles play here so when I go to the Open as well I'm going to be fresh and ready to go. As far as expectations for myself, I mean, I just want to continue to do my best, lay everything out on the line, fight as hard as I can, and learn, you know. I mean, I'm put in a position in matches where I'm like, Oh, I have been here before. How can I improve from the last match or something like that? I'm just trying to take the step to continue to learn and do the right things. I know that the results if I continue to work hard and keep learning, the results will take care of themselves.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Congratulations. Are you happy with your performance today?
+input answer: I felt a little sluggish out there, but I'm happy I was able to win the match. Honestly, I obviously have to and want to play better as each match goes on.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Regardless of the opponent, is that as close to being in the zone as you've been for a little while?
+input answer: I mean, I played some really good matches in Sydney where I probably played even better. Movement-wise, I think today -- the ball was in my court. I was able to move her around and still really -- like I didn't feel like I was put under pressure too much by her. Balls were sitting up nice and high, in a nice position, where I was just really able to focus and dictate the points. So that's probably also why it looked easy from my side.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: When you consider how well you were playing in the tournament, you've had four straight-set matches, pretty dominant performances, can you talk a little bit about your expectations coming in? Can you look back at this point and say, Hey, it was a good tournament? Do you feel you were playing good enough you could win today?
+input answer: Of course is a good tournament. If I do second round and I give the best I can, it's good tournament. Of course, if I see a match like this, I want to win. Everybody want to win, so is no need to be upset. But I think today she served good, and with more wind she has more chance than me. Because when I was serving against the wind, I am 1 meter 66, and I try to push as much as I could. But is not like Venus -- she serve on second floor and with the big power. So it's okay. It's not okay, but it's okay.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Did you follow the Lance Armstrong stuff?
+input answer: A little bit.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: But a new age hasn't exactly arrived?
+input answer: Well, you guys know best, so don't ask me. (Smiling).
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: Has he put you in a cage yet?
+input answer: He hasn't, but he keeps getting me in headlocks and that, which is not nice. (Laughter.) Not too much back chat.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: If it ends up with Federer and Djokovic?
+input answer: Honestly, I can't think about it right now because I wanted to be in that spot and put myself as the favorite out there. Whoever wins, you know, I think either of them deserves it.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Am I right in thinking there was a suggestion you might play higher up in the order of the Davis Cup ahead of Ward? Is that correct?
+input answer: I don't know. It hasn't been talked about with me. I don't know. That's Leon's decision. I really don't know basically.
+label: UNK
+prediction: 
+                If the
+
+input yn question: You played singles and doubles here. Physically are you feeling good? Has it flattened you at all?
+input answer: I don't think it's flattened me. I think it's helped me. You know, I get a lot of extra practice, so... I think I spent a lot of time on the court. But, you know, I like being out there.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: But can you kick on this time?
+input answer: Well, hopefully I'll do everything in my powers to play better next round. I believe I'm smarter. I learned from my mistakes from last year, what I've did wrong, and hopefully will be better.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Do you understand why? What went wrong?
+input answer: Just many, many, many things are not clicking these two weeks on hard courts. It's unfortunate, but it's more than obvious I'm not playing even close to what I'm supposed to play. I have to keep on working and trying to get better for US Open.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: You lived in Jacksonville?
+input answer: Live in Jacksonville still.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Tell me if really in your mind you thought it was possible to happen this so easily, three sets to love of the champion of last Wimbledon?
+input answer: Well, I wouldn't call it easy. I think it was just a tense match if you think about it. Since the first ball we hit on that court, we were both ready to win. But still I think I got early on in the match on top of him, and I think that really helped me, you know, progress in that way. I think second and third set was just a little different. But, I mean, I can't say much about the match because I came out to win the match. I was really positive. I was ready. I had a lot of patience no matter how many sets I was supposed to play. But I was just composed and I was looking for every point that I had to play.
+label: No
+prediction: 
+                -----------------
+
+input yn question: After the first match you said you learned so much from last year, even though you didn't win a match. Could you please elaborate a bit? What did you learn from last year's experience, because we see a big difference between two years?
+input answer: I learned I shouldn't lose that many matches. But every event you play and every match you play is a new experience and a new challenge, and you just have to accept it that way and take the best out of it. So last year wasn't that much fun for me, haven't won a single set. But I gained that experience. It's different this year, because I'm coming here as a Grand Slam winner and more matured player, stronger mentally and physically on the court. When you have more confidence and believe more in yourself, and of course, you're physically well-rested and fit for challenges, then things are going more smoothly.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: So the glass is always pretty much half empty every day?
+input answer: It's not necessarily half empty. It's more or less it's more or less what can I do to be better. I think whenever I become satisfied, then that's when I think a lot of players, in general, the level goes down. For me, throughout my whole career, I've always tried to constantly do better.
+label: No
+prediction: 
+                ### Yes
+
+input yn question: What's your overriding feeling after the match? Obviously disappointment, but do you have some pride having got that far?
+input answer: I'm disappointed right now, you know. I wish I could have done a few things better, and given myself a few more opportunities, but, you know, I'm sure tomorrow after a few days, whenever it sort of sinks in -- it's obviously been a very good couple of weeks. And I'll try my best to work on my game, work harder, and hopefully come back and do better next time.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You have had a lot of success on a bunch of different surfaces. Do you feel any one of them is harder on your body than another?
+input answer: Hard court, for sure, is the hardest one, because of because it's hard court it's like running on, I don't know, asphalt where the cars go. It's really hard for your knees. But I feel good, you know. I'm not really tired. I feel nothing is really in pain. I'm surprised. I'm surprised that my body reacts really well to a lot of matches.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Would it be the same with your at this fitness coach?
+input answer: Of course. I mean, same with the fitness coach. He needs to know how I feel. It's not possible that I come to practice and I'm really tired and he would get me suddenly to run like some crazy things. Or one day he can say, Okay, today I don't care that you are tired. We have to do this, because tomorrow you have day off. So he also needs to feel me, to know how I feel.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Last time you mentioned grit. You know, grit is a very interesting word in sports. You play with zest. Are you familiar with the word "zest"? It's with, you know I think you're playing you seem happier. Do you think you are?
+input answer: Compared to?
+label: UNK
+prediction: 
+                Answer:
+
+input yn question: When you get home, you said you want to get yourself back in good condition, all that. What will you do as soon as you get home? Will it be nothing with the racquets for a few days? When will you start training again, start thinking about Australia?
+input answer: Probably not immediately. I probably need to rest for a little bit. I need to get back physically in shape. I don't feel like I've been in shape for a little while. The last time I've been able to train aggressively is probably May. So I need to put everything aside until I feel ready enough to put myself through the paces. And then I'm ready to hit it, whether it's track or gym. I think that's the first priority. And then when I feel like I'm getting a handle on that, I think the racquets come back in.
+label: nan
+prediction: 
+                -----------------
+
+input yn question: Have you ever dealt with anything like that before where you've been that far down that you felt like it wasn't fun anymore?
+input answer: I was down, but not that down, you know. I was down, but still my ranking was 20. I would be like it was two years ago in 2008, also, Australian Open. I lost to qualifier. I mean, she's a good player, but it was a tough moment for me, and then things suddenly turned everything my way. Now my rank was 115, and then you think; like, Okay, you start to do things like this, you don't get in. I'm not getting in here, not there, wildcard. I mean, you still don't know if they gonna give you wildcard or not. So that was a moment they say, Okay, let's play quallies. I said, Whew, yeah, I will have to play quallies or go to a smaller tournament. But it was a little bit shocking experience, you know. Like sometimes you ask for the wildcard and they say, like, Okay, we will let you know. And it's never letting you know. So...
+label: Yes
+prediction: 
+                <b
+
+input yn question: What was your reaction to the game of Seppi?  I mean, were u more or less surprised by the way he played, or not?
+input answer: Well, I thought his serve was not very good in the beginning, you know.  I thought it was very average actually.  That started to become better as the match went on.  I thought his forehand was very good.  He hits it good inside out.  He hits it good from the forehand corner.  That's why he's a good player. And you know, his backhand, he can take it early, too.  Yeah, he's tough from the baseline and he can slice and dice.  He's a very good all-around player.  Didn't know exactly what to expect because I've never played him.  Now I know and I think he's a good player.
+label: UNK
+prediction: 
+                Yes:
+
+input yn question: Was that the problem when you sort of high-tailed it out of Roland Garros? Had you just sort of had enough of being on your own and Europe and everything?
+input answer: I just had played -- that was like my fifth, I mean, really like my sixth week in a row because I got there a week before Rome. I had played a lot -- two weeks before that, I played five matches in Houston. So just a lot of tennis, and I think I just physically and mentally needed a little bit of a break.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: When you came here last year you had just beaten Novak in Perth. Can you compare how you feel like you're traveling now compared to here 12 months ago?
+input answer: I probably wouldn't say I'm you know, the year has gone by quickly. It's tough to answer that question. Obviously I was playing very good at Hopman Cup this year and last year. This is my first tournament for the year. I won it last year. I'm not looking at it to defend it. I'm looking at obviously winning another title. If I start looking at defending the title I'll get nervous and I'm probably not going to defend it more than likely. I'm looking at this is as a positive and trying to win here as best as I can, regardless of what I have to defend.
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: Are you doing anything interesting?
+input answer: I'm usually going to Time Square Garden, see one show, have some fun, go to the restaurants.  And, of course, do a lot of shopping.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Will you have more treatments today?
+input answer: I will go see the doctors and physios again. Just rest a little bit today, tomorrow at least, and see how it feels on the weekend. You know, just kind of save myself for matches maybe.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: Since the Olympics, is there always a bit of a feeling that this guys goes crazy and it's going to be very, very tough?
+input answer: This guy?
+label: UNK
+prediction: 
+                If the
+
+input yn question: Can you tell us what sort of recovery is different after playing in 40 degree heat? Also, how long did it take you to actually feel normal again?
+input answer: Just a lot more ice baths and a lot more like hand treatment and hot and cold baths. Just a lot of things. I was just really working my physio. He had a long evening.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Is it the first time it's happening to you?
+input answer: That I give up a match?
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Have you been able to do any of that stuff here this week?
+input answer: We've been already to cinema twice and to shopping mall for frozen yogurt. All kinds of things trying to enjoy any time off we have.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Did your opponent say anything to you during the timeout period? Was she getting frustrated?
+input answer: I didn't see it. I think you had a better view on that than me.
+label: UNK
+prediction: 
+                I think
+
+input yn question: Can you play with a bit more freedom, a bit more relaxed?
+input answer: I hope so.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: When you did so well in Australia, do you regard this as any kind of a setback, this trip?
+input answer: Excuse me?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Did you feel that Novak got himself more focused in the second and third sets? What was the difference in his level of play?
+input answer: Well, I don't know what was difference. I think it was just small pieces of difference. I don't know how to say it. But in the beginning of the second set, I had like five breakpoints. He had one. He made it, it was 3Love. It could easily be 21 with a break for me, and it was completely other way. So it's tough to say what was different. I think he was playing pretty much the same. But, as I said, the wind doesn't help at all to my game. But it's the same for both of us. I have to deal with that. That's how it is. First set, beginning of the second set, I had a feeling I was even better from the rallies, which is not every time with him. I was beating him from the rallies. But, you know, it just change a bit with the conditions. I didn't keep with that. Him, yes. So that was probably the difference.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: I spoke to DateKrumm, and she is 42. She said it was the recovery time that is the most crucial to her. Is that the same with you? The intensity may be the same, but the recovery time is more important.
+input answer: That's probably one thing that gets a little bit tougher depending also how much you practice or train and how long the matches will go. You can recover or can be more difficult to recover faster. But, again, you try to do everything you've learned in the past to maybe recover a little bit faster. You have a physio with you 24/7 so you can do a lot to recover for your next match. You just know what helps to you also recover faster. Sometimes, depending on how the matches go, it can be tougher than others.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: You seem pretty comfortable with No.1. How do you feel lately on the court? Are you feeling that there is a bigger gap between you and the rest of the players?
+input answer: Ah, I mean, there is no gap, you know, really. Every tournament is a new opportunity for all the players to win a title. That's how I look at it. Rankings, you know, I don't need to say too much. You have different surfaces, different seasons that, you know, are more suitable to different kind of players. So, you know, clay court is  obviously Nadal and Spanish players, South Americans, are the ones who have, in past couple of years, more success than the others, but, you know, I believe that everybody's improving their game on the different surfaces. It's very demanding, you know. I think I have been playing really well on all different kinds of surfaces. Winning the title on grass for me in Wimbledon last year was a great feeling and an important title, you know, for my career.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Let's hope not. But do you mind the rhythm of mostly playing every day? Is that a good rhythm? Or you prefer days off in between?
+input answer: Actually, I prefer Grand Slam, you know, like play one day, day off, and play another day. But this is schedule. You have follow. Yeah.
+label: nan
+prediction: 
+                Yes
+
+
+input yn question: Do you use a lot of holistic kind of therapies?
+input answer: I do. I've really gotten into a lot of holistic lately. I hate medicines. I hate having to take, you know  what's the word  medicine that's manmade and stuff like that. So I like the holistic. It's better on your system. It takes longer. But overall the effects of synthetic things are longer term and not really so good for you. I'm looking forward to those courses.
+label: Yes
+prediction: 
+                Yes:
+
+input yn question: Can you take us through the process of deciding to play here rather than waiting for an extra week to come back?
+input answer: Well, I mean, it was -- it all depended on Mirka, if she wanted to make the trip or not, and obviously if the babies were going to be ready to do it or not. It really all depended on that. That's why I kind of mentioned it to her like one week before the event starts here, and I went from day to day, and at the end we said, all right, I think everything looks all right. And like this, we going to be anyway then together for a long time in North America. That's what she wanted. That's what I wanted. That's why we decided to do it that way.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: Can I just verify, you said your conversation with Leon, you think that led directly to you not getting welcome?
+input answer: He just said if I wasn't playing Davis Cup I'm not gonna get the wildcard for LTA events, which was here and I think Eastbourne. I think the All England Club makes the decision for Wimbledon.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Are you confident you are able to beat Andy?
+input answer: I'll give him a good run. See what happens.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Thoughts if you play Zvonareva?
+input answer: First she has to win. Then we'll see.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Does that show sort of further robustness you've got like when you lost like you did to Victoria only a couple nights ago and then you come out and completely turned it around?
+input answer: Yeah. I think it's just good, I guess, in a round robin situation there is -- I was thankful it wasn't my last match and had another chance to come out and try and, I guess, redeem myself and play better. If I lost tonight I wanted to, you know, lose on my terms and play well, at least. Obviously I didn't really get close to that, and I played really well from start to finish, and I'm glad that I'm now in the semis and have another chance to try and do it again.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Did you have any concerns with colder weather conditions before the match today? I wonder if that got into your mind before the match.
+input answer: Well, look, you know, we all know that the conditions in Miami can get really difficult for the players, humidity, and of course the wind, that it's changing direction constantly. You could see that it affected him and me also on serves, and we made some double faults in crucial points and so forth. It was not easy. You know, just mentally to hang in there, to stay tough and calm, that helped me obviously, you know, to win this match, I think.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: You're now 144 in finals in your career. You're 30 this year. You also sometimes lose fairly early in tournaments. So how do you explain that? Kind of is it just when you get to the end of the tournament you're full of confidence? Is that just really the difference, do you think?
+input answer: It is I think for me the first rounds of the tournament are the toughest one. You know, it's always, how I told you yesterday, I really didn't know what's happening from the first round, and it really takes some time with my confidence. If I'm playing longer in the tournament, deeper, then I more believe in myself maybe, and I just love to play the big matches on the big stadium, and especially the finals, of course. It's something that I really always try to play the best what I can in that moment.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Did you go into the match with any physical issues, or was it something that came on during the match? What did you do last night?
+input answer: Well, I was cramping. That was what it was. It wasn't something I went into the match with. And, yeah, it was the first fiveset match I played since my surgery. Yeah, it was, you know, obviously playing late, heavy conditions, so it is tough on the legs in the evening. He makes you do a lot of running, as well. He uses the angles extremely well. Yeah, once he's in control of the point, it's tough to, you know, tough to get him out of that. So, yeah, I did quite a lot of running last night. I was glad I managed to come through.
+label: No
+prediction: 
+                -----------------
