@@ -1,0 +1,1489 @@
+
+input yn question: Yet we hear you are making an opera from it. Is this true?
+input answer: Who told you this, Majesty?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Yeah, well we're still a little young for Albany State Prison. Are you pissed about Al? I'm pissed too, but I'm not like "twenty-five to life" pissed.
+input answer: I'm getting clear of this. If you're not going to do it for the fucking principle, do it for the money. Gordo?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: It's not in the river, is it Harry?
+input answer: Answer me!
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Do you know how many girls I've trained to be Slayers?  Five.  Five properly prepared girls, girls who faced their responsibilities, who worked hard to become women overnight -- harder than you've ever worked in your life -- and I saw them ripped apart.  Do you want to live?  Do you?
+input answer: I...
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: Extraordinary, isn't it?
+input answer: It's impossible.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Just didn't get around to it, huh?
+input answer: Oh, Tom, please.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Good work. The download?
+input answer: He believes he has our communications protocols. But they will give him inaccurate locations for all Starfleet vessels.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Can I at least have a drink?
+input answer: It's ten thirty in the morning.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Ever done this before?
+input answer: Once.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Look kind o' natural, don't they, Fred?
+input answer: A sight for sore eyes!
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: I want to see your home.  Will you take me?
+input answer: Kalen, right now you need to go up to bed.  You're exhausting Alexander.
+label: No
+prediction: 
+                I'
+
+input yn question: That's for me to know and for you to find out. I'll see you. I mean call you. okay?
+input answer: Okay, okay. Bye.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: That's what you think?
+input answer: That's what I think.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: You mean, we're stranded down here?!
+input answer: Logic indicates that is the case.
+label: Yes
+prediction: 
+                Answer:
+
+input yn question: Are you sure you don't need it?
+input answer: I rarely use it any more.  I have the Force.  The Force is more powerful than any pistol.  You shouldn't put too much faith in that weapon.  Work on becoming aware of the Force... learn to feel its presence within you.  Try to sense what it's telling you.  It's the only thing you can rely on.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: So you figure the murders stop 'cause he's off the street.  Then by the time he gets paroled, he's smartened up enough to control himself?
+input answer: Not the first time that's been true.  I'm telling you, I got a feeling about this guy.  This is the guy, Satch.
+label: No
+prediction: 
+                Yes,
+
+input yn question: Are you asking me on a date?
+input answer: As long as you realize I'm not just some man-toy you can show off like a trophy.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Potential? I don't understand.
+input answer: Places where the road bends, places away from buildings, places where the traffic thins out. But you don't have to understand. I do. So no talking.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Bridgework?
+input answer: Very romantic.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Do you think Bloody Bill's trying to get into her draws?
+input answer: Too right . . . but he doesn't have a show! Nobody gets into Mother's draws except Daddy!
+label: Yes
+prediction: 
+                * Yes
+
+input yn question: My golly, you know?  All my life I grew up in the city, but every summer...would you like a cigar?
+input answer: Aren't these <u>illegal</u>?
+label: UNK
+prediction: 
+                <u
+
+input yn question: Do you have any idea what's going on out there? The phones are ringing off the hook with people screaming to be let back into the city.
+input answer: We're sending divers into the river now to retrieve the body.
+label: Yes
+prediction: 
+                # Yes
+
+input yn question: See what I mean about it getting Spooky?
+input answer: Curly Bill, huh?  Who was that Other idiot?
+label: UNK
+prediction: 
+                Response:
+
+input yn question: Another kind of game?
+input answer: In a way.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Who've I got to beat up except the messenger?  Does this give us anything to go on?
+input answer: I'm checking out anybody who lives like DeSalvo.  Records of arrests for rape, especially by a man wearing green.  Checking out psychiatric hospitals for his personality profile.  Cross check- ing names from arrests for sexual offenses, public fondling.  If they've got a German wife.  We can keep cops working on this kind of junk for years, and this guy's going to hit again, soon.
+label: UNK
+prediction: 
+                I'
+
+input yn question: Are you Teddy?
+input answer: My name's Leonard.							 *
+label: No
+prediction: 
+                Yes,
+
+input yn question: Are you trying to tell me that I need someone to help me put on my pants and button them up?
+input answer: Quite so. Quite.
+label: Yes
+prediction: 
+                I'
+
+input yn question: You want some water or something?
+input answer: Water.  Okay.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I just wanted to find out what was going on...But now that I'm here it seems strange, doesn't it?
+input answer: Well, I don't have no trousers on...
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Would you settle for a husband?
+input answer: What's this, Diz?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Did you ever touch her?
+input answer: ...No....
+label: No
+prediction: 
+                Yes
+
+
+input yn question: It's going to go bigger than that. Could you stare someone straight in the face and lie about it?
+input answer: I'll worry about that when it happens and if it happens, and it's not gonna happen!
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: No, let's go to work.  Okay?
+input answer: Okay.  I'm sorry I said your dream was stupid.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Ever been tempted?
+input answer: What? To put one of these in my pocket?
+label: UNK
+prediction: 
+                ### Yes
+
+input yn question: You mean you're not coming back to work here?
+input answer: That's the first time you've been right today. That's what I --
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: She talk about the boys?
+input answer: She says she can't get them new coats because you haven't sent the alimony for three months.
+label: Yes
+prediction: 
+                No
+
+
+input yn question: I am the light of this city.  <u>And</u> I am its mean, twisted soul.  Does it really matter who's the "mayor"?
+input answer: It does to me.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Have you lost your mind? Have you thought about your wife and child, not to mention your sick father? And I need your help to move his bed from under the leak in the ceiling.
+input answer: I'm busy.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: You mean ooops, don't you?  Say ooops and get out.
+input answer: I'll wait in the hall ...
+label: UNK
+prediction: 
+                [Yes
+
+input yn question: ...take a good look, chief, do any of 'em look like the hoboes you remember?
+input answer: Hoboes I knew of old used to sleep in their clothes - these two look pretty young.
+label: No
+prediction: 
+                No
+
+
+input yn question: Do I?
+input answer: Uh-huh. Look bro, my battery is running out. Really wish I could chat, but I can't so, later.
+label: UNK
+prediction: 
+                Response:
+
+input yn question: You mean you don't know, Henry! We got a bunch of anarchists, controlling a six-level block of luxury apartments down on Janovska street here in the Old Town, and you don't know about it?
+input answer: Ah, so what?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Are you sure you saw something?
+input answer: How many times I got to tell you.  I saw a ship.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: That's what I've been tellin' ya. The guy was like a mad dog. So the cops aren't looking for me?
+input answer: Naw, until they hear something better they'll assume Drexl and Blue Lou had a falling out. So, once you leave twon, I wouldn't worry about it.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: You sure you heard what I said?
+input answer: Scuse me, hon, fraid I'm only half here. Maybe you oughta run on along. But why don't you take this phone number?
+label: No
+prediction: 
+                Yes
+
+
+input yn question: I can't do that?
+input answer: Do what?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Sparkling rocks?
+input answer: Little ones.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Is that what you are angry about?
+input answer: Talking to you is like riding on a merry-go-round.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Is Freddie here?
+input answer: He's downstairs.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: They have a right to be...  Do you think they'll help us?
+input answer: I believe I was successful in communicating our intentions.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: I don't see anything, do you?
+input answer: What're you gonna do next?
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: Have you warned Professor Hikita?
+input answer: First thing I did.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: So tell me about this dance. Was it fun?
+input answer: Parts of it.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Did you tell Sterling?
+input answer: Let him find out on his own.  I want the Hong Kong police handling this.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: You're sometimes not sure?
+input answer: I'm sure. Pretty sure.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: So can we consider you a regular, sir?
+input answer: Is that good or bad?
+label: UNK
+prediction: 
+                ### 
+
+input yn question: Butch! I'd put my arm in fire for you -- up to here!  Now, you can't double-cross me!... She does? All right -- put her on. I'll talk to her... Hello! Oh, hello, Madam... Now listen, you ten-cent glamour girl, you can't keep Butch away from his duty... What's that? You say that again and I'll come over there and knock your eye out! Hello?  I'll kill 'em! I'll kill both of 'em!  Duffy!  Mousing around with some big blonde Annie on my time! That's co-operation!  Duffy!!
+input answer: Shut up, will you?  You sure? Nobody?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: What I mean is, you think if, uh, do you think if I came back... do you think you could forgive me?
+input answer: Uh,  I don't know. I gotta tell you, I don't know.
+label: UNK
+prediction: 
+                [Yes
+
+input yn question: Look. You want to talk about this?
+input answer: I don't think so. Keith's about to use the rooster for target practice. Besides... you didn't seem too interested last night.
+label: No
+prediction: 
+                ### Yes
+
+input yn question: You call that getting over it?
+input answer: I mean I want both of us to go.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You mean--beyond pacifism?
+input answer: He's fragile, man!  He's very fragile!
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: High Voltage?
+input answer: It sends 200 volts throughout the cylinder surface.  But we've never used it underwater before.
+label: Yes
+prediction: 
+                I'
+
+input yn question: Wait a minute! That was thirty years after daddy. Do you think...?
+input answer: I don't know. I'm completely in the dark here. That's what I get for moving away.
+label: UNK
+prediction: 
+                [Yes
+
+input yn question: Did God make you the sacker of peaceful cities? The executioner of the king's nephew, my husband's own cousin?
+input answer: York was the staging point for every invasion of my country. And that royal cousin hanged a hundred Scots, even women and children, from the city walls.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Yeah.  Poor guy.  Have anything to drink?
+input answer: We haven't checked.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Do you?
+input answer: I think somewhere between Roderick Bledsoe's club and his house, Wade ran into Buddy Deeds. I think Buddy put a bullet in him, waited for him to die, threw him in the trunk of the Sheriff's car and drove him out by the Army post, I think he buried him under four feet of sand and never looked back.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Adele... are you serious?
+input answer: You think Early's bad to me, don't you?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You play all these places?
+input answer: Baker's unabridged.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Can you - ?
+input answer: Jim, I don't even know his anatomy.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Was I right?
+input answer: Wreck is a harsh term. Disturbed is more like it. Mildly disturbed even.
+label: No
+prediction: 
+                # Yes
+
+input yn question: ...this is your sweater, right?
+input answer: Where are you going?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: And you, I take it, are the Paderewski who plays his concerto on me, the piano?  Where is Princess Fire-and-Music?
+input answer: Who?
+label: UNK
+prediction: 
+                The answer
+
+input yn question: Haven't I seen you up in ladies' wear?
+input answer: I don't work here. My wife does.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Do you have many patients, doctor?
+input answer: Oh no. Mostly research in endocrinology.
+label: No
+prediction: 
+                Yes,
+
+input yn question: Is it a secret what you're doing here?
+input answer: I had to see you...
+label: UNK
+prediction: 
+                I'
+
+input yn question: You and Wichita go to school together, right?  Have you two ever...
+input answer: That would be a No.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Yeah, well, we all got our little problems today don't we?
+input answer: He has come to help Mister Burns. Somehow I feel responsible.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: She told them you wanted her things and that she wasn't surprised police looked for you! Can you believe it?!
+input answer: Asshole. But she won't miss anything, that. You'll see.
+label: UNK
+prediction: 
+                I'
+
+input yn question: They don't break in the summer! Do you know what building is right over this spot?  Harriman Tower. Their sub-basement was flooded! He didn't die in a pool.  Call the coroner in Rhode Island!  Ask if the water in his lungs was chlorinated!
+input answer: Okay, I will.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Opportunities?
+input answer: Of course. Why man, you have one of the richest farms in the county.  You just go about it the wrong way -- so many men do. Hard work -- well, that's all right for people who don't know how to do anything else. It's all right for people who aren't lucky -- but once you're lucky -- you don't work for other people. You make them work for you.
+label: Yes
+prediction: 
+                Yes,
+
+input yn question: It must be fair old size, suppose it's empty?
+input answer: And suppose a little old lady lives there?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: I'm after news, as usual. I wonder if it would be all right for me to slip in and look around your factory?
+input answer: I guess so. But wouldn't it be better for you to wait until the old man's here?
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Cotter?
+input answer: Fucking owl!
+label: UNK
+prediction: 
+                I'
+
+input yn question: Got the information on you?
+input answer: Get it in half an hour.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: No, I mean how would you do it?  Do you just sneak in real fast or hide out till the store closes or what?
+input answer: Naw, honey, that would be burglary. I never got arrested for burglary. Burglary's for chicken shits.  If you're gonna rob someone, ya just have to go right on up to 'em and do it.  Just take the money.  That's robbery.  That's a whole 'nother deal.
+label: No
+prediction: 
+                I'
+
+input yn question: Look, maybe it's none of my business, but a man with your talent  don't you think your first obligation would be to your gift? Shouldn't you be doing whatever you have to do to work again?
+input answer: And what would that be, son?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Yeah, but, when I was walking, I realized that he's stuck in that limo all the time. He's stuck with his interviews, he's stuck with his autograph, he has to do whatever his manager tells him to do, you know? He's not free. He's just part of the machine, and if you think about it, freedom's all that there really is.
+input answer: Yeah, I guess.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: So you have information for me?
+input answer: Is that what your little note says?
+label: UNK
+prediction: 
+                ### Yes
+
+input yn question: Is Julia here?
+input answer: Upstairs.  Treat her gently, huh? She hates moving.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: In G.R.? Why?
+input answer: Can you meet me in about an hour? At the Pantlind Hotel?
+label: UNK
+prediction: 
+                <p
+
+input yn question: Hi.  I've been looking for an envelope of my receipts from last month and I'm thinking I didn't take them with me.  Have you seen them around?
+input answer: I'll look for 'em.  How you doing?
+label: UNK
+prediction: 
+                Response:
+
+input yn question: Alors?
+input answer: Alors quoi?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Listen, I told you I wasn't interested in that deal, didn't I?
+input answer: I want to know why .
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: To join, and become One with the Creator?
+input answer: To learn all that is learnable; to deliver all collected data to the Creator on the third planet. That is the programming.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: But can't you give me any idea?
+input answer: How could I?  I will do my best. After all, you see, I am financially interested.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Did he?
+input answer: He did.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: And cherry bombs...ash cans...and rockets?
+input answer: Ok.  For another $5.00 a special on the packs.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Like it?
+input answer: Nah.  The big mask was better.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Do you know when she'll be back?
+input answer: Later. Listen, we're entertaining some guests so -
+label: UNK
+prediction: 
+                <Response
+
+input yn question: He went out and bought himself men's cologne the other day.  Did I tell you that?
+input answer: Larry bought himself cologne?
+label: UNK
+prediction: 
+                I think
+
+input yn question: Isn't there something you want to tell me?
+input answer: To tell you?
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: You're not giving up, are you, Mr. Dickson?
+input answer: Were you in Cluett's apartment?
+label: UNK
+prediction: 
+                ### 
+
+input yn question: Wasn't it like eighth grade?
+input answer: Seventh... you wanted to move out right then!
+label: No
+prediction: 
+                # Yes
+
+input yn question: You didn't want to see me, did you?
+input answer: If there is one thing I can't stand about sleeping with women, it's all the fucking mind reading.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Did I say anything?
+input answer: Look. You got men, you got parasites that live in, on, and around men. Now. Why not breed a parasite that does something useful? Eh? Why not breed a parasite capable of taking over the function of any one of a bunch of human organs? Why not, for example, a parasite living in the human abdominal cavity that plugs into the circulatory system and filters the blood like a kidney? If it takes a little blood for itself, so what? Be generous! You can afford it.
+label: UNK
+prediction: 
+                No
+
+
+input yn question: Under <u>water</u>?
+input answer: High-intensity arcs will burn, submerged.  And millions of volts...discharged in random directions...
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Huh?!  Oh, uh, no, I didn't get the job. But something <u>better</u> happened!
+input answer: Better than not getting a job?
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: That's it? I mean, you don't want to order room service or anything? We could play games and watch movies and stuff.
+input answer: Are you kidding? Mom and Dad discover I'm gone and I'll be doing hard time.
+label: No
+prediction: 
+                Answer:
+
+input yn question: If we were to go to trial, would we win the case?
+input answer: Well, of course, it's always dangerous ...
+label: Yes
+prediction: 
+                If the
+
+input yn question: Look.  That's negotiating? He threatened to kill...
+input answer: ...us.
+label: UNK
+prediction: 
+                I can
+
+input yn question: And how about your co-star in NIGHTMARE I.  Would you trust him alone with your child?
+input answer: Robert?  I...
+label: UNK
+prediction: 
+                <Yes
+
+input yn question: Is it safe to assume that because the death count involved and the loss of life of law enforcement officers, that the Bureau, the Rangers and the police force are taking this manhunt personally?
+input answer: I would say that's a very safe assumption.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Is that Donald Trump's car?
+input answer: Oh God, Patrick. Shut up.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You've been in an institution, haven't you, James?  A hospital?
+input answer: I have to go.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Do I look like it that much?
+input answer: Village gossip.  You're a real attraction here.
+label: Yes
+prediction: 
+                <input
+
+input yn question: And did you hear them speak of the porter who testified against Burke?
+input answer: Aye.
+label: Yes
+prediction: 
+                If the
+
+input yn question: Frida, listen to yourself. If I said I was a werewolf, would you believe me?
+input answer: I don't know. You have to take Sammy. He's afraid of me.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You don't mind working once in a while to justify this lofty position?
+input answer: I just fnished work. I counted the bags.
+label: UNK
+prediction: 
+                ### Yes
+
+input yn question: Well can you connect me to someone else?
+input answer: Well what's the situation?
+label: UNK
+prediction: 
+                Response:
+
+input yn question: Oh, what? You're going to take the professor's side on this?
+input answer: Don't give me you line of shit.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Won't those two years in court be expensive for you? I know that money was no object as long as you could squeeze it from the pockets of the people, but now...
+input answer: I may run out of money, but you have already run out of bread. Two years is a long time for your comrades to wait.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Oh, she's really enjoying it.  I think. Is Mac okay?
+input answer: I don't know what's going on.  I don't care to guess.  Mac's really unhappy. She isn't there, that's all.  She's no idea what she's playing, not a clue.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Never been here before?
+input answer: Must have opened while I was away at school.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Do you remember?
+input answer: The only time I can think of for sure, I was holding onto Sam in the ocean, saving him from the waves.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Remember, pay attention to how she talks about Foley, her tone.  Do it right, she'll tell you things she wouldn't tell Burdon.  Tell her you think he's a nice guy.  No, first tell her about being in the trunk with him, in the dark for half an hour, and see how she takes it.  If she's in on it, what does she get for all the aggravation; cops breathing on her?  I bet nothing.  So she still likes him enough to stick her neck out.  You think that's possible?  What kind of guy is he?
+input answer: He's pretty laid back, confident.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You'd die for them?
+input answer: I would try for them.
+label: Yes
+prediction: 
+                No
+
+
+input yn question: T-turned on?
+input answer: A hot light bulb is burning inside of you.  I want to be warmed by it.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Isn't therapy helping at all?
+input answer: I don't know. Sometimes I feel stupid babbling about my little problems while children are starving in the world.
+label: UNK
+prediction: 
+                ### Yes
+
+input yn question: Do I know you?
+input answer: I'm Ann Millaney's sister.
+label: UNK
+prediction: 
+                No
+
+
+input yn question: No - she isn't in any trouble is she?
+input answer: Oh no sir - just making some enquiries...Just tell her that INSPECTOR TAYLOR called on you - she'll understand
+label: No
+prediction: 
+                Response:
+
+input yn question: I did, didn' I, El?
+input answer: You got another ball comin'.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Did you find your Franklin Mint egg, Rosemary darling?
+input answer: I saw one, but it was ridiculously overpriced!
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: A jogger, huh?
+input answer: I don't jog, Mr. Booker. I run.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Or how about a game of pinochle? No, you're not a pinochle man. You're a chess player.  I haven't played since I was a kid. Let's see --  -- a pawn moves this way, doesn't it? And a bishop this way? And the queen -- every which way, doesn't it?
+input answer: Suppose you just sit down and keep your mouth shut.
+label: UNK
+prediction: 
+                No
+
+
+input yn question: Are you an expert in amnesia?
+input answer: Look, what do you want me to say? I was there. I believed him.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Is she fair, this princess?
+input answer: Exceeding fair.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: What are you doing out there? Are you crazy?
+input answer: Hay pasado un accidente muy grave-- [There's been a bad accident--]
+label: UNK
+prediction: 
+                ### Yes
+
+input yn question: Right.  So why is he dying?  He doesn't appear to have any broken bones, no entry wounds of any kind -- what's killing him?
+input answer: Time.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Could I ask you, please, to paste you paintings into my book?  I should like to have them.  I should be honored.
+input answer: Of course.  Is it, am I a terrible coward to ask how much water we have?
+label: Yes
+prediction: 
+                I should
+
+input yn question: Carnes? Wait.
+input answer: Davis. I'm not one to bad-mouth anyone, your joke was amusing. But come on, man, you had one fatal flaw: Bateman's such a dork, such a boring, spineless lightweight, that I couldn't fully appreciate it. I wasn't fooled for a second. Now, if you'd said Price, or McDermott...Otherwise, it was amusing. Now, let's have lunch or dinner or something. Hilarious, Davis. A killer.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Think this room is larger than anything Webster's got at Marshfield? You've been there. What about it, Mary?
+input answer: It's -- different, Jabez -- that's all.
+label: UNK
+prediction: 
+                ### Yes
+
+input yn question: You would do that?
+input answer: They left me stranded.  Twice. What have you got to lose?
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Has she spoken to you of her father and her mother?
+input answer: She has never mentioned her family.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Wow. Hey, I was just about to order some dinner. You eat Chinese, right?
+input answer: Dick.
+label: UNK
+prediction: 
+                Dick.
+
+input yn question: Are you guys gonna fill this place with kids? You sure got room for them.
+input answer: We're in no hurry. I think we'll take some time to enjoy each other, enjoy our freedom before we surrender ourselves to kids.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Why are you so upset?  Is there anything missing?
+input answer: Who said you could?  Who asked you to?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Is that true?
+input answer: How the fuck do <u>we</u> know.  You take my point?
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: You heard?
+input answer: I may be a shut-in, but I do not lack for news. I'm sorry you had to go through all that.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: We been wantin' to ask you something. Are you the guy on YV?
+input answer: Am I on TV?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Told ya I would. You still riled?
+input answer: You still screwing sixteen-year-olds in the ass?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: What's the matter with this one? Wouldn't you like to have Imelda Marcos as your mother?
+input answer: Dad --
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Are you serious?  About throwin' a body outta here if we have to?
+input answer: Well, I stalled him for a while. When it comes the time, then we'll work it out.  Okay?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Afford it?
+input answer: Have you ever been with a male band?
+label: UNK
+prediction: 
+                If the
+
+input yn question: My father was an electrician. Already forgot that?
+input answer: My father was a pilot.  And do I know how to fly?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Is there any chance a single aircraft can penetrate the entire enemy Air Defense, when its course and target are known?
+input answer: If I can speak freely, sir -- look, these guys talk big, but frankly, we think they're short of know-how.  You can't just take a bunch of ignorant peasants and expect them to understand a machine like one of our boys, and I don't mean that as an insult, Mister Ambassador.  Hell, we all know what kind of guts your people have.  Why just look how many millions of 'em those Nazis  killed and, hell, they still wouldn't quit.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Did she?  You were pretty thick at one time.
+input answer: We all played the field.
+label: UNK
+prediction: 
+                No
+
+
+input yn question: Baxter, I don't want to pull rank on you -- but I told the lady it was all set -- you want to make a liar out of me?
+input answer: Are you going to leave, Mr. Kirkeby, or do I have to throw you out?
+label: UNK
+prediction: 
+                ### Middle
+
+input yn question: We're doing something -- ?
+input answer: Before we do this, I just want to say that a good life's gotta be about more than achieving stuff -- like on your list.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Well, I'm pretty impolite.  Would you like some?
+input answer: I don't eat vegetables.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Could I make one phone call first?
+input answer: Get out!
+label: No
+prediction: 
+                Middle
+
+
+input yn question: Have you no shame?
+input answer: Oooh. Oh. Miles. Miles.
+label: UNK
+prediction: 
+                I'
+
+input yn question: Oh, forgive me.  Is this yours?
+input answer: It's hers. Where'd you find him, robbing a bank?
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Swell. Let's synchronize detonation time. Do you know when you're supposed to go off?
+input answer: Detonation in six minutes, twenty seconds.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Anything I'd know?
+input answer: Maybe. Recognize this?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Are you going to be all right?
+input answer: Absolutely. The world is my oyster.  Whatever that means.
+label: Yes
+prediction: 
+                The answer
+
+input yn question: Hello again, neighbour. I didnt intrude, did I?
+input answer: How are you, Jane?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Right, right. But does he ever just, like, hand you code?
+input answer: Maybe once. I re-wrote it, anyway.
+label: Yes
+prediction: 
+                Right,
+
+input yn question: If ya don't pay Gazzo, ya end up hangin' on the hook, right?
+input answer: Gazzo's a good man.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: We did make love?
+input answer: Is that what you're calling it?
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: Good. Now, as I trust you may have guessed, we are looking for someone to work for us. Someone whose discretion can be relied upon. Someone who while in our employ would give us full commitment. Do you think you could be that person, Mr Lombard?
+input answer: Look Mrs Spitz... I dont know to whom Im indebted for the recommendation but... Im not in the business of making oaths of allegiance or giving myself character references. What I do is listen to what the people who care to call me have to say and judge whether or not I can be of help. I hope you can appreciate that, Mrs Spitz.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: May I have twenty-five cents, please?
+input answer: What for?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: If there was a problem, they could do something right?
+input answer: Of course, that's what they're for.
+label: Yes
+prediction: 
+                <Yes
+
+input yn question: Bud White's been here?
+input answer: For the last time.  I may suborn women into illicit activities, but they're handsomely compensated, I treat them well and make sure the men they deal with show them every due respect.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: I think I remember Linda, yah.  She was - yah. So things didn't work out, huh?
+input answer: And then I, and then I been workin' for Honeywell for a few years now.
+label: UNK
+prediction: 
+                Response:
+
+input yn question: Well, does it make sense to you?
+input answer: It doesn't have to, it's something that happens.  It's like seeing a person you never saw before -- you could be passing on the street -- you look at each other and for a few seconds, there's a kind of recognition.  Like you both know something.  But then the next moment the person's gone, and it's too late to do anything about it, but you remember it because it was right there and you let it go, and you think, "What if I had stopped and said something?"  It might happen only a few times in your life.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: And you will come to hear us tonight?
+input answer: If it's at all possible -
+label: Yes
+prediction: 
+                If it
+
+input yn question: It is?
+input answer: Most people just want to make money or be famous or something. But you risk everything, just to help people.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: The ones in the box of files.  The box of files?  The one from your office?
+input answer: I didn't see any medical records in there.
+label: UNK
+prediction: 
+                ### Yes
+
+input yn question: You do volunteer work at the hospital?
+input answer: I come from time to time.  When I'm needed.
+label: Yes
+prediction: 
+                I'
+
+input yn question: Will the police do anything to her?
+input answer: It's too late for that.  She can't drive the bus anymore.  The school board saw to that right off.
+label: UNK
+prediction: 
+                Response:
+
+input yn question: The strip joint?
+input answer: I believe they call it a connoisseur's club. Owned by DELT.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You're not from L.A., huh?
+input answer: New York.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Do you like quotes, Howard?
+input answer: How do you mean?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Yeah?  Yeah?  Okay, kids, you can open the presents now.
+input answer: Here, you guys.  Open them up.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: "Let's see what she's got," said the Captain. And then we found out, didn't we?
+input answer: I know you'll whip her into shape, Scotty. You always do.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: I'11 tell you something else. The old guy in the wheelchair? The stepfather? They're gonna have him die.
+input answer: What do you mean "they're gonna have him die?"
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: Alfredo died. Do you remember him?
+input answer: Of course I remember him. I'm sorry. You were terribly fond of him.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: These people are paying you a lot, do you think you could consider it?
+input answer: Just get me out of here as soon as you can.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Here?
+input answer: <u>Here</u>?!
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: Do you love your parents?
+input answer: I never knew my mother.  My father died when I was nine.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Are you sorry she's dead?
+input answer: Of course I am.  What kind of question is that?
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Hey!  Would you?
+input answer: It was fifteen seconds.
+label: UNK
+prediction: 
+                Yes,
+
+input yn question: ...and therafore there is no consequence?
+input answer: Exactly.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Think so? You don't know? Didn't you write it down?
+input answer: I might have fallen asleep before I did.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Bravo! Bravo! Our chairs are indeed almost touching! And we want to remain seated on them, correct? We don't want them snatched from under us, am I right? Because if one goes, the other goes, and then - boom! Boom! And we are both down before our time, you see? And neither of us wants that, do you agree?
+input answer: I certainly do.
+label: Yes
+prediction: 
+                ### Yes
+
+input yn question: Is there something the matter with it?
+input answer: Oh! No! No... of course not... it's just I hadn't expected it to be quite so big.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Holy shit. Your brother didn't tell him about the nature of our relationship, did he?
+input answer: My brother is discreet.
+label: No
+prediction: 
+                Answer:
+
+input yn question: Are you alright?  What is it?
+input answer: Rain.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You know what we ought to do tonight?
+input answer: Please Doyle, don't.
+label: UNK
+prediction: 
+                Please Do
+
+input yn question: You know we had reservations about each other.  Isn't it a little late in the day to be asking me that?
+input answer: Not necessarily.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Whatever...they become the hotshot computer guys so they get the job to build El Computer Grande...Skynet...for the government.  Right?
+input answer: That's the way it was told to me.
+label: Yes
+prediction: 
+                No
+
+
+input yn question: Holy shit. Can you believe this?
+input answer: Pretty nice.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Really?  Do you have the money with you?
+input answer: Do you have the material?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: You don't think he's dead, do you?
+input answer: He might well be. But not the way they say. He didn't crawl out of that car by himself. You saw those dents on the door--someone pulled him out.
+label: Yes
+prediction: 
+                Middle
+
+
+input yn question: May I say something, no offence?  You look like a gigolo, you sound like a thief, you act like a cop - what the bloody hell do you have in mind?
+input answer: Working under adverse conditions.  Highly adverse conditions.
+label: UNK
+prediction: 
+                Middle
+
+
+input yn question: The food doesn't please you?
+input answer: It's lovely.  It's just...
+label: No
+prediction: 
+                Yes
+
+
+input yn question: And that's what caused the contamination?
+input answer: It didn't help, but no.  The real problem's on the bottom.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: What about you, I hear you guys are handling the Fairchild Foods merger and it may not be going through. Any surprises I haven't read about in the Wall Street Journal?
+input answer: Come on Buddy, you wouldn't want to got me disbarred now would you?
+label: UNK
+prediction: 
+                # Yes
+
+input yn question: Are you working?
+input answer: Working? What do you mean, working? I'm walking.
+label: No
+prediction: 
+                The answer
+
+input yn question: Wadda you wanna buy a shop for, will you tell me? You gotta good job, you got no wife, you got no responsibilities. Boy, I wish I was you, boy. Waddaya wanna tie yourself down with a shop? What's he want? Five thousand down? You're gonna have to carry a mortgage sixty, seventy bucks a month. A mortgage anna note from the bank. For Pete's sake, you're a single man with no responsibilities. Stay that way, boy. Take my advice.
+input answer: Well, you see, Thomas I figure the big problem is the supermarkets. But Patsy's shop, that's a specialized trade. The supermarkets don't carry Italian meat.
+label: UNK
+prediction: 
+                I'
+
+input yn question: Did you read ALL these books?
+input answer: Uh huh.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: 'Message from command.  Would you like them to send in the HKs?'
+input answer: 'No, turn over 4 TRS's and tell them we need radar feedback before the KFT's return at 19 hundred -- then inform the Pentagon that we'll be needing black star cover from ten hundred through 12.15' -- and don't you dare say one word about how many mistakes I made in that speech or I'll pelt you with olives.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Have you got to tell her your life story?
+input answer: This is my conversation.  I'll say what I fucking please.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: There. Now you've got your profit and more. You'll have more product day after tomorrow, right?
+input answer: Uh - right. Sure. The Mets are gonna win tomorrow.
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Hey, are you guys still there? What's going on?
+input answer: Meet us on the bridge.  Be careful -- it's <u>huge</u> now.
+label: UNK
+prediction: 
+                <u
+
+input yn question: Calvin?!
+input answer: Right here!
+label: Yes
+prediction: 
+                Yes
+
+
+input yn question: Please.  When I came here it was for a little adventure--a little game which you play tonight and forget tomorrow. But something has changed me--and it isn't the champagne.  The whole thing is new to me. Very new. I've got a confession to make to you.  Baron, you are a crook.  You robbed the gentleman in two fifty-three, five, seven, and nine.  May I have the salt?
+input answer: Please.
+label: Yes
+prediction: 
+                If
+
+input yn question: Was Mrs. Dickson there?
+input answer: Listen, Mr. Dickson, don't let them lick you just because a couple of big shots turned you down. You've got more friends than anybody in this town. Little guys - guys who wouldn't be in business if it weren't for you. All you've got to do is
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: HARRY, are we gonna build this thing or not?
+input answer: LLOYD, what I'm saying is we may already have what we want.
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: I'm not scared of Ralph Lauren. Those are <u>sheets</u>.  Are you gross under there?  Are you <u>Night of the</u> <u>Living Dead</u> under there?  Like all bloody veins and pus?
+input answer: What?
+label: UNK
+prediction: 
+                Yes
+
+
+input yn question: Wait...Did you say off-season?
+input answer: July fourth weekend. Storm season starts today. The clouds roll in like clockwork.
+label: UNK
+prediction: 
+                <Yes
+
+input yn question: You always live there?
+input answer: Spent time in Arizona. Why?
+label: No
+prediction: 
+                Yes,
+
+input yn question: Did you ever hear of "The Lone Rider of Santa Fe?"
+input answer: I can't say that I have.
+label: No
+prediction: 
+                Yes
+
+
+input yn question: Do you miss him?
+input answer: What do you think?
+label: UNK
+prediction: 
+                ### Yes
