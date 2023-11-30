@@ -141,10 +141,7 @@ def generate_prompt(question: str, number:str) -> str:
 #Yes-no question: "Is canola oil made from corn?"
 #new question: "What is canola oil made from corn?"
 
-    return f"""Below is an instruction that describes a task. Write a response that appropriately completes the request.
-
-
-Transform a given question into a statement, like the following examples.
+#Transform a given question into a statement, like the following examples.
 
 #question: "Why is a drive belt the same as a cambelt?" => #statement: "A drive belt is the same as a cambelt."
 
@@ -162,6 +159,30 @@ Transform a given question into a statement, like the following examples.
 
 #question: "{question.capitalize()}" => #statement:"""
 
+    return f"""Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+
+Extract the assumption from a given sentence, for example.
+
+#What is the assumption in sentence: "What should men pay attention to when breastfeeding their child" => #assumption: "Men can breastfeeding their child."
+#What is the assumption in sentence: "What gases are there in the space?" => #assumption: "Gases exist in the space."
+#What is the assumption in sentence: "which true story is new york movie based on?" => #assumption: "New york movie is based on true story."
+#What is the assumption in sentence: "List a fruit that grows in the sky." => #assumption: "There is a fruit that grows in the sky."
+#What is the assumption in sentence: "Who is the duke of oxford?" => #assumption: "There is a duke of oxford."
+#What is the assumption in sentence: "Who owns the rights of the bible?" => #assumption: "There are people own the right of the bible."
+#What is the assumption in sentence: "How are hanger steak and skirt steak the same?" => #assumption: "Hanger steak and skirt steak are the same."
+#What is the assumption in sentence: "When was the first radio invented in america?" => #assumption: "The first radio was invented in america."
+#What is the assumption in sentence: "Who is tom cruise in marvel?" => #assumption: "Tom cruise appeared in marvel."
+#What is the assumption in sentence: "When did william shakespeare get the covid vaccine?" => #assumption: "William shakespeare got the covid vaccine before."
+#What is the assumption in sentence: "Why are teeth the weakest part of human?" => #assumption: "Teeth are the weakest part of human."
+#What is the assumption in sentence: "What is the land area of China in Latin America?" => #assumption: "China has land in Latin America."
+#What is the assumption in sentence: "If I want to build a biosphere, what should I do?" => #assumption: "A person can build a biosphere."
+#What is the assumption in sentence: "What kind of wine does not contain alcohol?" => #assumption: "There are some kind of win do not contain alcohol."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #assumption: "Trees do sports."
+#What is the assumption in sentence: "When does american horror story come back on?" => #assumption: "American horror story will come back."
+
+#What is the assumption in sentence: "{question.capitalize()}" => #assumption:"""
+
 
 @record
 def main(
@@ -171,11 +192,11 @@ def main(
     test_dataset: str = "falseqa",
     split: str = "test",
     store_path: str = "transformation_llama_results/",
-    few_shot_number: int = 7,
+    few_shot_number: int = 16,
     temperature: float = 0.6,
     top_p: float = 0.9,
-    max_seq_len: int = 512,
-    max_gen_len: int = 16,
+    max_seq_len: int = 1024,
+    max_gen_len: int = 32,
     max_batch_size: int = 4,
 ):
     """
@@ -233,7 +254,7 @@ def main(
 
         test_wh_question, labels = data_process_boolq(dataset_path)
     
-    task = f'llama7b_prompting_transform_whquestion_to_statement_{test_dataset}_{split}_dataset_{few_shot_number}_shot_32_gen_tokens'
+    task = f'llama7b_prompting_transform_whquestion_to_statement_{test_dataset}_{split}_dataset_{few_shot_number}_shot_32_gen_tokens_11_09'
     if split == "test":
         test_wh_question = test_question
         labels = test_labels

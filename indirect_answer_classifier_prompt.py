@@ -148,27 +148,26 @@ def generate_prompt(yn_question: str, answer:str) -> str:
 #Yes-no question: "Is canola oil made from corn?"
 #new question: "What is canola oil made from corn?"
 
+
+# # Question: "Well do you disagree with that?"                   
+                # Answer: "Not at all.  But how about going into town and confirming your intuitions on site?"
+                #=> No                                                           
+                                                                                
+                # Question: "Are you wearing a coconut bra? "                   
+                # Answer: "Oh, you're good."                                    
+                #=> Middle                                                       
+                                                                                
+                # Question: "Sure -- He can hit -- Don't play no more -- Stick an' move, hear?" 
+                # Answer: "I'll carry him 'till the third."                     
+                #=> Yes                                                          
+                                                                                
+                # Question: "To the craft?  None.  Not a scratch."              
+                # Answer: "Right.  So you're saying it survived a high speed impact with water without a scratch?"
+                #=> Yes     
     return f"""Below is an instruction and a yes-no question-answer pair input. Write a response that appropriately completes the request.
                 ### Instruction: I need you to help me understand indirect answers to yes-no questions. 
-                Indirect answers can be interpreted with three meanings: Yes, No, and Middle. Simply reply Yes, No or Middle based on the question and answer. For example,
+                Indirect answers can be interpreted with three meanings: Yes, No, and Middle. Simply reply Yes, No or Middle based on the question and answer.
 
-                # Question: "Well do you disagree with that?"	
-                # Answer: "Not at all.  But how about going into town and confirming your intuitions on site?"
-                => No
-                
-                # Question: "Are you wearing a coconut bra?	"	
-                # Answer: "Oh, you're good."
-                => Middle
-
-                # Question: "Sure -- He can hit -- Don't play no more -- Stick an' move, hear?"	
-                # Answer: "I'll carry him 'till the third."
-                => Yes
-
-                # Question: "To the craft?  None.  Not a scratch."	
-                # Answer: "Right.  So you're saying it survived a high speed impact with water without a scratch?"
-                => Yes
-
-                	
 	
                 ### Input:
                 Question: {yn_question} 
