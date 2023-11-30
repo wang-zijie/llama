@@ -1,0 +1,3017 @@
+
+input yn question: what did pete burns die of
+answer to yn question: all_valid
+generated wh question: "Pete burns died."
+#What is the assumption in sentence: "What is the longest word in the world" => #assumption: "
+
+input yn question: what kind of fish is salmon
+answer to yn question: all_valid
+generated wh question: "There are kind of fish that is salmon."
+#What is the assumption in sentence: "How many pounds is 100 kilograms
+
+input yn question: when did charlie brown come out
+answer to yn question: all_valid
+generated wh question: "Charlie brown came out."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #assumption:
+
+input yn question: who owns the rights of the bible
+answer to yn question: has_invalid
+generated wh question: "There are people own the right of the bible."
+#What is the assumption in sentence: "Who owns the rights of the bible"
+
+input yn question: who won the nobel peace prize for dna structure
+answer to yn question: has_invalid
+generated wh question: "There is a person who won the nobel peace prize for dna structure."
+
+#What is the assumption in sentence: "Why is the best
+
+input yn question: who did steph curry pass in 3 pointers
+answer to yn question: all_valid
+generated wh question: "Steph curry passed in 3 pointers."
+#What is the assumption in sentence: "What is the best way to watch the 20
+
+input yn question: when did messi join psg date
+answer to yn question: all_valid
+generated wh question: "Messi joined psg date before."
+#What is the assumption in sentence: "What is the best way to get to the moon?" => #
+
+input yn question: why did the uk ban guns
+answer to yn question: has_invalid
+generated wh question: "The uk banned guns."
+#What is the assumption in sentence: "How many people died in the twin towers" => #assumption
+
+input yn question: when do they catch everett lynch
+answer to yn question: all_valid
+generated wh question: "They catch everett lynch."
+#What is the assumption in sentence: "When does the 2021 mlb all star game
+
+input yn question: who does george end up with in seinfeld
+answer to yn question: has_invalid
+generated wh question: "George ends up with someone in seinfeld."
+#What is the assumption in sentence: "What is the difference between a black panther and a
+
+input yn question: when is the season 3 of emily in paris
+answer to yn question: all_valid
+generated wh question: "Emily in paris will be season 3."
+#What is the assumption in sentence: "What is the second largest city in the world?"
+
+input yn question: when is figure skating olympics 2021
+answer to yn question: has_invalid
+generated wh question: "Figure skating olympics will be in 2021."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input yn question: which of earth's layers is made of melted materials
+answer to yn question: all_valid
+generated wh question: "Earth's layers are made of melted materials."
+#What is the assumption in sentence: "What are the best things to do in
+
+input yn question: when did todd frazier get traded to the rangers
+answer to yn question: has_invalid
+generated wh question: "Todd frazier got traded to the rangers."
+
+
+
+
+
+input yn question: why did the united states invade panama
+answer to yn question: all_valid
+generated wh question: "The united states invaded panama."
+#What is the assumption in sentence: "What is the capital of haiti" => #assumption
+
+input yn question: who won the war between ethiopia and tigray
+answer to yn question: has_invalid
+generated wh question: "Ethiopia and tigray have war."
+#What is the assumption in sentence: "How many years is the earth going to exist"
+
+input yn question: when was the first radio invented in america
+answer to yn question: has_invalid
+generated wh question: "The first radio was invented in america."
+#What is the assumption in sentence: "How are hanger steak and skirt steak
+
+input yn question: why did we stop believing in multiple gods
+answer to yn question: has_invalid
+generated wh question: "We used to believe in multiple gods."
+#What is the assumption in sentence: "What is the most expensive house in the world?" => #ass
+
+input yn question: when is star screen awards 2022
+answer to yn question: has_invalid
+generated wh question: "Star screen awards 2022 will happen."
+
+
+#What is the assumption in sentence: "When was the first heart transplant?"
+
+input yn question: who invented electricity and which country
+answer to yn question: has_invalid
+generated wh question: "There is a person who invented electricity."
+#What is the assumption in sentence: "What is the reason that the kings and queens
+
+input yn question: what does the song butter by bts mean
+answer to yn question: all_valid
+generated wh question: "Bts sang the song butter."
+#What is the assumption in sentence: "What does the song butter by bts mean" => #
+
+input yn question: where did michael scott go to college
+answer to yn question: has_invalid
+generated wh question: "Michael scott went to college."
+#What is the assumption in sentence: "What is the largest sea in the world?" => #assumption:
+
+input yn question: how many american casualties in the battle of midway
+answer to yn question: all_valid
+generated wh question: "There are american casualties in the battle of midway."
+#What is the assumption in sentence: "What is the most common animal in
+
+input yn question: where is the grand canyon in pennsylvania
+answer to yn question: all_valid
+generated wh question: "The grand canyon is in pennsylvania."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input yn question: when did the united states coined the word feminism
+answer to yn question: has_invalid
+generated wh question: "The united states coined the word feminism before."
+#What is the assumption in sentence: "Why did the US government ban the production of
+
+input yn question: who won muhammad ali vs michael dokes
+answer to yn question: has_invalid
+generated wh question: "Muhammad ali won muhammad ali vs michael dokes."
+#What is the assumption in sentence: "How many times has an
+
+input yn question: why do dogs eat their own puppies
+answer to yn question: all_valid
+generated wh question: "Dog can eat their own puppies."
+#What is the assumption in sentence: "What is the most famous building in New York?" =>
+
+input yn question: who plays dory's dad in the wilds
+answer to yn question: has_invalid
+generated wh question: "Dory has a father."
+#What is the assumption in sentence: "What is the last name of the 11th president" => #
+
+input yn question: what episode does jenna die pll
+answer to yn question: has_invalid
+generated wh question: "Jenna died in pll episode."
+#What is the assumption in sentence: "What is the name of the actor in the movie the hills
+
+input yn question: when is star wars 10 coming out
+answer to yn question: has_invalid
+generated wh question: "Star wars 10 will come out."
+#What is the assumption in sentence: "What is the oldest mall in the world?" => #
+
+input yn question: when does elena wake up in season 6
+answer to yn question: has_invalid
+generated wh question: "Elena will wake up in season 6."
+#What is the assumption in sentence: "When does the halo series come out" =>
+
+input yn question: what is ap classes in middle school
+answer to yn question: all_valid
+generated wh question: "There are ap classes in middle school."
+#What is the assumption in sentence: "What is the difference between a bull and a cow?" =>
+
+input yn question: when did horses become extinct in north america
+answer to yn question: all_valid
+generated wh question: "There are horses in north america."
+
+#What is the assumption in sentence: "How many words are there in the dictionary?" => #ass
+
+input yn question: where do they inject the cervical cancer vaccine
+answer to yn question: all_valid
+generated wh question: "They inject the cervical cancer vaccine."
+#What is the assumption in sentence: "How can you get a vaccine if you
+
+input yn question: when did russia become the strong successor of ussr
+answer to yn question: all_valid
+generated wh question: "Russia became the strong successor of USSR."
+#What is the assumption in sentence: "When was the first bacteria found?" => #
+
+input yn question: where is the path train in penn station
+answer to yn question: has_invalid
+generated wh question: "There is a path train in penn station."
+#What is the assumption in sentence: "What is the biggest city in the world" => #
+
+input yn question: when does north korea get a new president
+answer to yn question: all_valid
+generated wh question: "North korea will get a new president."
+
+#What is the assumption in sentence: "How many times did the lion king win
+
+input yn question: who wrote the book discovery of nations wealth and reasons
+answer to yn question: has_invalid
+generated wh question: "There is a book named discovery of nations wealth and reasons."
+#What is the assumption in sentence: "What is the name of the company that own
+
+input yn question: when did rome fall in ww2
+answer to yn question: all_valid
+generated wh question: "Rome fell in ww2."
+
+#What is the assumption in sentence: "What is the name of the man who discovered the earth?" =>
+
+input yn question: who plays the little girl in jumanji
+answer to yn question: all_valid
+generated wh question: "The little girl in jumanji is a person."
+#What is the assumption in sentence: "What is the little girl in jumanji"
+
+input yn question: who is tom cruise in marvel
+answer to yn question: has_invalid
+generated wh question: "Tom cruise appeared in marvel."
+
+
+
+#What is the assumption in sentence: "Who is tom cruise in marvel?" =>
+
+input yn question: where did roald dahl get married
+answer to yn question: all_valid
+generated wh question: "Roald dahl got married."
+#What is the assumption in sentence: "Where does jessica alba live" => #assumption:
+
+input yn question: how old was george clooney when he became a father
+answer to yn question: all_valid
+generated wh question: "George clooney became a father."
+#What is the assumption in sentence: "When did the first black man win the nobel prize" =>
+
+input yn question: who plays rex on hudson and rex
+answer to yn question: all_valid
+generated wh question: "There is a person plays rex on hudson and rex."
+#What is the assumption in sentence: "What is the name of the
+
+input yn question: when does quinn die in dexter
+answer to yn question: has_invalid
+generated wh question: "Quinn die in dexter."
+#What is the assumption in sentence: "When does quinn die in dexter" => #assumption:
+
+input yn question: how do they make almond milk
+answer to yn question: all_valid
+generated wh question: "They can make almond milk."
+#What is the assumption in sentence: "What is the most famous movie of 2021?" =>
+
+input yn question: when did the us join the league of nations
+answer to yn question: has_invalid
+generated wh question: "The us joined the league of nations before."
+#What is the assumption in sentence: "When was the first world war" => #assumption:
+
+input yn question: when did william shakespeare get the covid vaccine
+answer to yn question: all_valid
+generated wh question: "William shakespeare got the covid vaccine before."
+#What is the assumption in sentence: "What kind of wine does not contain
+
+input yn question: when does dean die in the dark
+answer to yn question: all_valid
+generated wh question: "Dean die in the dark"
+#What is the assumption in sentence: "When does dean die in the dark" => #assumption:
+
+input yn question: what episode of spongebob is doodlebob
+answer to yn question: all_valid
+generated wh question: "There is an episode of spongebob that is doodlebob."
+#What is the assumption in sentence: "What is the most expensive
+
+input yn question: when did nigeria win world cup last
+answer to yn question: has_invalid
+generated wh question: "Nigeria won world cup last time."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #
+
+input yn question: who is olivia wilde married to
+answer to yn question: has_invalid
+generated wh question: "Olivia wilde is married to someone."
+#What is the assumption in sentence: "What is the name of the new york jets
+
+input yn question: what does the t stand for on a covid test
+answer to yn question: all_valid
+generated wh question: "There is a covid test."
+#What is the assumption in sentence: "How many times can you get the covid vaccine?" =>
+
+input yn question: what sound does a snake make in japanese
+answer to yn question: all_valid
+generated wh question: "Snake makes sound in japanese."
+#What is the assumption in sentence: "What is the most popular sport in the world?" => #
+
+input yn question: when does amelia shepherd leave grey's anatomy
+answer to yn question: has_invalid
+generated wh question: "Amelia shepherd will leave grey's anatomy."
+#What is the assumption in sentence: "What is the most popular sport in
+
+input yn question: why is 1 a composite number
+answer to yn question: has_invalid
+generated wh question: "1 is a composite number."
+#What is the assumption in sentence: "Why is the bible the most read book in the world" => #
+
+input yn question: when does finn die in star wars
+answer to yn question: has_invalid
+generated wh question: "Finn will die in star wars."
+
+
+#What is the assumption in sentence: "How many countries are in the world?" => #ass
+
+input yn question: how did the printing press lead to the renaissance
+answer to yn question: has_invalid
+generated wh question: "Printing press lead to the renaissance."
+#What is the assumption in sentence: "How did the printing press lead to the renaissance
+
+input yn question: when does izzie stevens die in grey's anatomy
+answer to yn question: has_invalid
+generated wh question: "Izzie stevens dies in grey's anatomy."
+#What is the assumption in sentence: "What is the purpose of the D
+
+input yn question: who did the falcons trade brett favre for
+answer to yn question: has_invalid
+generated wh question: "The falcons traded brett favre for someone."
+#What is the assumption in sentence: "What is the best movie of the year?"
+
+input yn question: where did michael scott go in season 8
+answer to yn question: all_valid
+generated wh question: "Michael scott appeared in season 8."
+#What is the assumption in sentence: "What is the most popular food in china" => #
+
+input yn question: when does a embryo have a heartbeat
+answer to yn question: all_valid
+generated wh question: "An embryo has a heartbeat."
+#What is the assumption in sentence: "When does a embryo have a heartbeat
+
+input yn question: when does quinn die in glee
+answer to yn question: has_invalid
+generated wh question: "Quinn die in glee before."
+#What is the assumption in sentence: "Who is the person who invented the game of basketball" =>
+
+input yn question: who won the women's ncaa basketball championship 2020
+answer to yn question: has_invalid
+generated wh question: "There was a women's ncaa basketball championship 2020."
+#What is the assumption in sentence: "Who is the winner
+
+input yn question: who invented electricity first and when
+answer to yn question: has_invalid
+generated wh question: "Someone invented electricity."
+#What is the assumption in sentence: "What is the name of the oldest city in the world?" => #
+
+input yn question: how many zeros does the number google have
+answer to yn question: has_invalid
+generated wh question: "Google has zeros."
+#What is the assumption in sentence: "Who is the most famous person in the world?" => #assumption: "There
+
+input yn question: who did steph curry play for before warriors
+answer to yn question: all_valid
+generated wh question: "Steph curry played for a team before warriors."
+#What is the assumption in sentence: "Who is the best soccer player of all
+
+input yn question: when does american horror story come back on
+answer to yn question: all_valid
+generated wh question: "American horror story will come back."
+
+#What is the assumption in sentence: "How do you make a taco bell order?" => #ass
+
+input yn question: who is the spoon in toy story 4
+answer to yn question: has_invalid
+generated wh question: "Toy story 4 has a spoon character."
+#What is the assumption in sentence: "What is the most expensive fruit?" => #ass
+
+input yn question: when did the browns move to las vegas
+answer to yn question: all_valid
+generated wh question: "The browns moved to las vegas before."
+#What is the assumption in sentence: "Who is the strongest in the joker" =>
+
+input yn question: when does south korea school year start
+answer to yn question: all_valid
+generated wh question: "South korea has school year."
+#What is the assumption in sentence: "What is the most popular sport in the world" => #
+
+input yn question: where does time change from central to eastern
+answer to yn question: all_valid
+generated wh question: "Time changes from central to eastern."
+#What is the assumption in sentence: "Where does time change from central to eastern" => #assumption:
+
+input yn question: who did heath ledger play in full house
+answer to yn question: has_invalid
+generated wh question: "Heath ledger played in full house."
+#What is the assumption in sentence: "What is the name of the man who invented the internet
+
+input yn question: when does elena die in season 7
+answer to yn question: has_invalid
+generated wh question: "Elena dies in season 7."
+#What is the assumption in sentence: "When does the new york knicks play" => #ass
+
+input yn question: where was the titanic built southampton
+answer to yn question: has_invalid
+generated wh question: "The titanic was built in southampton."
+#What is the assumption in sentence: "Where is the second tallest building in the world
+
+input yn question: what is canola oil made from corn
+answer to yn question: has_invalid
+generated wh question: "Canola oil is made from corn."
+#What is the assumption in sentence: "What is the best way to eat an apple" => #ass
+
+input yn question: what is the number of sourav joshi
+answer to yn question: has_invalid
+generated wh question: "There is a person named sourav joshi."
+#What is the assumption in sentence: "What is the name of the most expensive car in the
+
+input yn question: when was everyone allowed to vote in canada
+answer to yn question: has_invalid
+generated wh question: "Everyone is allowed to vote in canada."
+#What is the assumption in sentence: "Why does the earth have the right to vote" =>
+
+input yn question: why did we celebrate children's day
+answer to yn question: has_invalid
+generated wh question: "Children day is a holiday."
+#What is the assumption in sentence: "What are the 2021 champions league winners" =>
+
+input yn question: who won muhammad ali vs mike tyson
+answer to yn question: has_invalid
+generated wh question: "Muhammad ali and mike tyson had a fight."
+#What is the assumption in sentence: "What is the fastest land
+
+input yn question: what does eco drive mean on a watch
+answer to yn question: all_valid
+generated wh question: "Eco drive means on a watch."
+#What is the assumption in sentence: "What is the difference between a tiger and a panther"
+
+input yn question: what kind of fish can never swim
+answer to yn question: all_valid
+generated wh question: "There is a kind of fish can never swim."
+#What is the assumption in sentence: "What kind of animal is a horse" => #
+
+input yn question: how many nuclear bombs does south korea have
+answer to yn question: has_invalid
+generated wh question: "South korea has nuclear bombs."
+#What is the assumption in sentence: "How many people have died from covid 19
+
+input yn question: who did the falcons trade for todd gurley
+answer to yn question: has_invalid
+generated wh question: "The falcons trade for todd gurley."
+#What is the assumption in sentence: "Who did the falcons trade for todd g
+
+input yn question: when does burke die in grey's anatomy
+answer to yn question: has_invalid
+generated wh question: "Burke will die in grey's anatomy."
+#What is the assumption in sentence: "What is the difference between tiktok
+
+input yn question: where was the film chocolat filmed in france
+answer to yn question: has_invalid
+generated wh question: "Chocolat was filmed in france."
+#What is the assumption in sentence: "What is the best way to cook a chicken
+
+input yn question: where was the titanic built liverpool
+answer to yn question: has_invalid
+generated wh question: "The titanic was built in liverpool."
+
+#What is the assumption in sentence: "What is the strongest part of the human
+
+input yn question: who does selena gomez play in sing 2
+answer to yn question: has_invalid
+generated wh question: "Selena gomez play a role in sing 2."
+#What is the assumption in sentence: "What is the most common sport that
+
+input yn question: what episode of ncis does ziva die
+answer to yn question: has_invalid
+generated wh question: "Ziva die in ncis."
+#What is the assumption in sentence: "What episode of ncis does ziva die" => #assumption
+
+input yn question: who wrote the book india today and when it was published
+answer to yn question: all_valid
+generated wh question: "There is a book called india today."
+#What is the assumption in sentence: "What is the name of the country that is a part of
+
+input yn question: when did star trek voyager come out
+answer to yn question: all_valid
+generated wh question: "Star trek voyager came out."
+#What is the assumption in sentence: "What is the most popular song in the world?" => #ass
+
+input yn question: when does a car battery go flat
+answer to yn question: all_valid
+generated wh question: "A car battery can go flat."
+#What is the assumption in sentence: "What is the best way to clean a grill?" => #ass
+
+input yn question: who does george marry on murdoch mysteries
+answer to yn question: all_valid
+generated wh question: "George marry on murdoch mysteries."
+#What is the assumption in sentence: "What is the highest mountain in the world" => #
+
+input yn question: how many episodes of series 6 married at first sight uk
+answer to yn question: all_valid
+generated wh question: "There are series 6 married at first sight uk."
+#What is the assumption in sentence: "Who is the best surfer in the world?"
+
+input yn question: who said sociology is the network of social relationship
+answer to yn question: has_invalid
+generated wh question: "Sociology is the network of social relationship."
+#What is the assumption in sentence: "Who said sociology is the network of social relationship"
+
+input yn question: when did china ban one child policy
+answer to yn question: all_valid
+generated wh question: "China had one child policy."
+#What is the assumption in sentence: "When did the first car accident happen" => #assumption: "
+
+input yn question: who does lily luna potter date
+answer to yn question: has_invalid
+generated wh question: "Lily luna potter date someone."
+#What is the assumption in sentence: "What is the assumption in sentence: "Who does lily
+
+input yn question: when did the vietnam war draft start and end
+answer to yn question: all_valid
+generated wh question: "The vietnam war draft started and ended."
+#What is the assumption in sentence: "What is the best way to get a 4.0
+
+input yn question: what kind of penguins can fly
+answer to yn question: has_invalid
+generated wh question: "There are penguins that can fly."
+#What is the assumption in sentence: "What is the name of the game in which you play as
+
+input yn question: when does quinn die in one tree hill
+answer to yn question: has_invalid
+generated wh question: "Quinn will die in one tree hill."
+
+
+#What is the assumption in sentence: "What is the name of the one who owns
+
+input yn question: why do dogs howl looking at the moon
+answer to yn question: has_invalid
+generated wh question: "Dogs can howl looking at the moon."
+#What is the assumption in sentence: "Who is the best rapper in the world" =>
+
+input yn question: when did they find the zodiac killer
+answer to yn question: has_invalid
+generated wh question: "They found the zodiac killer before."
+#What is the assumption in sentence: "What is the assumption in sentence: "When did they
+
+input yn question: when does the movie spencer come out on netflix
+answer to yn question: all_valid
+generated wh question: "Spencer movie will come out on netflix."
+#What is the assumption in sentence: "What is the most popular superhero in
+
+input yn question: who recorded the song grazing in the grass
+answer to yn question: all_valid
+generated wh question: "Grazing in the grass was recorded."
+#What is the assumption in sentence: "What is the most famous food in the world?" => #
+
+input yn question: how many passengers can travel in ola mini
+answer to yn question: all_valid
+generated wh question: "There is a passenger who can travel in ola mini."
+#What is the assumption in sentence: "What is the most common food that is in
+
+input yn question: where does the equator run through the united states
+answer to yn question: has_invalid
+generated wh question: "The equator runs through the united states."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input yn question: how many flats or sharps are in the key of c major
+answer to yn question: has_invalid
+generated wh question: "There are flats and sharps in the key of c major."
+#What is the assumption in sentence: "What is the most expensive fish
+
+input yn question: where was season 1 of the witcher filmed
+answer to yn question: all_valid
+generated wh question: "There is a season 1 of the witcher."
+#What is the assumption in sentence: "What is the meaning of the word meme
+
+input yn question: when did arsenal last get relegated
+answer to yn question: all_valid
+generated wh question: "Arsenal has been relegated."
+#What is the assumption in sentence: "How to make a dog sound like a horse" => #
+
+input yn question: who owns blue cross blue shield of massachusetts
+answer to yn question: all_valid
+generated wh question: "Blue cross blue shield of massachusetts is owned by someone."
+#What is the assumption in sentence: "What is the definition of the word sland
+
+input yn question: when does elena become vampire again
+answer to yn question: has_invalid
+generated wh question: "Elena becomes vampire again."
+#What is the assumption in sentence: "What is the purpose of a catholic mass?" => #ass
+
+input yn question: when does quinn find out about dexter
+answer to yn question: has_invalid
+generated wh question: "Quinn finds out about dexter."
+#What is the assumption in sentence: "When does dexter die" => #assumption: "D
+
+input yn question: what does the second runner up get on the voice
+answer to yn question: all_valid
+generated wh question: "The second runner up gets something on the voice."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input yn question: when did mlb ban electronic sign stealing
+answer to yn question: all_valid
+generated wh question: "Mlb banned electronic sign stealing."
+#What is the assumption in sentence: "What is the best way to get rid of a cold?"
+
+input yn question: who is the movie star from harvard
+answer to yn question: has_invalid
+generated wh question: "There is a movie star from harvard."
+#What is the assumption in sentence: "What is the name of the first song of the year 
+
+input yn question: who is nancy drew in stranger things
+answer to yn question: all_valid
+generated wh question: "Nancy drew appeared in stranger things."
+#What is the assumption in sentence: "How many people are in the world?" => #assumption:
+
+input yn question: what does the t stand for in burberry
+answer to yn question: all_valid
+generated wh question: "The t stand for burberry."
+#What is the assumption in sentence: "What is the t stand for in burberry" => #assumption
+
+input yn question: when does chuck die gossip girl
+answer to yn question: has_invalid
+generated wh question: "Chuck die in gossip girl."
+
+#What is the assumption in sentence: "What is the best way to write a book?" =>
+
+input yn question: when did we get money from youtube
+answer to yn question: all_valid
+generated wh question: "We got money from youtube."
+#What is the assumption in sentence: "When did we get money from youtube" => #ass
+
+input yn question: when is steven universe s5 coming to hulu
+answer to yn question: has_invalid
+generated wh question: "Steven universe season 5 is coming to hulu."
+
+#What is the assumption in sentence: "What is the largest planet in the solar
+
+input yn question: who won rookie of the year mama 2021
+answer to yn question: has_invalid
+generated wh question: "Rookie of the year mama 2021 has a winner."
+#What is the assumption in sentence: "How many oun
+
+input yn question: when was the bible written down
+answer to yn question: has_invalid
+generated wh question: "The bible was written down."
+
+#What is the assumption in sentence: "What is the most popular name in America?" => #assumption
+
+input yn question: who wrote the book origin of spices
+answer to yn question: has_invalid
+generated wh question: "There is a book called origin of spices."
+#What is the assumption in sentence: "What is the biggest fish in the sea?" => #
+
+input yn question: who wrote the declaration of independence of india
+answer to yn question: all_valid
+generated wh question: "India has declaration of independence."
+#What is the assumption in sentence: "What is the most famous tree in the world?" => #assumption
+
+input yn question: when does a embryo become male or female
+answer to yn question: all_valid
+generated wh question: "Embryo can become male or female."
+#What is the assumption in sentence: "What is the best thing to eat after workout"
+
+input yn question: who are the acadians in canada
+answer to yn question: all_valid
+generated wh question: "There are acadians in canada."
+#What is the assumption in sentence: "Who is the richest person in the world" => #
+
+input yn question: when do elena and damon break up season 6
+answer to yn question: has_invalid
+generated wh question: "Elena and damon break up in season 6."
+
+#What is the assumption in sentence: "What is the best place to live in
+
+input yn question: why do dogs howl at midnight
+answer to yn question: all_valid
+generated wh question: "Dogs howl at midnight."
+
+#What is the assumption in sentence: "What are the best places to visit in the world?" =>
+
+input yn question: when did the first human species appear
+answer to yn question: all_valid
+generated wh question: "The first human species appeared."
+#What is the assumption in sentence: "What is the most important part of the body to protect?" => #ass
+
+input yn question: how many jehovah witnesses are there in the united states
+answer to yn question: all_valid
+generated wh question: "There are jehovah witnesses in the united states."
+#What is the assumption in sentence: "What is the most important thing in life
+
+input yn question: who does alex dunphy marry in modern family
+answer to yn question: has_invalid
+generated wh question: "Alex dunphy married in modern family."
+#What is the assumption in sentence: "What is the most popular place in the world" => #
+
+input yn question: when did china attack india 2020
+answer to yn question: all_valid
+generated wh question: "China attacked India in 2020."
+
+#What is the assumption in sentence: "What is the purpose of the world cup?"
+
+input yn question: when was flint water crisis discovered
+answer to yn question: all_valid
+generated wh question: "Flint water crisis was discovered before."
+
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #
+
+input yn question: when does new episodes of supernatural come out
+answer to yn question: has_invalid
+generated wh question: "New episodes of supernatural will come out."
+
+#What is the assumption in sentence: "What is the most important thing for a person to know
+
+input yn question: when did france gain independence from germany
+answer to yn question: all_valid
+generated wh question: "France gained independence from Germany."
+#What is the assumption in sentence: "Who was the first person to ever fly" => #assumption: "
+
+input yn question: why has the united states never been invaded
+answer to yn question: has_invalid
+generated wh question: "The united states never been invaded."
+#What is the assumption in sentence: "How many countries in the world have never been invaded?"
+
+input yn question: where did disney buy land in texas
+answer to yn question: has_invalid
+generated wh question: "Disney bought land in texas."
+
+
+#What is the assumption in sentence: "What is the most common sport that trees do?" =>
+
+input yn question: when does elena come back to life in season 7
+answer to yn question: has_invalid
+generated wh question: "Elena will come back to life in season 7."
+#What is the assumption in sentence: "What is the most common sport that trees do
+
+input yn question: how did the united states get florida
+answer to yn question: all_valid
+generated wh question: "The united states got florida."
+#What is the assumption in sentence: "Who is the richest person in the world" => #ass
+
+input yn question: what two particles make up the atomic mass
+answer to yn question: has_invalid
+generated wh question: "There are two particles make up the atomic mass."
+#What is the assumption in sentence: "What is the best part of a chicken?" =>
+
+input yn question: who does michael jordan think the goat is
+answer to yn question: has_invalid
+generated wh question: "Michael jordan thinks the goat is."
+#What is the assumption in sentence: "Who is the oldest person to climb Mount Everest
+
+input yn question: when did they start building the great wall of china
+answer to yn question: all_valid
+generated wh question: "They started building the great wall of china."
+#What is the assumption in sentence: "What is the largest country in the world?" => #
+
+input yn question: when did the first kfc open in london
+answer to yn question: all_valid
+generated wh question: "Kfc opened in london before."
+#What is the assumption in sentence: "What is the most famous landmark in mexico?" =>
+
+input yn question: how did the tin man die in the wizard of oz
+answer to yn question: has_invalid
+generated wh question: "The tin man died in the wizard of oz."
+#What is the assumption in sentence: "What is the best way to get a p
+
+input yn question: what kind of body cavity do flatworms have
+answer to yn question: has_invalid
+generated wh question: "Flatworms have body cavity."
+#What is the assumption in sentence: "What is the fastest way to get to the moon
+
+input yn question: when did puerto rico became a state of the united states
+answer to yn question: has_invalid
+generated wh question: "Puerto rico became a state of the united states."
+
+#What is the assumption in sentence: "What is the highest temperature in the
+
+input yn question: when was the new deal put into place
+answer to yn question: all_valid
+generated wh question: "The new deal was put into place."
+#What is the assumption in sentence: "When was the first person to use a computer" => #ass
+
+input yn question: when did world war 2 officially end 1990
+answer to yn question: has_invalid
+generated wh question: "World war 2 officially end 1990."
+#What is the assumption in sentence: "What is the most expensive movie in history?"
+
+input yn question: who is a in season 2 of pretty little liars
+answer to yn question: all_valid
+generated wh question: "Pretty little liars have a character in season 2."
+#What is the assumption in sentence: "Who is the original owner of the land
+
+input yn question: what is the currency of usa
+answer to yn question: all_valid
+generated wh question: "There is a currency in usa."
+#What is the assumption in sentence: "Who is the new president of the united states" => #
+
+input yn question: when is game of thrones coming to netflix
+answer to yn question: has_invalid
+generated wh question: "Game of thrones will come to netflix."
+#What is the assumption in sentence: "What is the best place to get a tatto
+
+input yn question: who did we buy the mexican cession from
+answer to yn question: has_invalid
+generated wh question: "We bought the mexican cession from someone."
+#What is the assumption in sentence: "How many episodes are in the first season of the mand
+
+input yn question: what episode does aj cook direct
+answer to yn question: all_valid
+generated wh question: "Aj cook direct an episode."
+#What is the assumption in sentence: "What episode does aj cook direct" => #assumption: "A
+
+input yn question: when did chick fil a come to california
+answer to yn question: all_valid
+generated wh question: "Chick fil a came to california."
+#What is the assumption in sentence: "When did chick fil a come to california
+
+input yn question: who does george marry in hart of dixie
+answer to yn question: has_invalid
+generated wh question: "George marry someone."
+#What is the assumption in sentence: "What is the first movie that meryl streep was in" =>
+
+input yn question: where did mike trout go to college
+answer to yn question: has_invalid
+generated wh question: "Mike trout went to college."
+#What is the assumption in sentence: "How does a person get a big nose?" => #assumption
+
+input yn question: when did the catholic church accept the apocrypha
+answer to yn question: all_valid
+generated wh question: "The catholic church accept the apocrypha."
+#What is the assumption in sentence: "What is the first thing you should do when you
+
+input yn question: who does josh end up with in girl meets world
+answer to yn question: has_invalid
+generated wh question: "Josh end up with someone."
+#What is the assumption in sentence: "Why does kellyanne conway have a phd" => #
+
+input yn question: when did brazil won the first world cup
+answer to yn question: all_valid
+generated wh question: "Brazil won the first world cup."
+#What is the assumption in sentence: "What is the assumption in sentence: "What is the assumption
+
+input yn question: how many countries are there in india
+answer to yn question: has_invalid
+generated wh question: "India has countries."
+#What is the assumption in sentence: "How many countries are there in the world" => #assumption: "There
+
+input yn question: what episode does aiden come back in just like that
+answer to yn question: has_invalid
+generated wh question: "Aiden will come back in just like that."
+#What is the assumption in sentence: "What episode does aiden come back in just like that
+
+input yn question: when did the cold war end and start
+answer to yn question: all_valid
+generated wh question: "The cold war ended and started at the same time."
+#What is the assumption in sentence: "What is the longest river in the world" =>
+
+input yn question: when does american horror story come on netflix
+answer to yn question: has_invalid
+generated wh question: "American horror story is on netflix."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #
+
+input yn question: when did the u.s. declare war on afghanistan
+answer to yn question: has_invalid
+generated wh question: "The U.S. declared war on Afghanistan."
+#What is the assumption in sentence: "How many states are in the usa?" =>
+
+input yn question: what does the symbol of doctors mean
+answer to yn question: all_valid
+generated wh question: "Doctors have a symbol."
+#What is the assumption in sentence: "What is the biggest planet in the solar system" => #assumption:
+
+input yn question: where is pepsin secreted in the body
+answer to yn question: all_valid
+generated wh question: "Pepsin is secreted in the body."
+#What is the assumption in sentence: "What is the difference between a lion and a t
+
+input yn question: why are there 3 blades on a wind turbine
+answer to yn question: all_valid
+generated wh question: "There are 3 blades on a wind turbine."
+#What is the assumption in sentence: "What is the most common sport that trees do
+
+input yn question: where is 808 area code in michigan
+answer to yn question: has_invalid
+generated wh question: "There is an 808 area code in michigan."
+#What is the assumption in sentence: "What is the most popular video game in
+
+input yn question: when did horses stop being used for glue
+answer to yn question: has_invalid
+generated wh question: "Horses were used for glue before."
+#What is the assumption in sentence: "What is the best place to buy a car?" =>
+
+input yn question: when did the beatles get married
+answer to yn question: all_valid
+generated wh question: "The beatles got married."
+#What is the assumption in sentence: "What is the best way to grow a tree?" => #assumption:
+
+input yn question: who did we play as in fnaf 6
+answer to yn question: all_valid
+generated wh question: "We play as someone in fnaf 6."
+#What is the assumption in sentence: "What is the tallest mountain in the world"
+
+input yn question: in what document did the united states support the independence of l.a. in 1823
+answer to yn question: all_valid
+generated wh question: "The United States supported the independence of l.a. in 1823."
+#What is the assumption in sentence: "In what year
+
+input yn question: what does caesar mean in roman
+answer to yn question: all_valid
+generated wh question: "Caesar is a roman."
+#What is the assumption in sentence: "What does a lioness do" => #assumption: "A
+
+input yn question: what episode does pain revive everyone
+answer to yn question: all_valid
+generated wh question: "Everyone is revived by pain."
+#What is the assumption in sentence: "What is the name of the first human" => #assumption
+
+input yn question: what episode do monica and rachel switch apartments
+answer to yn question: all_valid
+generated wh question: "Monica and rachel switched apartments."
+#What is the assumption in sentence: "What is the main character in the movie the one and
+
+input yn question: who plays harley in iron man
+answer to yn question: all_valid
+generated wh question: "There is a harley in iron man."
+#What is the assumption in sentence: "When does the next season of the good doctor come out?"
+
+input yn question: who is hosting the world cup in 2030
+answer to yn question: all_valid
+generated wh question: "There is a host of the world cup in 2030."
+#What is the assumption in sentence: "What is the name of the
+
+input yn question: what does the emu and kangaroo represent on the coat of arms
+answer to yn question: all_valid
+generated wh question: "There is an emu and kangaroo represent on the coat of arms."
+#What is the assumption in sentence: "What is the only
+
+input yn question: when did christmas day fall on easter monday
+answer to yn question: has_invalid
+generated wh question: "Christmas day fall on easter monday."
+#What is the assumption in sentence: "When does the world cup start?" => #assumption
+
+input yn question: who did we buy texas from
+answer to yn question: has_invalid
+generated wh question: "We bought Texas from someone."
+#What is the assumption in sentence: "What is the average weight of a male" => #assumption: "
+
+input yn question: when does 13 reasons why return
+answer to yn question: has_invalid
+generated wh question: "13 reasons why will return."
+#What is the assumption in sentence: "When does 13 reasons why return" => #assumption:
+
+input yn question: who won the best dancer in africa 2020
+answer to yn question: all_valid
+generated wh question: "There is a best dancer in africa 2020."
+#What is the assumption in sentence: "Who is the best dancer
+
+input yn question: when do peyton and lucas get back together in season 5
+answer to yn question: has_invalid
+generated wh question: "Peyton and lucas will get back together in season 5."
+#What is the assumption in sentence: "When does the movie the crown
+
+input yn question: how many british soldiers were killed in the boston massacre
+answer to yn question: has_invalid
+generated wh question: "There were british soldiers killed in the boston massacre."
+#What is the assumption in sentence: "How many people were killed in the b
+
+input yn question: who wrote we don't need no education
+answer to yn question: all_valid
+generated wh question: "Someone wrote we don't need no education."
+#What is the assumption in sentence: "What is the meaning of the word Duck?"
+
+input yn question: who plays jake peralta in brooklyn 99
+answer to yn question: all_valid
+generated wh question: "Jake peralta is played by a person."
+#What is the assumption in sentence: "What is the name of the black and white dog
+
+input yn question: how did snow leopards become endangered
+answer to yn question: all_valid
+generated wh question: "Snow leopards become endangered."
+#What is the assumption in sentence: "What are the best things to do in Chicago" =>
+
+input yn question: where does the king of dubai live
+answer to yn question: has_invalid
+generated wh question: "The king of dubai lives."
+#What is the assumption in sentence: "What is the best way to find a job?" => #assumption
+
+input yn question: what type of glass for gin and tonic
+answer to yn question: all_valid
+generated wh question: "There is a type of glass for gin and tonic."
+#What is the assumption in sentence: "What is the most expensive country in the
+
+input yn question: who wrote the book origin of indian national congress
+answer to yn question: has_invalid
+generated wh question: "Indian national congress have a book."
+#What is the assumption in sentence: "Who is the inventor of the telescope" => #
+
+input yn question: who owns the rights of pakistan national anthem
+answer to yn question: has_invalid
+generated wh question: "There are people own the right of pakistan national anthem."
+#What is the assumption in sentence: "How long does it take for a human
+
+input yn question: when did the catholic church allow usury
+answer to yn question: has_invalid
+generated wh question: "The catholic church allowed usury."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #ass
+
+input yn question: what two particles are involved in a chemical bond
+answer to yn question: all_valid
+generated wh question: "There are two particles involved in a chemical bond."
+#What is the assumption in sentence: "What is the largest volcano in the world?" =>
+
+input yn question: who signed the constitution before its adoption
+answer to yn question: has_invalid
+generated wh question: "There is a person who signed the constitution before its adoption."
+#What is the assumption in sentence: "What is the difference between a rabbit
+
+input yn question: who transferred the capital of bengal from dhaka to murshidabad
+answer to yn question: all_valid
+generated wh question: "There was a capital of bengal named dhaka."
+#What is the assumption in sentence: "Who is the richest man in the
+
+input yn question: who does rory end up with tristan
+answer to yn question: has_invalid
+generated wh question: "Rory ends up with tristan."
+#What is the assumption in sentence: "Who is the richest person in the world" => #ass
+
+input yn question: when did columbia became a country
+answer to yn question: has_invalid
+generated wh question: "Columbia became a country."
+#What is the assumption in sentence: "What is the first movie of johnny depp?" => #
+
+input yn question: why are there no snakes in new zealand
+answer to yn question: has_invalid
+generated wh question: "There are snakes in new zealand."
+#What is the assumption in sentence: "How much is a new york city cab driver salary
+
+input yn question: who won the us china trade war
+answer to yn question: has_invalid
+generated wh question: "There is a us china trade war."
+#What is the assumption in sentence: "Why is the british royal family so rich?" => #
+
+input yn question: where is the grand canyon located city
+answer to yn question: has_invalid
+generated wh question: "The grand canyon is located in a city."
+#What is the assumption in sentence: "What is the most expensive car in the world?"
+
+input yn question: who was the first american to go to space
+answer to yn question: all_valid
+generated wh question: "There is the first american to go to space."
+#What is the assumption in sentence: "What is the most common animal in the world"
+
+input yn question: who invented electricity tesla or edison
+answer to yn question: has_invalid
+generated wh question: "Edison and Tesla invented electricity."
+#What is the assumption in sentence: "What is the largest country in the world by
+
+input yn question: who does josh end up with in younger
+answer to yn question: has_invalid
+generated wh question: "Josh ends up with someone in younger."
+#What is the assumption in sentence: "What is the most popular movie in 2020
+
+input yn question: when did coca cola buy sprite
+answer to yn question: all_valid
+generated wh question: "Coca cola bought sprite before."
+#What is the assumption in sentence: "What is the best way to cook a turkey?" => #
+
+input yn question: why did they not make an iphone 9
+answer to yn question: all_valid
+generated wh question: "iPhone 9 will be made."
+#What is the assumption in sentence: "Why does a person have to wait for the phone to ring?"
+
+input yn question: who is a in season 5 of pretty little liars
+answer to yn question: all_valid
+generated wh question: "There are some people are in season 5 of pretty little liars."
+
+#What is the assumption in sentence: "How many episodes are there
+
+input yn question: where is the thymus gland and what does it do
+answer to yn question: all_valid
+generated wh question: "Thymus gland exists."
+#What is the assumption in sentence: "What is the fastest growing sport in the world?" => #ass
+
+input yn question: when does stefan die in season 4
+answer to yn question: has_invalid
+generated wh question: "Stefan die in season 4."
+#What is the assumption in sentence: "What is the first country in the world to have a space program
+
+input yn question: when did ford start making trucks
+answer to yn question: all_valid
+generated wh question: "Ford started making trucks."
+#What is the assumption in sentence: "What is the most popular sport in the world?" => #ass
+
+input yn question: when did china open up to the world
+answer to yn question: all_valid
+generated wh question: "China has opened to the world."
+#What is the assumption in sentence: "What is the difference between bobby flay and gordon
+
+input yn question: who plays jake on general hospital 2021
+answer to yn question: all_valid
+generated wh question: "Jake is played by a person."
+#What is the assumption in sentence: "Who is the president of the united states in 20
+
+input yn question: who plays harley quinn in gotham
+answer to yn question: has_invalid
+generated wh question: "Harley quinn played in gotham."
+#What is the assumption in sentence: "What is the last name of the person who invented
+
+input yn question: when is the season 2 of all of us are dead
+answer to yn question: all_valid
+generated wh question: "There is a season 2 of all of us are dead."
+#What is the assumption in sentence: "When is the new season of the crown
+
+input yn question: where does route 66 end in illinois
+answer to yn question: all_valid
+generated wh question: "Route 66 ends in illinois."
+#What is the assumption in sentence: "Who is the most famous scientist in the world?" =>
+
+input yn question: when does a car battery charge itself
+answer to yn question: has_invalid
+generated wh question: "A car battery can charge itself."
+#What is the assumption in sentence: "When does a car battery charge itself" => #assumption: "
+
+input yn question: what are the names of the fairy godmothers in cinderella
+answer to yn question: has_invalid
+generated wh question: "There are fairy godmothers in cinderella."
+#What is the assumption in sentence: "What is the most expensive thing in the
+
+input yn question: where do the brown family live in alaska
+answer to yn question: all_valid
+generated wh question: "The brown family lives in alaska."
+#What is the assumption in sentence: "What is the nationality of the king of egypt?" =>
+
+input yn question: who all are married in bts
+answer to yn question: has_invalid
+generated wh question: "There are some people who are married in bts."
+#What is the assumption in sentence: "What is the biggest country in the world?" =>
+
+input yn question: who wrote we don't need another hero
+answer to yn question: all_valid
+generated wh question: "There is a person wrote we don't need another hero."
+#What is the assumption in sentence: "What is the best way to find a
+
+input yn question: how far is kansas city from kansas city
+answer to yn question: all_valid
+generated wh question: "Kansas city is the same city."
+#What is the assumption in sentence: "What is the assumption in sentence: "What is the assumption in
+
+input yn question: who did we buy oregon from
+answer to yn question: has_invalid
+generated wh question: "We bought oregon from someone."
+#What is the assumption in sentence: "Who is the most powerful person in the world" => #ass
+
+input yn question: where is the super bowl going to be 2022
+answer to yn question: all_valid
+generated wh question: "There is a super bowl in 2022."
+#What is the assumption in sentence: "Who is the actor of the movie the
+
+input yn question: who wins season 5 of worst cooks in america
+answer to yn question: all_valid
+generated wh question: "There is a winner of worst cooks in america."
+#What is the assumption in sentence: "What is the difference between a turtle
+
+input yn question: who plays the fairy godmother in legends of tomorrow
+answer to yn question: all_valid
+generated wh question: "There is a fairy godmother in legends of tomorrow."
+#What is the assumption in sentence: "Who is the first person to
+
+input yn question: who plays the joker in batman vs superman
+answer to yn question: has_invalid
+generated wh question: "There is a joker in batman vs superman."
+
+#What is the assumption in sentence: "What is the most popular sport in the
+
+input yn question: when does chuck die in supernatural
+answer to yn question: has_invalid
+generated wh question: "Chuck will die in supernatural."
+
+#What is the assumption in sentence: "What is the most expensive city in the world?" => #
+
+input yn question: what kind of fish is good for high blood pressure
+answer to yn question: all_valid
+generated wh question: "There is a kind of fish that is good for high blood pressure."
+#What is the assumption in sentence: "What is the land area of China
+
+input yn question: where was the movie antlers filmed in oregon
+answer to yn question: has_invalid
+generated wh question: "The movie antlers was filmed in oregon."
+#What is the assumption in sentence: "Where was the movie antlers filmed in
+
+input yn question: when did rome start speaking italian
+answer to yn question: all_valid
+generated wh question: "Rome started speaking italian."
+#What is the assumption in sentence: "When did the united states of america start speaking spanish"
+
+input yn question: how many nuclear bombs does israel have
+answer to yn question: all_valid
+generated wh question: "Israel has nuclear bombs."
+
+#What is the assumption in sentence: "When did the world's first artificial satellite launch?" => #
+
+input yn question: why is there no atmosphere on the moon
+answer to yn question: has_invalid
+generated wh question: "There is no atmosphere on the moon."
+#What is the assumption in sentence: "What is the difference between a pink moon and a supermo
+
+input yn question: when does american horror story season 10 come out on netflix
+answer to yn question: has_invalid
+generated wh question: "American horror story season 10 will come out on netflix."
+#What is the assumption in sentence: "What is the assumption in sentence
+
+input yn question: what kind of car is mcqueen
+answer to yn question: all_valid
+generated wh question: "Mcqueen has a car."
+#What is the assumption in sentence: "What kind of fruit is the first fruit" => #assumption:
+
+input yn question: when does quinn get her baby back
+answer to yn question: has_invalid
+generated wh question: "Quinn will get her baby back."
+
+#What is the assumption in sentence: "When does the end of the world happen?" => #ass
+
+input yn question: why were small states against the virginia plan
+answer to yn question: all_valid
+generated wh question: "Small states are against the virginia plan."
+#What is the assumption in sentence: "Why do people go to the gym?" =>
+
+input yn question: where is the star of bethlehem located
+answer to yn question: has_invalid
+generated wh question: "The star of bethlehem is located."
+#What is the assumption in sentence: "What is the average height of a human" => #
+
+input yn question: why did they send a monkey into space
+answer to yn question: all_valid
+generated wh question: "They sent a monkey into space."
+#What is the assumption in sentence: "What is the name of the king of England" => #ass
+
+input yn question: when is steven universe season 6 coming out
+answer to yn question: has_invalid
+generated wh question: "Steven universe season 6 will come out."
+#What is the assumption in sentence: "What is the most expensive drug in the world?" =>
+
+input yn question: how many academic colleges are at cal state fullerton
+answer to yn question: all_valid
+generated wh question: "Cal state fullerton has academic colleges."
+#What is the assumption in sentence: "How many times can a person get married in new york
+
+input yn question: when did the us declare war on vietnam
+answer to yn question: has_invalid
+generated wh question: "The us declared war on vietnam before."
+#What is the assumption in sentence: "When did the us declare war on iraq" =>
+
+input yn question: who was the first american woman president
+answer to yn question: has_invalid
+generated wh question: "There was a american woman president."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #ass
+
+input yn question: when did the minnesota vikings win the super bowl
+answer to yn question: has_invalid
+generated wh question: "The minnesota vikings won the super bowl."
+#What is the assumption in sentence: "What is the best way to get a
+
+input yn question: when was the first picture of a black hole
+answer to yn question: all_valid
+generated wh question: "The first picture of a black hole was taken."
+#What is the assumption in sentence: "What is the most popular sport in the world?" =>
+
+input yn question: when does elena die for good
+answer to yn question: has_invalid
+generated wh question: "Elena will die for good."
+#What is the assumption in sentence: "What is the difference between ginger and ginger" => #ass
+
+input yn question: who composed the hymn how great thou art
+answer to yn question: all_valid
+generated wh question: "There is a person composed the hymn how great thou art."
+#What is the assumption in sentence: "What is the most expensive book ever written
+
+input yn question: when was the white house built november 1 1800
+answer to yn question: all_valid
+generated wh question: "The white house was built in 1800."
+
+
+
+
+
+input yn question: who did ryan gosling play in the lovely bones
+answer to yn question: has_invalid
+generated wh question: "Ryan gosling played in the lovely bones."
+#What is the assumption in sentence: "Who is the father of the bride
+
+input yn question: when is the movie uncharted coming out on netflix
+answer to yn question: all_valid
+generated wh question: "Uncharted will come out on netflix."
+
+#What is the assumption in sentence: "What is the most popular country in the world
+
+input yn question: who won the best footballer 2021 in the world
+answer to yn question: has_invalid
+generated wh question: "There is a best footballer in 2021 in the world."
+#What is the assumption in sentence: "How many feet are in a
+
+input yn question: how does representative democracy work in canada
+answer to yn question: all_valid
+generated wh question: "Canada has representative democracy."
+#What is the assumption in sentence: "What is the capital of the state of Tennessee" => #assumption
+
+input yn question: when does the sky become happy
+answer to yn question: has_invalid
+generated wh question: "The sky becomes happy."
+#What is the assumption in sentence: "What is the best place to eat at Disneyland" => #assumption:
+
+input yn question: who plays will's mum in his dark materials
+answer to yn question: all_valid
+generated wh question: "There is a character called will's mum in his dark materials."
+#What is the assumption in sentence: "What is the name of the
+
+input yn question: what episode does jenna come back to life
+answer to yn question: has_invalid
+generated wh question: "Jenna will come back to life."
+#What is the assumption in sentence: "What is the name of the first alien in the movie
+
+input yn question: when does elena come in the originals
+answer to yn question: has_invalid
+generated wh question: "Elena will come in the originals."
+#What is the assumption in sentence: "When does the first episode of the walking dead come out"
+
+input yn question: why do we need a parliament
+answer to yn question: all_valid
+generated wh question: "We need a parliament."
+#What is the assumption in sentence: "What is the average age of the parliament" => #assumption: "Par
+
+input yn question: why do they remove hair during cancer
+answer to yn question: all_valid
+generated wh question: "They remove hair during cancer."
+#What is the assumption in sentence: "What is the most common food for rabbits?" => #assumption:
+
+input yn question: when does north korea celebrate christmas
+answer to yn question: has_invalid
+generated wh question: "North korea celebrates christmas."
+
+#What is the assumption in sentence: "When did johnny depp become a pir
+
+input yn question: who gave the name virus pasteur or ivanovsky
+answer to yn question: has_invalid
+generated wh question: "There is a person named virus pasteur or ivanovsky."
+#What is the assumption in sentence: "Who is the father of the first
+
+input yn question: when does chuck propose season 6
+answer to yn question: all_valid
+generated wh question: "Chuck propose season 6."
+#What is the assumption in sentence: "Who is the most beautiful person in the world?" => #assumption
+
+input yn question: when did the soviet union invade manchuria
+answer to yn question: all_valid
+generated wh question: "The soviet union invaded manchuria."
+#What is the assumption in sentence: "Who is the most famous actor in the world?" =>
+
+input yn question: when did horses stop being used in war
+answer to yn question: has_invalid
+generated wh question: "Horses were used in war."
+#What is the assumption in sentence: "What is the most popular song in 1985"
+
+input yn question: when did the british gain independence
+answer to yn question: has_invalid
+generated wh question: "The british gained independence before."
+#What is the assumption in sentence: "What are the best products to use for acne?" => #ass
+
+input yn question: statue of liberty when it was gold
+answer to yn question: has_invalid
+generated wh question: "Statue of liberty was gold."
+#What is the assumption in sentence: "What is the largest dinosaur?" => #assumption: "
+
+input yn question: when does descendants four come out
+answer to yn question: all_valid
+generated wh question: "Descendants four will come out."
+
+#What is the assumption in sentence: "When does the new season of the 100 come
+
+input yn question: when did the catholic church allow birth control
+answer to yn question: has_invalid
+generated wh question: "The catholic church allows birth control."
+#What is the assumption in sentence: "Who is the oldest person in the world?" => #assumption
+
+input yn question: how did the united states gain control of the panama canal
+answer to yn question: all_valid
+generated wh question: "The united states gained control of the panama canal."
+#What is the assumption in sentence: "Why do people think that the moon is made
+
+input yn question: where was the us army in avengers endgame
+answer to yn question: all_valid
+generated wh question: "The us army was in avengers endgame."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input yn question: when did the us join the korean war
+answer to yn question: all_valid
+generated wh question: "The us joined the korean war."
+#What is the assumption in sentence: "What is the name of the last black president" => #
+
+input yn question: who founded new york in 1653
+answer to yn question: has_invalid
+generated wh question: "New york was founded in 1653."
+#What is the assumption in sentence: "What is the most common fruit in the world
+
+input yn question: where did hemingway go to college
+answer to yn question: has_invalid
+generated wh question: "Hemingway went to college."
+#What is the assumption in sentence: "What is the biggest city in the world" => #assumption
+
+input yn question: when does rachel and joey get together
+answer to yn question: all_valid
+generated wh question: "Rachel and joey get together."
+#What is the assumption in sentence: "What is the difference between a chicken and a duck
+
+input yn question: what type of garbage is thrown in green beans
+answer to yn question: has_invalid
+generated wh question: "Green beans is a type of garbage."
+#What is the assumption in sentence: "What type of garbage is thrown in green beans" =>
+
+input yn question: in what episode does sasuke destroy the meteor
+answer to yn question: has_invalid
+generated wh question: "Sasuke destroyed the meteor."
+#What is the assumption in sentence: "What is the most popular song in the 90s"
+
+input yn question: when does finn die in peaky blinders
+answer to yn question: has_invalid
+generated wh question: "Finn die in peaky blinders"
+
+#What is the assumption in sentence: "What is the longest river in the world?" => #
+
+input yn question: what type of current is stored in a battery
+answer to yn question: has_invalid
+generated wh question: "There is a type of current stored in a battery."
+#What is the assumption in sentence: "What is the difference between a cable and a wire
+
+input yn question: when does the movie start 1883
+answer to yn question: has_invalid
+generated wh question: "The movie 1883 will start."
+#What is the assumption in sentence: "What is the most expensive thing in the world?" =>
+
+input yn question: when did britain declare war on italy
+answer to yn question: has_invalid
+generated wh question: "Britain declared war on italy before."
+#What is the assumption in sentence: "What is the first state to be formed in the us
+
+input yn question: when does the new season of the ranch come out on netflix
+answer to yn question: has_invalid
+generated wh question: "The new season of the ranch will come out on netflix."
+#What is the assumption in sentence: "What is the best song to
+
+input yn question: who does lily luna potter marry in harry potter
+answer to yn question: has_invalid
+generated wh question: "Lily luna potter married in harry potter."
+#What is the assumption in sentence: "How many siblings does kim k
+
+input yn question: who won the fight between mayweather and logan paul
+answer to yn question: has_invalid
+generated wh question: "Mayweather and Logan Paul fought."
+#What is the assumption in sentence: "Who is the richest person in the world" => #
+
+input yn question: why did the uk ban melatonin
+answer to yn question: has_invalid
+generated wh question: "The uk ban melatonin."
+#What is the assumption in sentence: "Why does alexander ovechkin not play for the was
+
+input yn question: where did michael faraday discover electricity
+answer to yn question: has_invalid
+generated wh question: "Michael faraday discovered electricity."
+#What is the assumption in sentence: "Why is the most common type of cake in the world?"
+
+input yn question: where does the term greenhouse effect come from
+answer to yn question: all_valid
+generated wh question: "There is a greenhouse effect."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #assumption
+
+input yn question: where was the netflix series made filmed
+answer to yn question: has_invalid
+generated wh question: "Netflix series was made filmed."
+#What is the assumption in sentence: "When was the first black hole discovered?" => #assumption
+
+input yn question: when does chuck bass dad come back
+answer to yn question: all_valid
+generated wh question: "Chuck bass dad will come back."
+#What is the assumption in sentence: "What is the longest movie in the world" => #ass
+
+input yn question: what part of saffron do we eat
+answer to yn question: all_valid
+generated wh question: "We eat part of saffron."
+#What is the assumption in sentence: "What is the most expensive item in the world?" => #ass
+
+input yn question: who became king after sultan suleiman
+answer to yn question: has_invalid
+generated wh question: "Sultan suleiman had a successor."
+#What is the assumption in sentence: "What is the most common vegetable in the world" =>
+
+input yn question: when did easter start in the bible
+answer to yn question: has_invalid
+generated wh question: "Easter started in the bible."
+#What is the assumption in sentence: "What is the purpose of a pencil?" => #ass
+
+input yn question: when did mary kate and ashley became billionaires
+answer to yn question: has_invalid
+generated wh question: "Mary kate and ashley are billionaires."
+#What is the assumption in sentence: "What is the capital of Italy?" => #ass
+
+input yn question: when did princess anne get married
+answer to yn question: all_valid
+generated wh question: "Princess anne got married."
+#What is the assumption in sentence: "When did the us first get the vaccine" => #
+
+input yn question: why are there differences in acquiring the second language
+answer to yn question: all_valid
+generated wh question: "There are differences in acquiring the second language."
+#What is the assumption in sentence: "Why do people learn a second language?" => #ass
+
+input yn question: what is the number that is both even and odd
+answer to yn question: has_invalid
+generated wh question: "There is a number that is both even and odd."
+#What is the assumption in sentence: "How many times can you divide 20 by
+
+input yn question: when did dog man 11 come out
+answer to yn question: all_valid
+generated wh question: "Dog man 11 came out."
+#What is the assumption in sentence: "When did the first episode of stranger things season 4 come
+
+input yn question: when did the chinese civilization end
+answer to yn question: has_invalid
+generated wh question: "Chinese civilization ended."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #assumption:
+
+input yn question: who dies in season 6 episode 24 of grey's anatomy
+answer to yn question: all_valid
+generated wh question: "There is a person dies in season 6 episode 24 of grey's anatomy."
+#What is the assumption in sentence: "
+
+input yn question: when did doctors stop making house calls
+answer to yn question: has_invalid
+generated wh question: "Doctors used to make house calls."
+
+#What is the assumption in sentence: "What is the biggest city in the world?" => #ass
+
+input yn question: what did the scarecrow need in the wizard of oz
+answer to yn question: all_valid
+generated wh question: "The scarecrow needed something in the wizard of oz."
+#What is the assumption in sentence: "What is the best thing to
+
+input yn question: how many wild card teams have won the stanley cup
+answer to yn question: all_valid
+generated wh question: "There are wild card teams that won the stanley cup."
+#What is the assumption in sentence: "What is the difference between a super bowl
+
+input yn question: who is olivia wilde in ghostbusters
+answer to yn question: all_valid
+generated wh question: "Olivia wilde is in ghostbusters."
+#What is the assumption in sentence: "What is the average weight of a g
+
+input yn question: when was game of thrones season 1 filmed
+answer to yn question: all_valid
+generated wh question: "Game of thrones season 1 was filmed."
+
+#What is the assumption in sentence: "What is the most common sport that trees do
+
+input yn question: when does american horror story season 11 come out
+answer to yn question: all_valid
+generated wh question: "American horror story season 11 will come out."
+
+#What is the assumption in sentence: "What is the most common sport that trees do
+
+input yn question: when did the chargers become the rams
+answer to yn question: has_invalid
+generated wh question: "The chargers became the rams."
+#What is the assumption in sentence: "When did the chargers become the rams?" => #ass
+
+input yn question: when are they closing olive garden
+answer to yn question: has_invalid
+generated wh question: "Olive garden will close."
+#What is the assumption in sentence: "When was the last time you were at olive garden" => #ass
+
+input yn question: when did facebook change their name to metta
+answer to yn question: has_invalid
+generated wh question: "Facebook changed their name to metta before."
+#What is the assumption in sentence: "What is the name of the first black president" =>
+
+input yn question: what does the t in t mobile stand for
+answer to yn question: all_valid
+generated wh question: "T mobile has an abbreviation."
+#What is the assumption in sentence: "What does the t in t mobile stand for" => #assumption
+
+input yn question: how many academic colleges does wilmu have
+answer to yn question: all_valid
+generated wh question: "There are academic colleges in wilmu."
+#What is the assumption in sentence: "What is the difference between a bachelor degree and a
+
+input yn question: when did they find a cure for aids
+answer to yn question: all_valid
+generated wh question: "They found a cure for aids."
+#What is the assumption in sentence: "Why are humans the only animals that can speak" => #
+
+input yn question: when does the new season of z nation come out
+answer to yn question: has_invalid
+generated wh question: "There will be new season of z nation."
+#What is the assumption in sentence: "When does the new season of apex legends come
+
+input yn question: when did the stock market crash in the great depression
+answer to yn question: all_valid
+generated wh question: "The stock market crashed in the great depression."
+#What is the assumption in sentence: "What is the land area of China in Latin America
+
+input yn question: when did horses stop being used
+answer to yn question: has_invalid
+generated wh question: "Horses were used before."
+
+#What is the assumption in sentence: "What is the largest continent in the world" => #assumption
+
+input yn question: where does the equator pass through india
+answer to yn question: has_invalid
+generated wh question: "India has equator."
+#What is the assumption in sentence: "What is the capital of the country of Kyrgyzstan?" =>
+
+input yn question: how many countries are there in saarc
+answer to yn question: all_valid
+generated wh question: "There are countries in saarc."
+#What is the assumption in sentence: "How many countries are in saarc" => #assumption: "
+
+input yn question: what do the letters in mars stand for
+answer to yn question: has_invalid
+generated wh question: "Mars has letters."
+#What is the assumption in sentence: "What is the most popular sport in the world?" => #assumption: "
+
+input yn question: what did pete from below deck mediterranean post
+answer to yn question: all_valid
+generated wh question: "Pete from below deck mediterranean post."
+#What is the assumption in sentence: "What is the most popular song in the 9
+
+input yn question: when did rome became a part of italy
+answer to yn question: all_valid
+generated wh question: "Rome was part of italy before."
+#What is the assumption in sentence: "How long does a dog live" => #assumption:
+
+input yn question: what episode of ncis does gibbs leave
+answer to yn question: all_valid
+generated wh question: "Gibbs leave ncis."
+#What is the assumption in sentence: "What episode of ncis does gibbs leave" => #ass
+
+input yn question: when did the lakers win their first nba championship
+answer to yn question: all_valid
+generated wh question: "The lakers won their first nba championship."
+
+#What is the assumption in sentence: "What is the difference between a car and a tr
+
+input yn question: when do derek and meredith get back together season 4
+answer to yn question: all_valid
+generated wh question: "Derek and Meredith get back together in season 4."
+#What is the assumption in sentence: "When was the first time you a
+
+input yn question: when does jj die in station 19
+answer to yn question: has_invalid
+generated wh question: "Jj die in station 19"
+#What is the assumption in sentence: "When does jj die in station 19" =>
+
+input yn question: when did the uk ban guns
+answer to yn question: has_invalid
+generated wh question: "The UK has banned guns."
+#What is the assumption in sentence: "When was the first car invented in japan?" => #ass
+
+input yn question: how old was george floyd when he passed away
+answer to yn question: all_valid
+generated wh question: "George floyd passed away."
+#What is the assumption in sentence: "How old was george floyd when he was arrested" => #
+
+input yn question: when does rachel move in with joey season 9
+answer to yn question: all_valid
+generated wh question: "Rachel and joey will move in together in season 9."
+#What is the assumption in sentence: "Who is the actor of the
+
+input yn question: when does jim go to stanford
+answer to yn question: has_invalid
+generated wh question: "Jim will go to stanford."
+#What is the assumption in sentence: "What is the most popular restaurant in the world?" => #ass
+
+input yn question: when did michael jordan get traded
+answer to yn question: has_invalid
+generated wh question: "Michael jordan was traded."
+#What is the assumption in sentence: "What is the most popular food in the world?" => #ass
+
+input yn question: what are the flags in minesweeper
+answer to yn question: all_valid
+generated wh question: "There are flags in minesweeper."
+#What is the assumption in sentence: "What is the average salary of a firefighter in
+
+input yn question: what kind of batteries go in smoke alarms
+answer to yn question: all_valid
+generated wh question: "There are batteries go in smoke alarms."
+#What is the assumption in sentence: "What is the best way to store canned food
+
+input yn question: where was the netflix movie elves filmed
+answer to yn question: has_invalid
+generated wh question: "Netflix movie elves was filmed."
+
+#What is the assumption in sentence: "Who is the president of the republic of palau
+
+input yn question: where do the blue jays play in toronto
+answer to yn question: all_valid
+generated wh question: "The blue jays play in toronto."
+#What is the assumption in sentence: "Who is the best singer in the world" => #ass
+
+input yn question: what does caesar mean in spanish
+answer to yn question: has_invalid
+generated wh question: "Caesar is spanish."
+#What is the assumption in sentence: "What does the name candy mean in spanish" => #assumption
+
+input yn question: where did mike trout play college baseball
+answer to yn question: has_invalid
+generated wh question: "Mike trout played college baseball."
+#What is the assumption in sentence: "What is the number of an apple?" => #assumption:
+
+input yn question: who was president before ram nath kovind
+answer to yn question: all_valid
+generated wh question: "Ram nath kovind was president before."
+#What is the assumption in sentence: "Who is the king of thailand" => #
+
+input yn question: why is there no light in space
+answer to yn question: has_invalid
+generated wh question: "There is no light in space."
+#What is the assumption in sentence: "Why is there no gravity in space" => #assumption: "
+
+input yn question: who is the movie queen and slim about
+answer to yn question: all_valid
+generated wh question: "There is a movie queen and slim about."
+#What is the assumption in sentence: "How do you know if someone has the coronavirus
+
+input yn question: why did the uk leave the un
+answer to yn question: has_invalid
+generated wh question: "The uk left the un."
+#What is the assumption in sentence: "What is the most expensive thing in the world?" => #assumption:
+
+input yn question: who does bo jackson play for
+answer to yn question: has_invalid
+generated wh question: "Bo jackson plays for someone."
+#What is the assumption in sentence: "Who invented the first computer?" => #assumption: "There
+
+input yn question: when was the first female navy seal
+answer to yn question: has_invalid
+generated wh question: "There is a female navy seal."
+#What is the assumption in sentence: "What is the oldest city in the world?" => #ass
+
+input yn question: who is tom cruise in doctor strange 2
+answer to yn question: has_invalid
+generated wh question: "Tom cruise is in doctor strange 2."
+#What is the assumption in sentence: "Who is tom cruise in the last of us"
+
+input yn question: who won the world cup 2021 soccer
+answer to yn question: all_valid
+generated wh question: "There is a winner of world cup 2021 soccer."
+#What is the assumption in sentence: "What is the most popular dog
+
+input yn question: who is olivia wilde to harry styles
+answer to yn question: all_valid
+generated wh question: "Olivia wilde and harry styles are dating."
+#What is the assumption in sentence: "What is the most popular song in 
+
+input yn question: when is the season 6 of my hero academia
+answer to yn question: all_valid
+generated wh question: "My hero academia season 6 will come."
+#What is the assumption in sentence: "What is the most common sport that trees do?" =>
+
+input yn question: how did the united states acquire west florida from spain in 1812
+answer to yn question: has_invalid
+generated wh question: "The United States acquired west florida from spain in 1812."
+#What is the assumption in sentence: "Why does the us
+
+input yn question: who were the ottomans ruled by
+answer to yn question: all_valid
+generated wh question: "The ottomans ruled by someone."
+#What is the assumption in sentence: "How do I get a job at a comic book store"
+
+input yn question: where are the winter olympics held 2021
+answer to yn question: has_invalid
+generated wh question: "The winter olympics 2021 was held somewhere."
+#What is the assumption in sentence: "When was the first time a woman won
+
+input yn question: who was elected president of india twice
+answer to yn question: all_valid
+generated wh question: "There is a person who was elected president of india twice."
+#What is the assumption in sentence: "Who is the richest man in the
+
+input yn question: when did arsenal win the champions league
+answer to yn question: has_invalid
+generated wh question: "Arsenal won the champions league."
+#What is the assumption in sentence: "When did the queen die" => #assumption: "The
+
+input yn question: why does jughead die in riverdale
+answer to yn question: all_valid
+generated wh question: "Jughead die in riverdale."
+
+#What is the assumption in sentence: "What is the best sport to do in a desert?" =>
+
+input yn question: where is the great british sewing bee christmas 2021 filmed
+answer to yn question: all_valid
+generated wh question: "The great british sewing bee christmas 2021 is filmed."
+#What is the assumption in sentence: "Who is
+
+input yn question: who was the first lady president of the united states
+answer to yn question: has_invalid
+generated wh question: "The first lady president of the united states was a woman."
+#What is the assumption in sentence: "Who was the first president of the un
+
+input yn question: why are there no dislikes on youtube
+answer to yn question: has_invalid
+generated wh question: "There are no dislikes on youtube."
+#What is the assumption in sentence: "Why are there no dislikes on yout
+
+input yn question: when was gunpowder introduced to europe
+answer to yn question: all_valid
+generated wh question: "Gunpowder was introduced to europe."
+#What is the assumption in sentence: "What is the most expensive car in the world?" => #
+
+input yn question: when did the chargers go to san diego
+answer to yn question: all_valid
+generated wh question: "The chargers went to san diego."
+#What is the assumption in sentence: "When did the chargers move to san diego" =>
+
+input yn question: who declared war first in world war 1
+answer to yn question: all_valid
+generated wh question: "There was a war in the world war 1."
+#What is the assumption in sentence: "What is the best way to get a job in
+
+input yn question: who plays jack frost in santa clause 2
+answer to yn question: has_invalid
+generated wh question: "There is a jack frost in santa clause 2."
+#What is the assumption in sentence: "What is the most popular pizza in
+
+input yn question: when did the chargers win the super bowl
+answer to yn question: has_invalid
+generated wh question: "The chargers won the super bowl."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input yn question: how many nuclear bombs have been lost
+answer to yn question: all_valid
+generated wh question: "Nuclear bombs have been lost."
+#What is the assumption in sentence: "Who is the youngest actor in the world" => #
+
+input yn question: when does a baby have brain activity
+answer to yn question: all_valid
+generated wh question: "A baby has brain activity."
+#What is the assumption in sentence: "What is the best way to get a flu shot?" => #assumption
+
+input yn question: where in the bible does it say not to celebrate christmas
+answer to yn question: has_invalid
+generated wh question: "Bible says not to celebrate christmas."
+#What is the assumption in sentence: "Why does the earth have a magnetic field?" => #
+
+input yn question: what is the currency of japan
+answer to yn question: all_valid
+generated wh question: "Japan has currency."
+#What is the assumption in sentence: "What is the country of the bahamas" => #assumption:
+
+input yn question: when did bert and ernie come out
+answer to yn question: all_valid
+generated wh question: "Bert and ernie have come out."
+
+#What is the assumption in sentence: "Why are there so many people who have a pet?"
+
+input yn question: when did japan get rid of the emperor
+answer to yn question: has_invalid
+generated wh question: "Japan got rid of the emperor."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #
+
+input yn question: what does the expression done to death mean
+answer to yn question: all_valid
+generated wh question: "The expression done to death is used to mean something."
+#What is the assumption in sentence: "What does the expression knocked it out of the
+
+input yn question: when did michael jordan buy the wizards
+answer to yn question: all_valid
+generated wh question: "Michael jordan owns the wizards."
+
+
+#What is the assumption in sentence: "What is the assumption in sentence: "
+
+input yn question: what crimes get the death penalty in georgia
+answer to yn question: has_invalid
+generated wh question: "There are crimes that get the death penalty in georgia."
+#What is the assumption in sentence: "How many people are in the b
+
+input yn question: who does rory end up with logan
+answer to yn question: has_invalid
+generated wh question: "Rory ends up with logan."
+#What is the assumption in sentence: "Who is the main character in the book the 100
+
+input yn question: where was the titanic headed when it sunk
+answer to yn question: all_valid
+generated wh question: "The titanic headed somewhere when it sunk."
+#What is the assumption in sentence: "What is the reason of the bubbles
+
+input yn question: what does the song hotel california say backwards
+answer to yn question: has_invalid
+generated wh question: "Hotel california song says something backwards."
+#What is the assumption in sentence: "What is the most common animal in the world?" =>
+
+input yn question: who is tom cruise dating 2022
+answer to yn question: has_invalid
+generated wh question: "Tom cruise is dating in 2022."
+#What is the assumption in sentence: "When was the first book written" =>
+
+input yn question: who won silver medal for badminton in rio olympics
+answer to yn question: all_valid
+generated wh question: "Someone won silver medal for badminton in rio olympics."
+#What is the assumption in sentence: "Who is the best chef in
+
+input yn question: when did ford start making cars
+answer to yn question: all_valid
+generated wh question: "Ford started making cars."
+#What is the assumption in sentence: "When did the united states become a republic" => #assumption:
+
+input yn question: who has one billion followers on instagram
+answer to yn question: has_invalid
+generated wh question: "There is a person has one billion followers on instagram."
+#What is the assumption in sentence: "What is the most famous sushi
+
+input yn question: when is star screen awards 2021
+answer to yn question: has_invalid
+generated wh question: "Star screen awards 2021 will be held."
+#What is the assumption in sentence: "When does the national anthem of India start
+
+input yn question: who wrote the book gulamgiri in 1873
+answer to yn question: all_valid
+generated wh question: "There is a book gulamgiri written in 1873."
+#What is the assumption in sentence: "What is the meaning
+
+input yn question: when did the chargers move to las vegas
+answer to yn question: has_invalid
+generated wh question: "The chargers moved to las vegas."
+#What is the assumption in sentence: "What is the capital of Egypt?" => #assumption:
+
+input yn question: where was the us capitol in new york
+answer to yn question: all_valid
+generated wh question: "The us capitol was in new york."
+#What is the assumption in sentence: "Who was the first black president?" => #assumption
+
+input yn question: how much does the state of california pay for unemployment
+answer to yn question: all_valid
+generated wh question: "The state of california pays for unemployment."
+#What is the assumption in sentence: "What is the best way to get a job
+
+input yn question: when did michigan shut down due to the coronavirus
+answer to yn question: all_valid
+generated wh question: "Michigan shut down due to the coronavirus."
+#What is the assumption in sentence: "What is the most famous song in the world?"
+
+input yn question: when did the us bomb japan
+answer to yn question: all_valid
+generated wh question: "The us bomb japan."
+#What is the assumption in sentence: "When did the us bomb japan" => #assumption: "The
+
+input yn question: why is cinco de mayo not celebrated in mexico
+answer to yn question: has_invalid
+generated wh question: "Cinco de mayo is celebrated in mexico."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input yn question: how do betta fish get pregnant
+answer to yn question: has_invalid
+generated wh question: "Betta fish can get pregnant."
+#What is the assumption in sentence: "What is the difference between a mammal and a bird
+
+input yn question: when does iron man die in spiderman
+answer to yn question: has_invalid
+generated wh question: "Iron man will die in spiderman."
+#What is the assumption in sentence: "What is the longest river in the world?" => #
+
+input yn question: who does bo burnham play in sesame street
+answer to yn question: has_invalid
+generated wh question: "Bo burnham played in sesame street."
+#What is the assumption in sentence: "What is the first song in the movie" => #ass
+
+input yn question: who did we buy hawaii from
+answer to yn question: has_invalid
+generated wh question: "We bought hawaii from someone."
+#What is the assumption in sentence: "What is the biggest lake in the world" => #ass
+
+input yn question: when did michael jackson became a billionaire
+answer to yn question: has_invalid
+generated wh question: "Michael jackson became a billionaire."
+#What is the assumption in sentence: "What is the most dangerous thing in space?" => #assumption
+
+input yn question: how did snow become a l'cie again
+answer to yn question: all_valid
+generated wh question: "L'cie can become snow again."
+#What is the assumption in sentence: "Why is it difficult to find a good l'cie" =>
+
+input yn question: who does vic beasley jr play for
+answer to yn question: all_valid
+generated wh question: "Vic beasley jr plays for someone."
+#What is the assumption in sentence: "Who invented the first computer" => #ass
+
+input yn question: what movie was the song the warrior in
+answer to yn question: has_invalid
+generated wh question: "There is a song in the movie."
+#What is the assumption in sentence: "What is the difference between a chihuahua and a
+
+input yn question: when did college football start doing overtime
+answer to yn question: all_valid
+generated wh question: "College football do overtime."
+#What is the assumption in sentence: "What is the average height of a giraffe" => #ass
+
+input yn question: who did jenny agutter play in the avengers
+answer to yn question: all_valid
+generated wh question: "Jenny agutter played in the avengers."
+
+#What is the assumption in sentence: "What is the capital of arkansas
+
+input yn question: who plays the robot in lost in space 2020
+answer to yn question: has_invalid
+generated wh question: "There is a robot in lost in space 2020."
+#What is the assumption in sentence: "Who is the king of the j
+
+input yn question: when does bendy and the ink machine 2 come out
+answer to yn question: has_invalid
+generated wh question: "Bendy and the ink machine 2 will come out."
+#What is the assumption in sentence: "What is the most common sport that
+
+input yn question: what is the moms power in twilight
+answer to yn question: has_invalid
+generated wh question: "Moms have power in twilight."
+#What is the assumption in sentence: "What is the best way to get a dog to stop b
+
+input yn question: when is the senate voting on judge jackson
+answer to yn question: all_valid
+generated wh question: "The senate is voting on judge jackson."
+#What is the assumption in sentence: "What is the most expensive car in the world?" =>
+
+input yn question: who won rookie of the year mama 2017
+answer to yn question: has_invalid
+generated wh question: "Rookie of the year mama 2017 was won by someone."
+
+#What is the assumption in sentence: "What is
+
+input yn question: when did christmas day fall on boxing day
+answer to yn question: has_invalid
+generated wh question: "Christmas day fell on boxing day."
+#What is the assumption in sentence: "When did the first christmas day fall on boxing day
+
+input yn question: who did we buy california from
+answer to yn question: has_invalid
+generated wh question: "We bought california."
+#What is the assumption in sentence: "Who owns the rights of the bible?" => #assumption:
+
+input yn question: which of santa's reindeer is the oldest
+answer to yn question: all_valid
+generated wh question: "Santa's reindeer are old."
+#What is the assumption in sentence: "What is the fastest animal in the world?" =>
+
+input yn question: who does josh norman play for in the nfl
+answer to yn question: all_valid
+generated wh question: "There is an nfl player named josh norman."
+#What is the assumption in sentence: "What is the most popular song in 2
+
+input yn question: how much does the state of california pay in federal taxes
+answer to yn question: all_valid
+generated wh question: "The state of california pays federal taxes."
+#What is the assumption in sentence: "What is the average salary of a teacher in
+
+input yn question: what is the tree of life in avatar
+answer to yn question: has_invalid
+generated wh question: "There is a tree of life in avatar."
+#What is the assumption in sentence: "What is the difference between a black bear and a g
+
+input yn question: when did the us invade iraq
+answer to yn question: all_valid
+generated wh question: "The us invaded iraq."
+#What is the assumption in sentence: "When did the us invade iraq" => #
+
+input yn question: what is the name for peruvian chinese food
+answer to yn question: all_valid
+generated wh question: "Peruvian chinese food has a name."
+#What is the assumption in sentence: "Who is the king of the united kingdom?" =>
+
+input yn question: who became king in game of thrones books
+answer to yn question: has_invalid
+generated wh question: "There is a king in game of thrones books."
+#What is the assumption in sentence: "What is the best way to cook a pork
+
+input yn question: what was the first plague in the prince of egypt
+answer to yn question: all_valid
+generated wh question: "The first plague in the prince of egypt was a disease."
+#What is the assumption in sentence: "What is the most dangerous part of
+
+input yn question: where does the royal family live in scotland
+answer to yn question: all_valid
+generated wh question: "There is a royal family in scotland."
+#What is the assumption in sentence: "Who is the governor of New Mexico" => #ass
+
+input yn question: who killed everyone in designated survivor
+answer to yn question: all_valid
+generated wh question: "Everyone in designated survivor was killed."
+#What is the assumption in sentence: "Who is the best soccer player in the world"
+
+input yn question: why are there stones between railway tracks
+answer to yn question: all_valid
+generated wh question: "There are stones between railway tracks."
+#What is the assumption in sentence: "How many times has the sun been in the universe?" => #ass
+
+input yn question: where is the grand canyon in las vegas
+answer to yn question: has_invalid
+generated wh question: "There is a grand canyon in las vegas."
+#What is the assumption in sentence: "What is the first country to reach the moon
+
+input yn question: why do dogs cry at night
+answer to yn question: all_valid
+generated wh question: "Dogs can cry at night."
+
+#What is the assumption in sentence: "What is the best way to watch the new york knicks
+
+input yn question: who won the battle of fort henry and donelson
+answer to yn question: all_valid
+generated wh question: "There is a battle of fort henry and donelson."
+#What is the assumption in sentence: "What is the most expensive thing in the
+
+input yn question: why did the uk leave brexit
+answer to yn question: has_invalid
+generated wh question: "The UK left brexit."
+#What is the assumption in sentence: "How many presidents in the world" => #assumption: "
+
+input yn question: when did they stop using lead in pencils
+answer to yn question: has_invalid
+generated wh question: "Lead in pencils has been used before."
+#What is the assumption in sentence: "Why is it called the great wall of china
+
+input yn question: where is the grand canyon located in az
+answer to yn question: all_valid
+generated wh question: "The grand canyon is in Arizona."
+#What is the assumption in sentence: "What is the most popular food in new york?" =>
+
+input yn question: what is the unesco world heritage site in missouri
+answer to yn question: has_invalid
+generated wh question: "There is a unesco world heritage site in missouri."
+#What is the assumption in sentence: "What is the unesco world
+
+input yn question: when did the browns win the afc north
+answer to yn question: all_valid
+generated wh question: "Browns win the afc north before."
+#What is the assumption in sentence: "What is the most important thing to know about the amer
+
+input yn question: when was the bible first translated into english
+answer to yn question: all_valid
+generated wh question: "The bible was first translated into english."
+#What is the assumption in sentence: "What is the name of the youngest queen of eng
+
+input yn question: when did horses come to europe
+answer to yn question: all_valid
+generated wh question: "Horses came to europe."
+#What is the assumption in sentence: "When did the czech republic become a country" => #assumption
+
+input yn question: where did bill gates graduate college
+answer to yn question: has_invalid
+generated wh question: "Bill gates graduated college."
+#What is the assumption in sentence: "Where is the capital of australia" => #assumption: "Austral
+
+input yn question: when did the soviet union invade afghanistan
+answer to yn question: all_valid
+generated wh question: "Soviet union invaded Afghanistan."
+#What is the assumption in sentence: "What is the capital of the united kingdom?" => #
+
+input yn question: when did the iphone se come out in the us
+answer to yn question: has_invalid
+generated wh question: "iPhone se comes out in the us."
+#What is the assumption in sentence: "Who is the first person to create the hamburger"
+
+input yn question: when did the olympics start drug testing
+answer to yn question: all_valid
+generated wh question: "The olympics start drug testing."
+#What is the assumption in sentence: "When did the olympics start" => #assumption: "The
+
+input yn question: what does the song watermelon high mean
+answer to yn question: has_invalid
+generated wh question: "There is a song named watermelon high."
+#What is the assumption in sentence: "What is the meaning of the song watermel
+
+input yn question: when did the browns go back to cleveland
+answer to yn question: has_invalid
+generated wh question: "The browns go back to cleveland."
+#What is the assumption in sentence: "Who was the first black man to win a gold medal
+
+input yn question: who were the samaritans in the old testament
+answer to yn question: all_valid
+generated wh question: "There were samaritans in the old testament."
+#What is the assumption in sentence: "What is the longest river in the united
+
+input yn question: what episode of spongebob has the magic conch
+answer to yn question: all_valid
+generated wh question: "Spongebob has magic conch."
+#What is the assumption in sentence: "What is the difference between a chicken and a turkey
+
+input yn question: when was gunpowder invented in the song dynasty
+answer to yn question: has_invalid
+generated wh question: "Gunpowder was invented in the song dynasty."
+#What is the assumption in sentence: "What is the difference between a wolf
+
+input yn question: who wrote the book of genesis to deuteronomy
+answer to yn question: all_valid
+generated wh question: "Someone wrote the book of genesis to deuteronomy."
+#What is the assumption in sentence: "What is the name of the movie that
+
+input yn question: who does josh end up with in please like me
+answer to yn question: has_invalid
+generated wh question: "Josh ends up with someone."
+#What is the assumption in sentence: "What is the assumption in sentence: "What is the assumption in sentence
+
+input yn question: who does george marry in seinfeld
+answer to yn question: has_invalid
+generated wh question: "George marry someone."
+#What is the assumption in sentence: "Who is the best tennis player" => #assumption: "There is a
+
+input yn question: who plays raj's sister on big bang theory
+answer to yn question: all_valid
+generated wh question: "Raj has a sister on big bang theory."
+#What is the assumption in sentence: "What is the best way to avoid a zomb
+
+input yn question: when did charles dickens marry maria beadnell
+answer to yn question: has_invalid
+generated wh question: "Charles dickens married maria beadnell."
+#What is the assumption in sentence: "When did the first black panther movie come
+
+input yn question: who is the movie the underdog about
+answer to yn question: has_invalid
+generated wh question: "There is a movie about underdog."
+#What is the assumption in sentence: "How many people are in the movie the underdog" => #
+
+input yn question: what two particles reside in the nucleus
+answer to yn question: all_valid
+generated wh question: "There are two particles in the nucleus."
+#What is the assumption in sentence: "What is the name of the first black president in the world
+
+input yn question: when is steven universe season 7 coming out
+answer to yn question: has_invalid
+generated wh question: "Steven universe will come out in season 7."
+#What is the assumption in sentence: "How many pounds is 1600 gr
+
+input yn question: who won rookie of the year mama 2019
+answer to yn question: has_invalid
+generated wh question: "There is rookie of the year mama 2019."
+#What is the assumption in sentence: "What is the most popular
+
+input yn question: when did undertaker start using rollin
+answer to yn question: all_valid
+generated wh question: "Undertaker used rollin before."
+#What is the assumption in sentence: "When did undertaker start using rollin" => #assumption
+
+input yn question: who plays harley in pure country
+answer to yn question: all_valid
+generated wh question: "There is a harley in pure country."
+#What is the assumption in sentence: "What is the longest river in the world" => #ass
+
+input yn question: why are there no brahma temple
+answer to yn question: has_invalid
+generated wh question: "There is no brahma temple."
+#What is the assumption in sentence: "What is the strongest animal in the world" => #ass
+
+input yn question: when did the communist party take over china
+answer to yn question: all_valid
+generated wh question: "The communist party took over china."
+#What is the assumption in sentence: "How many people in the world are named john" =>
+
+input yn question: how many episodes of midnight texas are there
+answer to yn question: all_valid
+generated wh question: "There are episodes of midnight texas."
+#What is the assumption in sentence: "Who is the owner of the united states" => #
+
+input yn question: who owns blue moon brewing company
+answer to yn question: all_valid
+generated wh question: "Someone owns blue moon brewing company."
+#What is the assumption in sentence: "What is the difference between a space shuttle and
+
+input yn question: when does the nfl football season start for 2020
+answer to yn question: all_valid
+generated wh question: "There is a nfl football season for 2020."
+#What is the assumption in sentence: "When does the nfl football season
+
+input yn question: who does lily marry in crossing jordan
+answer to yn question: has_invalid
+generated wh question: "Lily marry someone in crossing jordan."
+#What is the assumption in sentence: "What is the problem with the Titanic" =>
+
+input yn question: when did they stop giving polio vaccinations
+answer to yn question: has_invalid
+generated wh question: "Polio vaccinations stopped being given."
+#What is the assumption in sentence: "How much money does a dentist make in a month
+
+input yn question: when is the season 3 of insatiable
+answer to yn question: has_invalid
+generated wh question: "Insatiable has season 3."
+#What is the assumption in sentence: "How do you get the 5th dimension?" => #
+
+input yn question: what episode does aiden appear in just like that
+answer to yn question: has_invalid
+generated wh question: "Aiden appear in just like that."
+#What is the assumption in sentence: "How do you know if someone is a psychopath?" =>
+
+input yn question: when is the season 6 of haikyuu
+answer to yn question: has_invalid
+generated wh question: "There is season 6 of haikyuu."
+#What is the assumption in sentence: "What is the most common way to kill a
+
+input yn question: why are there ants in my underwear
+answer to yn question: all_valid
+generated wh question: "There are ants in your underwear."
+#What is the assumption in sentence: "What is the name of the person who invented the
+
+input yn question: how many seasons of the mentalist are on amazon prime
+answer to yn question: all_valid
+generated wh question: "There are seasons of the mentalist on amazon prime."
+#What is the assumption in sentence: "What is the biggest city in the us?" =>
+
+input yn question: who was the king of england in 1620
+answer to yn question: all_valid
+generated wh question: "There was a king of england in 1620."
+#What is the assumption in sentence: "What is the largest city in the
+
+input yn question: when does quinn leave one tree hill
+answer to yn question: has_invalid
+generated wh question: "Quinn leaves one tree hill."
+#What is the assumption in sentence: "What is the most important thing for a baby to be healthy?"
+
+input yn question: when is season 7 of hunter x hunter
+answer to yn question: has_invalid
+generated wh question: "Hunter x hunter season 7 will come back."
+#What is the assumption in sentence: "When is season 7 of hunter x
+
+input yn question: when was the bible first published
+answer to yn question: all_valid
+generated wh question: "The bible was first published."
+
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #ass
+
+input yn question: who did elton john wrote the song daniel about
+answer to yn question: has_invalid
+generated wh question: "Elton john wrote the song daniel about someone."
+#What is the assumption in sentence: "How many bones does a human have in
+
+input yn question: how old was george clooney in the perfect storm
+answer to yn question: all_valid
+generated wh question: "George clooney was old in the perfect storm."
+#What is the assumption in sentence: "How old was george clooney in the perfect
+
+input yn question: who plays jake from state farm in the commercials
+answer to yn question: all_valid
+generated wh question: "There is a person who plays jake from state farm in the commercials."
+
+#What is the assumption in sentence: "What is the
+
+input yn question: why do they cut cocker spaniels tails
+answer to yn question: all_valid
+generated wh question: "Cocker spaniels have tails."
+#What is the assumption in sentence: "What is the best way to get rid of a cat" =>
+
+input yn question: who won the women's soccer world cup 2021
+answer to yn question: has_invalid
+generated wh question: "Women soccer world cup 2021 has winner."
+#What is the assumption in sentence: "What is the best time to visit
+
+input yn question: how old was george michael when he wrote careless whisper
+answer to yn question: all_valid
+generated wh question: "George michael was old enough to write careless whisper."
+#What is the assumption in sentence: "What is the definition of a jac
+
+input yn question: who does dawson date after casey
+answer to yn question: has_invalid
+generated wh question: "Dawson dated after casey."
+#What is the assumption in sentence: "Who is the most famous person in the world" => #ass
+
+input yn question: who was president of russia in 1971
+answer to yn question: has_invalid
+generated wh question: "There was a president of russia in 1971."
+#What is the assumption in sentence: "What is the name of the president
+
+input yn question: where in the bible does it say no meat on fridays
+answer to yn question: has_invalid
+generated wh question: "Bible says no meat on fridays."
+
+#What is the assumption in sentence: "Where can I find the first episode of the original
+
+input yn question: which us embassy is the largest
+answer to yn question: all_valid
+generated wh question: "There is a largest us embassy."
+#What is the assumption in sentence: "What is the biggest city in the world" => #ass
+
+input yn question: where is pepsin found in food
+answer to yn question: has_invalid
+generated wh question: "Pepsin is found in food."
+#What is the assumption in sentence: "Where is pepsin found in food" => #assumption
+
+input yn question: where did the band name meatloaf come from
+answer to yn question: has_invalid
+generated wh question: "There is a band named meatloaf."
+#What is the assumption in sentence: "What are the most popular foods in japan?" =>
+
+input yn question: who wrote that's my daughter in the water
+answer to yn question: all_valid
+generated wh question: "That's my daughter in the water was written by someone."
+#What is the assumption in sentence: "Who wrote the song I wanna be
+
+input yn question: when did chelsea won europa league
+answer to yn question: all_valid
+generated wh question: "Chelsea has won the europa league."
+#What is the assumption in sentence: "When did chelsea won uefa super cup
+
+input yn question: when is steven universe season 6
+answer to yn question: has_invalid
+generated wh question: "There is a steven universe season 6."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input yn question: who has more number one hits than george strait
+answer to yn question: has_invalid
+generated wh question: "George strait has more number one hits than someone else."
+#What is the assumption in sentence: "Who is the richest man in the
+
+input yn question: who is the she wolf in teen wolf
+answer to yn question: has_invalid
+generated wh question: "There is a she wolf in teen wolf."
+#What is the assumption in sentence: "What is the best way to make a c
+
+input yn question: when did china ban video games
+answer to yn question: all_valid
+generated wh question: "China has banned video games."
+
+#What is the assumption in sentence: "What is the most popular sport in the world?" => #
+
+input yn question: what does the kidney do in the digestive system
+answer to yn question: has_invalid
+generated wh question: "Kidney is in the digestive system."
+#What is the assumption in sentence: "What is the difference between a lion and a
+
+input yn question: when did michigan ban lead paint
+answer to yn question: has_invalid
+generated wh question: "Michigan has banned lead paint."
+#What is the assumption in sentence: "When did the first stone age" => #assumption: "
+
+input yn question: where did bill clinton stay in derry
+answer to yn question: all_valid
+generated wh question: "Bill clinton stayed in derry."
+#What is the assumption in sentence: "When was the first woman astronaut?" => #assumption
+
+input yn question: when did the uk leave brexit
+answer to yn question: has_invalid
+generated wh question: "The UK left brexit."
+#What is the assumption in sentence: "What is the most popular food in the united states" => #
+
+input yn question: where was the titanic when it crashed
+answer to yn question: all_valid
+generated wh question: "Titanic crashed."
+#What is the assumption in sentence: "What is the best food to eat in the morning?" => #assumption
+
+input yn question: where did the battle of dieppe raid take place
+answer to yn question: all_valid
+generated wh question: "The battle of dieppe raid took place."
+#What is the assumption in sentence: "Where did the battle of dieppe raid take place
+
+input yn question: how do they induce pain for labour
+answer to yn question: has_invalid
+generated wh question: "They can induce pain for labour."
+#What is the assumption in sentence: "How do you get a free tiktok?" => #ass
+
+input yn question: who did lsu play in the sec championship in 2019
+answer to yn question: all_valid
+generated wh question: "Lsu played in the sec championship in 2019."
+#What is the assumption in sentence: "Who did the eagles play
+
+input yn question: where do we live on earth or in earth
+answer to yn question: all_valid
+generated wh question: "We live in earth."
+#What is the assumption in sentence: "What is the most popular sport in the world?" => #assumption: "
+
+input yn question: when did the catholic church change the sabbath
+answer to yn question: has_invalid
+generated wh question: "Catholic church changed the sabbath."
+
+#What is the assumption in sentence: "What is the longest word in the dictionary?" => #
+
+input yn question: when is steven universe future season 2
+answer to yn question: has_invalid
+generated wh question: "Steven universe future season 2 will come."
+#What is the assumption in sentence: "How much money does 100000
+
+input yn question: when does south korea celebrate their republic day
+answer to yn question: has_invalid
+generated wh question: "South korea celebrates their republic day."
+#What is the assumption in sentence: "When did the first person get the covid v
+
+input yn question: when does the new season of z nation come out on netflix
+answer to yn question: has_invalid
+generated wh question: "Z nation will come out on netflix."
+#What is the assumption in sentence: "When does the new season of the last ship come out
+
+input yn question: who does bo scarbrough play for in the nfl
+answer to yn question: has_invalid
+generated wh question: "Bo scarbrough is a player in the nfl."
+#What is the assumption in sentence: "When does the new season of the vamp
+
+input yn question: where was the movie silverado filmed
+answer to yn question: all_valid
+generated wh question: "The movie silverado was filmed."
+#What is the assumption in sentence: "Who is the fastest person in the world" => #ass
+
+input yn question: who did the browns trade for deshaun
+answer to yn question: has_invalid
+generated wh question: "Browns traded deshaun."
+#What is the assumption in sentence: "Who is the greatest football player in the world?" => #
+
+input yn question: who does vic end up with on longmire
+answer to yn question: all_valid
+generated wh question: "Vic end up with someone."
+#What is the assumption in sentence: "What does alexander the great look like" => #assumption
+
+input yn question: when was gunpowder invented in europe
+answer to yn question: has_invalid
+generated wh question: "Gunpowder was invented in europe."
+#What is the assumption in sentence: "What is the biggest desert in the world?" => #
+
+input yn question: who does george costanza end up with
+answer to yn question: has_invalid
+generated wh question: "George costanza ends up with someone."
+#What is the assumption in sentence: "What is the difference between a house and a building" =>
+
+input yn question: when is house of cards season 7
+answer to yn question: has_invalid
+generated wh question: "House of cards season 7 will be released."
+#What is the assumption in sentence: "When was the first black president in the united
+
+input yn question: how did the dutch acquire new amsterdam
+answer to yn question: all_valid
+generated wh question: "Dutch acquired new amsterdam."
+#What is the assumption in sentence: "How did the dutch acquire new amsterdam" => #ass
+
+input yn question: when did the us declare war on germany ww2
+answer to yn question: all_valid
+generated wh question: "The us declared war on germany ww2."
+#What is the assumption in sentence: "What is the biggest animal in the world?" => #
+
+input yn question: who wrote we are standing on holy ground
+answer to yn question: all_valid
+generated wh question: "Someone wrote we are standing on holy ground."
+#What is the assumption in sentence: "What is the capital of the united states of amer
+
+input yn question: when did the browns move from colorado to washington
+answer to yn question: has_invalid
+generated wh question: "The browns moved from colorado to washington."
+#What is the assumption in sentence: "What is the name of the man who invent
+
+input yn question: when was gunpowder invented in the middle ages
+answer to yn question: has_invalid
+generated wh question: "Gunpowder was invented in the middle ages."
+#What is the assumption in sentence: "What is the best food to eat if you
+
+input yn question: how many years british ruled china
+answer to yn question: has_invalid
+generated wh question: "British ruled china before."
+
+#What is the assumption in sentence: "What is the most famous shoe company in the world?"
+
+input yn question: when did nigeria became a federation of 19 states
+answer to yn question: all_valid
+generated wh question: "Nigeria became a federation of 19 states."
+#What is the assumption in sentence: "When did the first person in the world
+
+input yn question: when did the catholic church accept divorce
+answer to yn question: has_invalid
+generated wh question: "The catholic church accept divorce."
+#What is the assumption in sentence: "When did the catholic church accept divorce" => #ass
+
+input yn question: who does dawson marry in dawson's creek
+answer to yn question: has_invalid
+generated wh question: "There is a dawson's creek."
+#What is the assumption in sentence: "What is the longest river in the world?" =>
+
+input yn question: when did the bible get rewritten
+answer to yn question: all_valid
+generated wh question: "There is a rewritten bible."
+#What is the assumption in sentence: "Who is the most famous doctor in the world" => #ass
+
+input yn question: when did charles dickens wrote a christmas story
+answer to yn question: has_invalid
+generated wh question: "Charles dickens wrote a christmas story."
+
+#What is the assumption in sentence: "What is the most popular sport in the world
+
+input yn question: who plays carol in santa clause 2
+answer to yn question: all_valid
+generated wh question: "Carol is a person."
+#What is the assumption in sentence: "Who is the most famous american actor" => #assumption: "
+
+input yn question: who wrote the book origin of species about evaluation
+answer to yn question: has_invalid
+generated wh question: "There is a book about evaluation."
+#What is the assumption in sentence: "What is the most important thing to remember when writing an essay"
+
+input yn question: when does elena remember her love for damon
+answer to yn question: all_valid
+generated wh question: "Elena remember her love for damon."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #
+
+input yn question: how did the u.s. acquire the philippines
+answer to yn question: all_valid
+generated wh question: "The u.s. acquired the philippines."
+#What is the assumption in sentence: "What is the highest mountain in the world?"
+
+input yn question: when did vivo launch in india
+answer to yn question: all_valid
+generated wh question: "Vivo launched in India."
+#What is the assumption in sentence: "When did the first tesla come out?" => #assumption:
+
+input yn question: when does amelia shepherd die in grey's anatomy
+answer to yn question: has_invalid
+generated wh question: "Amelia shepherd will die in grey's anatomy."
+#What is the assumption in sentence: "What is the most expensive car
+
+input yn question: when did the whig party end uk
+answer to yn question: all_valid
+generated wh question: "The whig party ended in UK."
+#What is the assumption in sentence: "What is the most popular food in the world?" => #ass
+
+input yn question: when did the vietnam war end for australia
+answer to yn question: all_valid
+generated wh question: "The vietnam war ended in australia."
+#What is the assumption in sentence: "What is the first country to be invaded by the jap
+
+input yn question: when did the soviet union split up
+answer to yn question: all_valid
+generated wh question: "The soviet union split up."
+#What is the assumption in sentence: "What is the best way to make a good cake?" => #
+
+input yn question: when did gene roddenberry write andromeda
+answer to yn question: has_invalid
+generated wh question: "Gene roddenberry wrote andromeda."
+#What is the assumption in sentence: "When did gene roddenberry write andromeda"
+
+input yn question: where do they inject rabies vaccine in humans
+answer to yn question: all_valid
+generated wh question: "There is a place to inject rabies vaccine in humans."
+#What is the assumption in sentence: "Where does a cow get milk
+
+input yn question: when did south sudan split from sudan
+answer to yn question: all_valid
+generated wh question: "South sudan used to be a part of sudan."
+#What is the assumption in sentence: "What is the national symbol of Argentina?"
+
+input yn question: when did michael jordan retire baseball
+answer to yn question: all_valid
+generated wh question: "Michael jordan retired from baseball."
+#What is the assumption in sentence: "When did michael jordan retire basketball" => #
+
+input yn question: where was the movie the birds filmed
+answer to yn question: all_valid
+generated wh question: "The movie the birds was filmed."
+#What is the assumption in sentence: "When did the movie the birds come out" => #assumption
+
+input yn question: when did the browns move to washington
+answer to yn question: all_valid
+generated wh question: "The browns move to washington."
+#What is the assumption in sentence: "When did the browns move to washington" =>
+
+input yn question: when did north korea became a democracy
+answer to yn question: has_invalid
+generated wh question: "North korea is a democracy."
+#What is the assumption in sentence: "What is the difference between a star and a planet"
+
+input yn question: when is steven universe coming to netflix
+answer to yn question: has_invalid
+generated wh question: "Steven universe will come to netflix."
+#What is the assumption in sentence: "When is the next episode of the simpsons coming
+
+input yn question: where is the thymus located mediastinum
+answer to yn question: all_valid
+generated wh question: "The thymus is located in mediastinum."
+#What is the assumption in sentence: "What is the difference between a tsunami
+
+input yn question: when does rachel leave packed to the rafters
+answer to yn question: all_valid
+generated wh question: "Rachel left packed to the rafters."
+#What is the assumption in sentence: "What is the world record for the most p
+
+input yn question: who plays the fairy in a boy called christmas
+answer to yn question: all_valid
+generated wh question: "There is a fairy in a boy called christmas."
+#What is the assumption in sentence: "Who is the mayor of New York City"
+
+input yn question: why is 1 not an odd number
+answer to yn question: has_invalid
+generated wh question: "1 is not an odd number."
+#What is the assumption in sentence: "What is the best way to make a cake?" => #ass
+
+input yn question: when did michael jordan sign with nike
+answer to yn question: all_valid
+generated wh question: "Michael jordan signed with nike."
+
+#What is the assumption in sentence: "What is the most expensive cheese in the world?"
+
+input yn question: when does jj die in outer banks
+answer to yn question: has_invalid
+generated wh question: "Jj die in outer banks."
+#What is the assumption in sentence: "Who is the 1st president of the united states" =>
+
+input yn question: when did horses come out in minecraft
+answer to yn question: all_valid
+generated wh question: "Horses were in minecraft before."
+#What is the assumption in sentence: "What is the name of the person who invented the first
+
+input yn question: when does the new season of the ranch start 2021
+answer to yn question: has_invalid
+generated wh question: "The new season of the ranch will start in 2021."
+#What is the assumption in sentence: "How many people died in
+
+input yn question: who won the battle of fort duquesne in 1755
+answer to yn question: has_invalid
+generated wh question: "The battle of fort duquesne was won in 1755."
+#What is the assumption in sentence: "What is the best way
+
+input yn question: when does stefan die in season 7
+answer to yn question: all_valid
+generated wh question: "Stefan will die in season 7."
+#What is the assumption in sentence: "How many years did the Titanic sail?" => #
+
+input yn question: who won the little league world series in 2020
+answer to yn question: has_invalid
+generated wh question: "Little league world series 2020 winner."
+#What is the assumption in sentence: "What is the most popular sport in the world
+
+input yn question: when did the bible come to south africa
+answer to yn question: all_valid
+generated wh question: "The bible came to south africa."
+
+#What is the assumption in sentence: "When did the bible come to south africa"
+
+input yn question: when does rachel and ross get together suits
+answer to yn question: all_valid
+generated wh question: "Rachel and ross will get together in suits."
+#What is the assumption in sentence: "Who is the best actor in america
+
+input yn question: where in the bible does it say birthdays are wrong
+answer to yn question: has_invalid
+generated wh question: "Birthdays are wrong in the bible."
+#What is the assumption in sentence: "Where in the bible does it say birthdays are
+
+input yn question: when does michael cordero die in jane the virgin
+answer to yn question: all_valid
+generated wh question: "Michael cordero will die in jane the virgin."
+#What is the assumption in sentence: "How many miles is the world record for the
+
+input yn question: what does o stand for on the periodic table
+answer to yn question: all_valid
+generated wh question: "O stand for something on the periodic table."
+#What is the assumption in sentence: "What does the word ubiquitous mean?" => #
+
+input yn question: who is a in season 7 of pretty little liars
+answer to yn question: all_valid
+generated wh question: "Pretty little liars has a season 7."
+#What is the assumption in sentence: "Who is the best kpop group" => #
+
+input yn question: when does the hills start in 2020
+answer to yn question: has_invalid
+generated wh question: "The hills start in 2020."
+#What is the assumption in sentence: "When does the hills start in 2021
+
+input yn question: which us president killed saddam hussein
+answer to yn question: has_invalid
+generated wh question: "Saddam hussein was killed by US president."
+#What is the assumption in sentence: "What is the biggest fruit in the world" =>
+
+input yn question: who won medals for india in olympics 2021
+answer to yn question: all_valid
+generated wh question: "India won medals in olympics 2021."
+#What is the assumption in sentence: "What is the difference between a sh
+
+input yn question: when did they write the preamble
+answer to yn question: has_invalid
+generated wh question: "They wrote the preamble before."
+#What is the assumption in sentence: "What is the most famous french film?" => #assumption
+
+input yn question: who was the first american woman on the moon
+answer to yn question: has_invalid
+generated wh question: "There was an american woman on the moon."
+#What is the assumption in sentence: "What is the most popular country in the world?" =>
+
+input yn question: when does the movie eternals come out on hbo max
+answer to yn question: has_invalid
+generated wh question: "The movie eternals will come out on hbo max."
+#What is the assumption in sentence: "How long is the movie eternals
+
+input yn question: when did the san andreas fault last erupt
+answer to yn question: has_invalid
+generated wh question: "San andreas fault erupted before."
+
+#What is the assumption in sentence: "What is the capital of Brazil" => #assumption
+
+input yn question: when did gods live on earth
+answer to yn question: has_invalid
+generated wh question: "Gods lived on earth."
+#What is the assumption in sentence: "How many cities are in the state of Illinois" => #assumption:
+
+input yn question: who owns the means of production in a capitalist system
+answer to yn question: all_valid
+generated wh question: "A capitalist system has the means of production."
+#What is the assumption in sentence: "Who is the richest person in the world" =>
+
+input yn question: when did the browns win the super bowl
+answer to yn question: has_invalid
+generated wh question: "Browns won the super bowl before."
+#What is the assumption in sentence: "When was the first super bowl" => #ass
+
+input yn question: when did puerto rico gain its independence from the united states
+answer to yn question: has_invalid
+generated wh question: "Puerto rico is a country."
+#What is the assumption in sentence: "What is the best way to grow a mango tree?" =>
+
+input yn question: how many jehovah witnesses go to heaven
+answer to yn question: all_valid
+generated wh question: "Jehovah witnesses go to heaven."
+#What is the assumption in sentence: "How many bible verses are in the bible"
+
+input yn question: who won the fight of the alamo
+answer to yn question: all_valid
+generated wh question: "The alamo has a fight."
+#What is the assumption in sentence: "What is the difference between a man and a woman" => #ass
+
+input yn question: when did west virginia became its own state
+answer to yn question: all_valid
+generated wh question: "West virginia became its own state before."
+#What is the assumption in sentence: "What is the difference between a lion and a t
+
+input yn question: where in the bible does it say yoga is a sin
+answer to yn question: has_invalid
+generated wh question: "The bible says yoga is a sin."
+#What is the assumption in sentence: "What is the fastest way to get rid of a
+
+input yn question: when did the bible say jesus was born
+answer to yn question: has_invalid
+generated wh question: "The bible said jesus was born."
+#What is the assumption in sentence: "What is the average age of a child in the world
+
+input yn question: where did top gear leave cars in india
+answer to yn question: all_valid
+generated wh question: "Top gear left cars in india."
+#What is the assumption in sentence: "Who is the tallest person in the world" => #
+
+input yn question: what kind of cars are in cars
+answer to yn question: all_valid
+generated wh question: "There are some kind of cars."
+#What is the assumption in sentence: "What is the most common sport that trees do?" => #assumption
+
+input yn question: who won medals for ireland in the olympics 2021
+answer to yn question: all_valid
+generated wh question: "Ireland won medals in the olympics 2021."
+#What is the assumption in sentence: "How many people died in the
+
+input yn question: how many great white sharks are in captivity
+answer to yn question: has_invalid
+generated wh question: "There are great white sharks in captivity."
+#What is the assumption in sentence: "What is the most expensive fruit?" => #assumption
+
+input yn question: where was national lampoon's christmas vacation filmed wally world
+answer to yn question: all_valid
+generated wh question: "Wally world is a place."
+#What is the assumption in sentence: "What are the foods that are healthy for your body?" =>
+
+input yn question: why did france declare war on britain in 1778
+answer to yn question: all_valid
+generated wh question: "France declared war on britain in 1778."
+#What is the assumption in sentence: "What is the difference between a weas
+
+input yn question: when does attack on titan season 4 end
+answer to yn question: all_valid
+generated wh question: "Attack on titan season 4 will end."
+#What is the assumption in sentence: "When does attack on titan season 4 come
+
+input yn question: where is the plane that crashed into the pentagon
+answer to yn question: has_invalid
+generated wh question: "There is a plane that crashed into the pentagon."
+#What is the assumption in sentence: "Why is the flag of america red white
+
+input yn question: when does quinn come back to glee in season 3
+answer to yn question: all_valid
+generated wh question: "Quinn will come back to glee in season 3."
+#What is the assumption in sentence: "What is the best way to get a
