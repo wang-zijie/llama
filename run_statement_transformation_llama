@@ -1,0 +1,54 @@
+#!/bin/bash
+
+
+#SBATCH -N 1                        # number of compute nodes
+#SBATCH -n 8                       # number of tasks your job will spawn
+#BATCH --mem=32G                 # amount of system memory requested
+
+#SBATCH -p lsankargpu3       #mrlinegpu2   #lsankargpu3                      # Use gpu partition
+#SBATCH -q wildfire           # Run job under wildfire QOS queue
+
+#SBATCH --gres=gpu:A100:1               # Request two GPUs
+
+#SBATCH -t 0-4:00                  # wall time (D-HH:MM)
+#SBATCH -o slurm.%j.out             # STDOUT (%j = JobId)
+#SBATCH -e slurm.%j.err             # STDERR (%j = JobId)
+#SBATCH --mail-type=ALL             # Send a notification when a job starts, stops, or fails
+#SBATCH --mail-user=zwang578@asu.edu # send-to address
+
+
+module purge    # Always purge modules to ensure a consistent environment
+module load rclone/1.43
+
+source activate NLP
+#echo "run finetune bert base new data balance"
+
+cd /scratch/zwang578/llama
+
+torchrun --nproc_per_node 1 questionableQA_statement_transformation_llm_prompt.py \
+    --ckpt_dir llama-2-7b/ \
+    --test_dataset  crepe \
+    --tokenizer_path tokenizer.model \
+    --few_shot_number 16 \
+    --max_seq_len 1024 \
+    --max_gen_len 32 \
+    --max_batch_size 16
+
+
+torchrun --nproc_per_node 1 questionableQA_statement_transformation_llm_prompt.py \
+    --ckpt_dir llama-2-7b/ \
+    --test_dataset  falseqa \
+    --tokenizer_path tokenizer.model \
+    --few_shot_number 16 \
+    --max_seq_len 1024 \
+    --max_gen_len 32 \
+    --max_batch_size 16
+
+torchrun --nproc_per_node 1 questionableQA_statement_transformation_llm_prompt.py \
+    --ckpt_dir llama-2-7b/ \
+    --test_dataset  qa2 \
+    --tokenizer_path tokenizer.model \
+    --few_shot_number 16 \
+    --max_seq_len 1024 \
+    --max_gen_len 32 \
+    --max_batch_size 16
